@@ -1,8 +1,13 @@
 {
   "originalFilesExpected": 83,
-  "pdfFilesExpected": 1,
-  "mp3FilesExpected": 82,
-  "originalMediaCopied": false,
-  "status": "Preparing authorized original-media export; only manifest and page images are currently included",
-  "privateUserDatabaseIncluded": false
+  "originalFilesIncluded": 83,
+  "pdfFilesIncluded": 1,
+  "mp3FilesIncluded": 82,
+  "originalMediaCopied": true,
+  "originalBytes": 149442953,
+  "allOriginalHashesVerified": true,
+  "pdfStoredAsVerifiedParts": true,
+  "restoreCommand": "python scripts/restore-original-media.py",
+  "privateUserDatabaseIncluded": false,
+  "secretsIncluded": false
 }

@@ -43,3 +43,6 @@ yarn-error.log*
 
 # OS metadata
 .DS_Store
+
+# Reconstructed originals are already stored as verified media objects
+/media/restored/

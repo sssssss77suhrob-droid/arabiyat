@@ -5,7 +5,10 @@ O‘zbek tilida interaktiv arab tili o‘rganish platformasi. Bu repository mavj
 ## Avval o‘qing
 
 - [Yangi ChatGPT uchun to‘liq yo‘riqnoma](docs/CONTINUE_IN_UZBEK.md)
+- [Alohida hisobda Sites bilan ishga tushirish](docs/NEW_ACCOUNT_SITES.md)
 - [Hosting va ma’lumotlarni ko‘chirish](docs/MIGRATION.md)
+- [To‘liq loyiha rejasi va tarix](docs/PROJECT_PLAN.md)
+- [Asl kitob/audio paketlari](media/README.md)
 - [Manba kelib chiqishi](source-provenance.json)
 
 ## Hozirgi haqiqiy kontent
@@ -17,7 +20,7 @@ O‘zbek tilida interaktiv arab tili o‘rganish platformasi. Bu repository mavj
 - Bosib turishda kichik markaziy shaffof tarjima, bo‘yash, saqlash; nuqtali qalam va qisman artadigan o‘chirg‘ich.
 - Hisobga alohida qayd/natija/lug‘at; oltita mashq usuli, flashcard va takrorlash.
 
-Original PDF/MP3 baytlari holatini `media/TRANSFER_STATUS.json` dan tekshiring. `lib/a0/assets.json` — 83 original faylning o‘lcham/hash/kalit manifesti; manifestning o‘zi media fayllari emas. Foydalanuvchilarning D1 yozuvlari va maxfiy kalitlari public repositoryga kiritilmaydi.
+**Original PDF va82MP3 to‘liq kiritilgan.** PDF qismlarini tiklash va83originalni tekshirish: `python scripts/restore-original-media.py`. Holat `media/TRANSFER_STATUS.json` da. `lib/a0/assets.json` — 83 original faylning o‘lcham/hash/kalit manifesti; manifestning o‘zi media fayllari emas. Foydalanuvchilarning D1 yozuvlari va maxfiy kalitlari public repositoryga kiritilmaydi.
 
 ## Muhim qarorlar
 

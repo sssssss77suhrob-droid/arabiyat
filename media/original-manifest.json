@@ -1,0 +1,1321 @@
+{
+  "formatVersion": 1,
+  "originalFiles": 83,
+  "pdfFiles": 1,
+  "mp3Files": 82,
+  "totalOriginalBytes": 149442953,
+  "originalHashesVerified": true,
+  "restoreCommand": "python scripts/restore-original-media.py",
+  "files": [
+    {
+      "id": "de8e7048-f621-590e-ac90-9c18cfc39e13",
+      "key": "content/de8e7048-f621-590e-ac90-9c18cfc39e13",
+      "name": "المنهج العالمي المستوي التمهيدي.pdf",
+      "size": 57317708,
+      "mime": "application/pdf",
+      "sha256": "a8a2fbd6cb136c03716ed2220299700feab007619b26cb4293741c3ba6321a95",
+      "parts": [
+        {
+          "path": "media/pdf/a0-book.part-000.bin",
+          "size": 4194304,
+          "sha256": "e980351568e327206ba603155298a5cb4e4d828cc9098092af5acf55d48302cc"
+        },
+        {
+          "path": "media/pdf/a0-book.part-001.bin",
+          "size": 4194304,
+          "sha256": "404c4f6f6664f359f6add23af103c9f342ac9b935def3de0ac6daddf4b6dc443"
+        },
+        {
+          "path": "media/pdf/a0-book.part-002.bin",
+          "size": 4194304,
+          "sha256": "cd350959a9898b4910385210a18ed8e919627b5219e3729798486719707b623c"
+        },
+        {
+          "path": "media/pdf/a0-book.part-003.bin",
+          "size": 4194304,
+          "sha256": "79420fdaa6da8e0b4dc53d905e7a8a2307d323a874d4c71f66246fc59b46a07f"
+        },
+        {
+          "path": "media/pdf/a0-book.part-004.bin",
+          "size": 4194304,
+          "sha256": "c6bfbfbef34acc194c78ecf33416ff846158a7a923348c4ed438a8040ce3cb8c"
+        },
+        {
+          "path": "media/pdf/a0-book.part-005.bin",
+          "size": 4194304,
+          "sha256": "3b7493646248b021851972a8d6804f51e192cf524efa2767dc308f74baf5a4b8"
+        },
+        {
+          "path": "media/pdf/a0-book.part-006.bin",
+          "size": 4194304,
+          "sha256": "f2411647ca9dd0f2759c774f5d04c1668ad1adb559552428f157986163d83419"
+        },
+        {
+          "path": "media/pdf/a0-book.part-007.bin",
+          "size": 4194304,
+          "sha256": "a506834f8efe4d7b10f0f3af66c168901cd9b5d0a47ac7a473f4dd1144ecd205"
+        },
+        {
+          "path": "media/pdf/a0-book.part-008.bin",
+          "size": 4194304,
+          "sha256": "01bb324660d5378fdb18207eff5870c564a0f458f5d42ef56363d11c3590fa85"
+        },
+        {
+          "path": "media/pdf/a0-book.part-009.bin",
+          "size": 4194304,
+          "sha256": "2ee73f955d4b46919881c5b90c7b0f229584eba3c9f71d0426df0ea4db9c6817"
+        },
+        {
+          "path": "media/pdf/a0-book.part-010.bin",
+          "size": 4194304,
+          "sha256": "278dee53a8096f7c1b52a593c20b70d7d673cb553819ee8391dc2b531831955d"
+        },
+        {
+          "path": "media/pdf/a0-book.part-011.bin",
+          "size": 4194304,
+          "sha256": "321e99cda8f7bfc4446e9f52a59cd8ef4d5203eb642a63e5ac2f58b72138eef0"
+        },
+        {
+          "path": "media/pdf/a0-book.part-012.bin",
+          "size": 4194304,
+          "sha256": "1fe7d1c5b778dcb1d725a5a0fc7f62dd42124e966d27c840e09d8081552ab29b"
+        },
+        {
+          "path": "media/pdf/a0-book.part-013.bin",
+          "size": 2791756,
+          "sha256": "5f7616994bc8c428267a2ddd7a3d674ebecc4b64192191eea0e6048e8ab42842"
+        }
+      ]
+    },
+    {
+      "id": "ef7c32d2-b1b0-5bbe-b37b-1e9fea970d61",
+      "key": "content/ef7c32d2-b1b0-5bbe-b37b-1e9fea970d61",
+      "name": "السلام عليكم.mp3",
+      "size": 498948,
+      "mime": "audio/mpeg",
+      "sha256": "85725bdb637834b678b6a3f10100ea7740556aefa0600ae12aab4273d5700477",
+      "parts": [
+        {
+          "path": "media/audio/ef7c32d2-b1b0-5bbe-b37b-1e9fea970d61.mp3",
+          "size": 498948,
+          "sha256": "85725bdb637834b678b6a3f10100ea7740556aefa0600ae12aab4273d5700477"
+        }
+      ]
+    },
+    {
+      "id": "4069a9df-7b10-5f01-a895-58cfef8066f4",
+      "key": "content/4069a9df-7b10-5f01-a895-58cfef8066f4",
+      "name": "حرف الألف.mp3",
+      "size": 1869829,
+      "mime": "audio/mpeg",
+      "sha256": "284c1585fd2dd73d80dcbe1b339f01976b3e7c82cb1949a8e0c652c726cbd45f",
+      "parts": [
+        {
+          "path": "media/audio/4069a9df-7b10-5f01-a895-58cfef8066f4.mp3",
+          "size": 1869829,
+          "sha256": "284c1585fd2dd73d80dcbe1b339f01976b3e7c82cb1949a8e0c652c726cbd45f"
+        }
+      ]
+    },
+    {
+      "id": "66ec7f3f-a319-505a-8c10-7a97ccf4849f",
+      "key": "content/66ec7f3f-a319-505a-8c10-7a97ccf4849f",
+      "name": "التنوين.mp3",
+      "size": 951094,
+      "mime": "audio/mpeg",
+      "sha256": "e92e46ac952b238d157384441fc78ba9333135f83415cd1edb9a80c1f7c2bd31",
+      "parts": [
+        {
+          "path": "media/audio/66ec7f3f-a319-505a-8c10-7a97ccf4849f.mp3",
+          "size": 951094,
+          "sha256": "e92e46ac952b238d157384441fc78ba9333135f83415cd1edb9a80c1f7c2bd31"
+        }
+      ]
+    },
+    {
+      "id": "8eafb92a-4202-5227-a3fa-a0877006bf41",
+      "key": "content/8eafb92a-4202-5227-a3fa-a0877006bf41",
+      "name": "كلمات مشهورة 1.mp3",
+      "size": 3687489,
+      "mime": "audio/mpeg",
+      "sha256": "8899d379242a1db44daa3b7fee6dc214a5287a39e69ee1174b65152accf17ad2",
+      "parts": [
+        {
+          "path": "media/audio/8eafb92a-4202-5227-a3fa-a0877006bf41.mp3",
+          "size": 3687489,
+          "sha256": "8899d379242a1db44daa3b7fee6dc214a5287a39e69ee1174b65152accf17ad2"
+        }
+      ]
+    },
+    {
+      "id": "0d0cee25-96c9-5736-b61a-c16f6f7e1e79",
+      "key": "content/0d0cee25-96c9-5736-b61a-c16f6f7e1e79",
+      "name": "الحروف بالحركات القصيرة.mp3",
+      "size": 1848806,
+      "mime": "audio/mpeg",
+      "sha256": "e1301ddbef25589946a65e445ec4b132bbe4a7863471c93bfb1525483978167c",
+      "parts": [
+        {
+          "path": "media/audio/0d0cee25-96c9-5736-b61a-c16f6f7e1e79.mp3",
+          "size": 1848806,
+          "sha256": "e1301ddbef25589946a65e445ec4b132bbe4a7863471c93bfb1525483978167c"
+        }
+      ]
+    },
+    {
+      "id": "ab7f3e3c-491e-5032-9bda-153e597d91a8",
+      "key": "content/ab7f3e3c-491e-5032-9bda-153e597d91a8",
+      "name": "الحروف بالحركات الطويلة.mp3",
+      "size": 2437110,
+      "mime": "audio/mpeg",
+      "sha256": "0a4dba4f359e9f8fa6bcb3f7b77749aac293634246306ce170353159f89293e6",
+      "parts": [
+        {
+          "path": "media/audio/ab7f3e3c-491e-5032-9bda-153e597d91a8.mp3",
+          "size": 2437110,
+          "sha256": "0a4dba4f359e9f8fa6bcb3f7b77749aac293634246306ce170353159f89293e6"
+        }
+      ]
+    },
+    {
+      "id": "6d735c78-c1a3-5638-a31a-bbdc213cc09a",
+      "key": "content/6d735c78-c1a3-5638-a31a-bbdc213cc09a",
+      "name": "حرف الباء.mp3",
+      "size": 1277450,
+      "mime": "audio/mpeg",
+      "sha256": "6df721d1cde84a252def14708336d4490ba745410c47035e7dbd55063e9c50d2",
+      "parts": [
+        {
+          "path": "media/audio/6d735c78-c1a3-5638-a31a-bbdc213cc09a.mp3",
+          "size": 1277450,
+          "sha256": "6df721d1cde84a252def14708336d4490ba745410c47035e7dbd55063e9c50d2"
+        }
+      ]
+    },
+    {
+      "id": "5f6022ae-9ad1-524a-a7ad-2f16b178eda0",
+      "key": "content/5f6022ae-9ad1-524a-a7ad-2f16b178eda0",
+      "name": "حرف التاء).mp3",
+      "size": 1271359,
+      "mime": "audio/mpeg",
+      "sha256": "64ec54378a6ef6b3108c24d82ee819d2307383439ef46c988668dbf759217fc6",
+      "parts": [
+        {
+          "path": "media/audio/5f6022ae-9ad1-524a-a7ad-2f16b178eda0.mp3",
+          "size": 1271359,
+          "sha256": "64ec54378a6ef6b3108c24d82ee819d2307383439ef46c988668dbf759217fc6"
+        }
+      ]
+    },
+    {
+      "id": "54d12d06-e8b5-53b8-9279-ce3039e3d266",
+      "key": "content/54d12d06-e8b5-53b8-9279-ce3039e3d266",
+      "name": "حرف الثاء.mp3",
+      "size": 1281321,
+      "mime": "audio/mpeg",
+      "sha256": "a5abea8305edb83230c097a7eb33b62183c6b3c2072f5d4a2087ef4946661a78",
+      "parts": [
+        {
+          "path": "media/audio/54d12d06-e8b5-53b8-9279-ce3039e3d266.mp3",
+          "size": 1281321,
+          "sha256": "a5abea8305edb83230c097a7eb33b62183c6b3c2072f5d4a2087ef4946661a78"
+        }
+      ]
+    },
+    {
+      "id": "4e5340fe-5e9d-5c8a-8809-bfaa89b6ce2c",
+      "key": "content/4e5340fe-5e9d-5c8a-8809-bfaa89b6ce2c",
+      "name": "صباح الخير.mp3",
+      "size": 194008,
+      "mime": "audio/mpeg",
+      "sha256": "c5d9a96b4a25c6b22f549311f709153390f70b83f1432835ff3c68f3cf84eb79",
+      "parts": [
+        {
+          "path": "media/audio/4e5340fe-5e9d-5c8a-8809-bfaa89b6ce2c.mp3",
+          "size": 194008,
+          "sha256": "c5d9a96b4a25c6b22f549311f709153390f70b83f1432835ff3c68f3cf84eb79"
+        }
+      ]
+    },
+    {
+      "id": "f084c62d-5221-5737-8aec-18b9acf3ceb9",
+      "key": "content/f084c62d-5221-5737-8aec-18b9acf3ceb9",
+      "name": "الحروف بالحركات الطويلة  أ  ب  ت  ث.mp3",
+      "size": 2404600,
+      "mime": "audio/mpeg",
+      "sha256": "6a819a4c10321d2339079684858a5320ac75272400b6c7a4ca2df3a2e784f5bd",
+      "parts": [
+        {
+          "path": "media/audio/f084c62d-5221-5737-8aec-18b9acf3ceb9.mp3",
+          "size": 2404600,
+          "sha256": "6a819a4c10321d2339079684858a5320ac75272400b6c7a4ca2df3a2e784f5bd"
+        }
+      ]
+    },
+    {
+      "id": "c8aebb4d-6382-5636-8506-8a495e6f52fc",
+      "key": "content/c8aebb4d-6382-5636-8506-8a495e6f52fc",
+      "name": "صباح الخير2.mp3",
+      "size": 249984,
+      "mime": "audio/mpeg",
+      "sha256": "f58e0d4d3a22a15eba86b317a9ec6d03874da764969ccd6e1728448b9ac5979b",
+      "parts": [
+        {
+          "path": "media/audio/c8aebb4d-6382-5636-8506-8a495e6f52fc.mp3",
+          "size": 249984,
+          "sha256": "f58e0d4d3a22a15eba86b317a9ec6d03874da764969ccd6e1728448b9ac5979b"
+        }
+      ]
+    },
+    {
+      "id": "e878e6a1-96ad-50a5-86f1-5a1a179a11b6",
+      "key": "content/e878e6a1-96ad-50a5-86f1-5a1a179a11b6",
+      "name": "الأصوات المتشابهة (أــ ع).mp3",
+      "size": 1510429,
+      "mime": "audio/mpeg",
+      "sha256": "b1edfd8b3a8927d713fac5b539a205fee36feeee810596b3aba3150e33deeb16",
+      "parts": [
+        {
+          "path": "media/audio/e878e6a1-96ad-50a5-86f1-5a1a179a11b6.mp3",
+          "size": 1510429,
+          "sha256": "b1edfd8b3a8927d713fac5b539a205fee36feeee810596b3aba3150e33deeb16"
+        }
+      ]
+    },
+    {
+      "id": "1705d5ff-95a1-5c20-b52d-67e8c3e3d3ee",
+      "key": "content/1705d5ff-95a1-5c20-b52d-67e8c3e3d3ee",
+      "name": "حرف الحاء.mp3",
+      "size": 1454475,
+      "mime": "audio/mpeg",
+      "sha256": "505a9ebd9b632b1c52ae707baf1f52c0d0e70c007ac6072e82f20143a8a2f787",
+      "parts": [
+        {
+          "path": "media/audio/1705d5ff-95a1-5c20-b52d-67e8c3e3d3ee.mp3",
+          "size": 1454475,
+          "sha256": "505a9ebd9b632b1c52ae707baf1f52c0d0e70c007ac6072e82f20143a8a2f787"
+        }
+      ]
+    },
+    {
+      "id": "db0422cd-fc62-58c4-a575-ad13a10be2be",
+      "key": "content/db0422cd-fc62-58c4-a575-ad13a10be2be",
+      "name": "حرف الجيم.mp3",
+      "size": 1617451,
+      "mime": "audio/mpeg",
+      "sha256": "44c927ba09cc7334f173ec25db315b22d0956b8bd462ae0353be07bded0f1bd4",
+      "parts": [
+        {
+          "path": "media/audio/db0422cd-fc62-58c4-a575-ad13a10be2be.mp3",
+          "size": 1617451,
+          "sha256": "44c927ba09cc7334f173ec25db315b22d0956b8bd462ae0353be07bded0f1bd4"
+        }
+      ]
+    },
+    {
+      "id": "e33b252e-0483-5f3c-bd34-d7c3142ee0d1",
+      "key": "content/e33b252e-0483-5f3c-bd34-d7c3142ee0d1",
+      "name": "حرف الخاء.mp3",
+      "size": 1289921,
+      "mime": "audio/mpeg",
+      "sha256": "bd52f45abbfa6d0698db1daf25192b201ce4fe71255e9a8591a86b03d38dbd9f",
+      "parts": [
+        {
+          "path": "media/audio/e33b252e-0483-5f3c-bd34-d7c3142ee0d1.mp3",
+          "size": 1289921,
+          "sha256": "bd52f45abbfa6d0698db1daf25192b201ce4fe71255e9a8591a86b03d38dbd9f"
+        }
+      ]
+    },
+    {
+      "id": "9eefa8a7-cdc5-5a21-887b-a7b8f20b35a2",
+      "key": "content/9eefa8a7-cdc5-5a21-887b-a7b8f20b35a2",
+      "name": "مساء الخير.mp3",
+      "size": 242785,
+      "mime": "audio/mpeg",
+      "sha256": "6dd790de374101d386f6d8969c51576dea364ae819ca0f2c93e33a2976b60ad0",
+      "parts": [
+        {
+          "path": "media/audio/9eefa8a7-cdc5-5a21-887b-a7b8f20b35a2.mp3",
+          "size": 242785,
+          "sha256": "6dd790de374101d386f6d8969c51576dea364ae819ca0f2c93e33a2976b60ad0"
+        }
+      ]
+    },
+    {
+      "id": "db47478a-eec4-5fe5-b63d-99e89c742815",
+      "key": "content/db47478a-eec4-5fe5-b63d-99e89c742815",
+      "name": "الحروف بالحركات الطويلة حرف الجيم والحاء والخاء.mp3",
+      "size": 2044748,
+      "mime": "audio/mpeg",
+      "sha256": "a71b9c83d3d13cd61eb42d3e5c7d3564a49251872f66e3636af32f104e652b24",
+      "parts": [
+        {
+          "path": "media/audio/db47478a-eec4-5fe5-b63d-99e89c742815.mp3",
+          "size": 2044748,
+          "sha256": "a71b9c83d3d13cd61eb42d3e5c7d3564a49251872f66e3636af32f104e652b24"
+        }
+      ]
+    },
+    {
+      "id": "6bd7b94e-9a40-5ade-8306-35c027c5d58b",
+      "key": "content/6bd7b94e-9a40-5ade-8306-35c027c5d58b",
+      "name": "الأصوات المتشابهه(ح__هـ).mp3",
+      "size": 1410553,
+      "mime": "audio/mpeg",
+      "sha256": "a595528c44546cb9db532a16dfdd0d80149aaa574e7abdb72a02b4e5b0bd86d9",
+      "parts": [
+        {
+          "path": "media/audio/6bd7b94e-9a40-5ade-8306-35c027c5d58b.mp3",
+          "size": 1410553,
+          "sha256": "a595528c44546cb9db532a16dfdd0d80149aaa574e7abdb72a02b4e5b0bd86d9"
+        }
+      ]
+    },
+    {
+      "id": "74d6538d-e2f3-5f69-89e6-bf954c214baf",
+      "key": "content/74d6538d-e2f3-5f69-89e6-bf954c214baf",
+      "name": "مساء الخير2.mp3",
+      "size": 271104,
+      "mime": "audio/mpeg",
+      "sha256": "da41d9633ca619c6c5611cb40b0d10baeb186c1371f851f241ee56cb56c55ef0",
+      "parts": [
+        {
+          "path": "media/audio/74d6538d-e2f3-5f69-89e6-bf954c214baf.mp3",
+          "size": 271104,
+          "sha256": "da41d9633ca619c6c5611cb40b0d10baeb186c1371f851f241ee56cb56c55ef0"
+        }
+      ]
+    },
+    {
+      "id": "6800f969-067f-5b0d-9b96-5a736da97d69",
+      "key": "content/6800f969-067f-5b0d-9b96-5a736da97d69",
+      "name": "حرف الدال.mp3",
+      "size": 1700970,
+      "mime": "audio/mpeg",
+      "sha256": "04c02c02105e6d7e76f9bf1bd769d1ea85ea901e477d3438654915bdfa0e6ac4",
+      "parts": [
+        {
+          "path": "media/audio/6800f969-067f-5b0d-9b96-5a736da97d69.mp3",
+          "size": 1700970,
+          "sha256": "04c02c02105e6d7e76f9bf1bd769d1ea85ea901e477d3438654915bdfa0e6ac4"
+        }
+      ]
+    },
+    {
+      "id": "8ae382bd-889f-5eac-a605-37e8b89d6417",
+      "key": "content/8ae382bd-889f-5eac-a605-37e8b89d6417",
+      "name": "حرف الذال.mp3",
+      "size": 1345168,
+      "mime": "audio/mpeg",
+      "sha256": "2b545dd7bc9d076c78398e091e4afdbdba066a4e70089c060e4c0a1caf53b398",
+      "parts": [
+        {
+          "path": "media/audio/8ae382bd-889f-5eac-a605-37e8b89d6417.mp3",
+          "size": 1345168,
+          "sha256": "2b545dd7bc9d076c78398e091e4afdbdba066a4e70089c060e4c0a1caf53b398"
+        }
+      ]
+    },
+    {
+      "id": "10cd8fe1-a5e2-5de7-90ae-368debb9a89f",
+      "key": "content/10cd8fe1-a5e2-5de7-90ae-368debb9a89f",
+      "name": "الحروف بالحركات الطويلة حرف الدال .والذال.mp3",
+      "size": 894835,
+      "mime": "audio/mpeg",
+      "sha256": "deb37e3b162ec7a25c931ac5cea45fb6ae6f2de92562f794ab543640a7e20802",
+      "parts": [
+        {
+          "path": "media/audio/10cd8fe1-a5e2-5de7-90ae-368debb9a89f.mp3",
+          "size": 894835,
+          "sha256": "deb37e3b162ec7a25c931ac5cea45fb6ae6f2de92562f794ab543640a7e20802"
+        }
+      ]
+    },
+    {
+      "id": "36782c94-ee25-59c1-b8e3-fd83652b49b4",
+      "key": "content/36782c94-ee25-59c1-b8e3-fd83652b49b4",
+      "name": "الأرقام.mp3",
+      "size": 469953,
+      "mime": "audio/mpeg",
+      "sha256": "c363b9739ea9eecaba9ca883763b13ff4c017280740deef2df359ecdbe5b58ff",
+      "parts": [
+        {
+          "path": "media/audio/36782c94-ee25-59c1-b8e3-fd83652b49b4.mp3",
+          "size": 469953,
+          "sha256": "c363b9739ea9eecaba9ca883763b13ff4c017280740deef2df359ecdbe5b58ff"
+        }
+      ]
+    },
+    {
+      "id": "bfb24b5a-ba15-53e6-907f-788ef5bd0509",
+      "key": "content/bfb24b5a-ba15-53e6-907f-788ef5bd0509",
+      "name": "كم أخا لك؟.mp3",
+      "size": 380260,
+      "mime": "audio/mpeg",
+      "sha256": "efdf38375668f63836d42b0724b0f7b004754575f345987646216e50f607b187",
+      "parts": [
+        {
+          "path": "media/audio/bfb24b5a-ba15-53e6-907f-788ef5bd0509.mp3",
+          "size": 380260,
+          "sha256": "efdf38375668f63836d42b0724b0f7b004754575f345987646216e50f607b187"
+        }
+      ]
+    },
+    {
+      "id": "7d743ec6-d104-58fa-8224-609bd7e8762e",
+      "key": "content/7d743ec6-d104-58fa-8224-609bd7e8762e",
+      "name": "الأصوات المتشابهه(د__ت).mp3",
+      "size": 1229229,
+      "mime": "audio/mpeg",
+      "sha256": "807dffba30e166a51bb138462b45bdf707137315886ef2ceb96a1915add7dcf7",
+      "parts": [
+        {
+          "path": "media/audio/7d743ec6-d104-58fa-8224-609bd7e8762e.mp3",
+          "size": 1229229,
+          "sha256": "807dffba30e166a51bb138462b45bdf707137315886ef2ceb96a1915add7dcf7"
+        }
+      ]
+    },
+    {
+      "id": "90e68d57-6cbe-583b-a406-20d4076153fc",
+      "key": "content/90e68d57-6cbe-583b-a406-20d4076153fc",
+      "name": "حرف الراء.mp3",
+      "size": 1892811,
+      "mime": "audio/mpeg",
+      "sha256": "44e9d70b4f87b20c4e5c089edf53f2e7f8792f89de713202f2974e10428b5862",
+      "parts": [
+        {
+          "path": "media/audio/90e68d57-6cbe-583b-a406-20d4076153fc.mp3",
+          "size": 1892811,
+          "sha256": "44e9d70b4f87b20c4e5c089edf53f2e7f8792f89de713202f2974e10428b5862"
+        }
+      ]
+    },
+    {
+      "id": "2b4bb94a-ee25-539b-99e7-4a74c54d2e34",
+      "key": "content/2b4bb94a-ee25-539b-99e7-4a74c54d2e34",
+      "name": "كم الساعة الآن.mp3",
+      "size": 269235,
+      "mime": "audio/mpeg",
+      "sha256": "d870cbfab4d3070d2a507fddc4d894b45c2b36535bb7b87ca920c6ad7051e5cb",
+      "parts": [
+        {
+          "path": "media/audio/2b4bb94a-ee25-539b-99e7-4a74c54d2e34.mp3",
+          "size": 269235,
+          "sha256": "d870cbfab4d3070d2a507fddc4d894b45c2b36535bb7b87ca920c6ad7051e5cb"
+        }
+      ]
+    },
+    {
+      "id": "c158b3b9-750f-5f81-bfec-589fc53bd06a",
+      "key": "content/c158b3b9-750f-5f81-bfec-589fc53bd06a",
+      "name": "حرف الزاي.mp3",
+      "size": 2015647,
+      "mime": "audio/mpeg",
+      "sha256": "2a33b653f12f3e9737704a8b0492a1e818ba3ad4ecb6adc7801e324b8a56d015",
+      "parts": [
+        {
+          "path": "media/audio/c158b3b9-750f-5f81-bfec-589fc53bd06a.mp3",
+          "size": 2015647,
+          "sha256": "2a33b653f12f3e9737704a8b0492a1e818ba3ad4ecb6adc7801e324b8a56d015"
+        }
+      ]
+    },
+    {
+      "id": "2763e7d6-e1d7-597d-8112-55918ce9084c",
+      "key": "content/2763e7d6-e1d7-597d-8112-55918ce9084c",
+      "name": "الحروف بالحركات الطويلة حرف الراء والزاي.mp3",
+      "size": 1707835,
+      "mime": "audio/mpeg",
+      "sha256": "3a5e27437e134ba7731cac3061e668af83eb5690492945883f90fbf1bd315cfd",
+      "parts": [
+        {
+          "path": "media/audio/2763e7d6-e1d7-597d-8112-55918ce9084c.mp3",
+          "size": 1707835,
+          "sha256": "3a5e27437e134ba7731cac3061e668af83eb5690492945883f90fbf1bd315cfd"
+        }
+      ]
+    },
+    {
+      "id": "f411501a-1d44-51ab-8136-2acea64bd27a",
+      "key": "content/f411501a-1d44-51ab-8136-2acea64bd27a",
+      "name": "كم الساعة الآن؟2.mp3",
+      "size": 307200,
+      "mime": "audio/mpeg",
+      "sha256": "9be0b1e64bfc13cc4ff507d8920330775a1955247134ff3d3e8325f3eac19537",
+      "parts": [
+        {
+          "path": "media/audio/f411501a-1d44-51ab-8136-2acea64bd27a.mp3",
+          "size": 307200,
+          "sha256": "9be0b1e64bfc13cc4ff507d8920330775a1955247134ff3d3e8325f3eac19537"
+        }
+      ]
+    },
+    {
+      "id": "aa289522-47fe-5725-adcb-f5f9ecdc58b5",
+      "key": "content/aa289522-47fe-5725-adcb-f5f9ecdc58b5",
+      "name": "الأصوات المتشابهة (زــ ذ).mp3",
+      "size": 1190268,
+      "mime": "audio/mpeg",
+      "sha256": "579e2b4ae2148e09a9fc8d1829f77c851e51da77abac5275878d5bc27764e041",
+      "parts": [
+        {
+          "path": "media/audio/aa289522-47fe-5725-adcb-f5f9ecdc58b5.mp3",
+          "size": 1190268,
+          "sha256": "579e2b4ae2148e09a9fc8d1829f77c851e51da77abac5275878d5bc27764e041"
+        }
+      ]
+    },
+    {
+      "id": "ac4d6966-9ee2-5588-8bc3-86620214de20",
+      "key": "content/ac4d6966-9ee2-5588-8bc3-86620214de20",
+      "name": "حرف الشين.mp3",
+      "size": 1637771,
+      "mime": "audio/mpeg",
+      "sha256": "51d7ea3051db66cf699eb7e6952c8feaf9c0f3f6625804f28088b6f873ee34e0",
+      "parts": [
+        {
+          "path": "media/audio/ac4d6966-9ee2-5588-8bc3-86620214de20.mp3",
+          "size": 1637771,
+          "sha256": "51d7ea3051db66cf699eb7e6952c8feaf9c0f3f6625804f28088b6f873ee34e0"
+        }
+      ]
+    },
+    {
+      "id": "d7631372-fd69-57a0-ac3a-19ea89f69e61",
+      "key": "content/d7631372-fd69-57a0-ac3a-19ea89f69e61",
+      "name": "الحروف بالحركات الطويلة حرف السين .والشين.mp3",
+      "size": 818921,
+      "mime": "audio/mpeg",
+      "sha256": "00ae04b4e65697fc0f441ce403c4ab12e27736742deae07ddb3ec78c76ba0e6c",
+      "parts": [
+        {
+          "path": "media/audio/d7631372-fd69-57a0-ac3a-19ea89f69e61.mp3",
+          "size": 818921,
+          "sha256": "00ae04b4e65697fc0f441ce403c4ab12e27736742deae07ddb3ec78c76ba0e6c"
+        }
+      ]
+    },
+    {
+      "id": "5b4fa042-95aa-5a48-a78f-621c11090cee",
+      "key": "content/5b4fa042-95aa-5a48-a78f-621c11090cee",
+      "name": "حرف السين.mp3",
+      "size": 1773995,
+      "mime": "audio/mpeg",
+      "sha256": "de953836c0a6ca639a9f0b75dcf0b4a27056e5f69e5ab236c8d3acc1798ad1ae",
+      "parts": [
+        {
+          "path": "media/audio/5b4fa042-95aa-5a48-a78f-621c11090cee.mp3",
+          "size": 1773995,
+          "sha256": "de953836c0a6ca639a9f0b75dcf0b4a27056e5f69e5ab236c8d3acc1798ad1ae"
+        }
+      ]
+    },
+    {
+      "id": "ca0b95e8-ee63-5649-b4ea-1f074c649f99",
+      "key": "content/ca0b95e8-ee63-5649-b4ea-1f074c649f99",
+      "name": "ماذا تعمل؟.mp3",
+      "size": 258042,
+      "mime": "audio/mpeg",
+      "sha256": "a9da0275513539f1c3a18afa671a41ff040cb8eb899645bad7db24d099e03ddd",
+      "parts": [
+        {
+          "path": "media/audio/ca0b95e8-ee63-5649-b4ea-1f074c649f99.mp3",
+          "size": 258042,
+          "sha256": "a9da0275513539f1c3a18afa671a41ff040cb8eb899645bad7db24d099e03ddd"
+        }
+      ]
+    },
+    {
+      "id": "d22c8c23-042d-58b3-b086-0523275fd0f5",
+      "key": "content/d22c8c23-042d-58b3-b086-0523275fd0f5",
+      "name": "ماذا تعملين؟.mp3",
+      "size": 409344,
+      "mime": "audio/mpeg",
+      "sha256": "4a29e14aed2ce8aba1b940795f98865a37ed4a5852990adc84877928f2dc0113",
+      "parts": [
+        {
+          "path": "media/audio/d22c8c23-042d-58b3-b086-0523275fd0f5.mp3",
+          "size": 409344,
+          "sha256": "4a29e14aed2ce8aba1b940795f98865a37ed4a5852990adc84877928f2dc0113"
+        }
+      ]
+    },
+    {
+      "id": "1afc7f70-302a-5953-aaf8-687aca27a90c",
+      "key": "content/1afc7f70-302a-5953-aaf8-687aca27a90c",
+      "name": "الأصوات المتشابهة (س__ث).mp3",
+      "size": 1183555,
+      "mime": "audio/mpeg",
+      "sha256": "4d0cf8f03e7366d72dc91a587fd66e1309e4d6a0b9bde4c7f4753e24f146034d",
+      "parts": [
+        {
+          "path": "media/audio/1afc7f70-302a-5953-aaf8-687aca27a90c.mp3",
+          "size": 1183555,
+          "sha256": "4d0cf8f03e7366d72dc91a587fd66e1309e4d6a0b9bde4c7f4753e24f146034d"
+        }
+      ]
+    },
+    {
+      "id": "43060679-6d5a-5fd4-849b-1c5a24b6074a",
+      "key": "content/43060679-6d5a-5fd4-849b-1c5a24b6074a",
+      "name": "حرف الصاد.mp3",
+      "size": 1897804,
+      "mime": "audio/mpeg",
+      "sha256": "2e32c0c5e37837b86b09a2332113011ecb18f01b143a3983166e0d724f077b9f",
+      "parts": [
+        {
+          "path": "media/audio/43060679-6d5a-5fd4-849b-1c5a24b6074a.mp3",
+          "size": 1897804,
+          "sha256": "2e32c0c5e37837b86b09a2332113011ecb18f01b143a3983166e0d724f077b9f"
+        }
+      ]
+    },
+    {
+      "id": "800d7149-bb2a-595f-aa07-bcbaeb97e891",
+      "key": "content/800d7149-bb2a-595f-aa07-bcbaeb97e891",
+      "name": "حرف الضاد.mp3",
+      "size": 1614598,
+      "mime": "audio/mpeg",
+      "sha256": "23df946230c13757686d6e81880f2b9108dfab37ef19f41d3c014528b8c112db",
+      "parts": [
+        {
+          "path": "media/audio/800d7149-bb2a-595f-aa07-bcbaeb97e891.mp3",
+          "size": 1614598,
+          "sha256": "23df946230c13757686d6e81880f2b9108dfab37ef19f41d3c014528b8c112db"
+        }
+      ]
+    },
+    {
+      "id": "d59d7c39-a7e4-5c76-a4be-d66b2140d759",
+      "key": "content/d59d7c39-a7e4-5c76-a4be-d66b2140d759",
+      "name": "ماذا تدرسُ؟.mp3",
+      "size": 260711,
+      "mime": "audio/mpeg",
+      "sha256": "4282b4f315141d7ac2f8a64c39c3a221e28db017cc323c9d6e46ccdd0ee1df57",
+      "parts": [
+        {
+          "path": "media/audio/d59d7c39-a7e4-5c76-a4be-d66b2140d759.mp3",
+          "size": 260711,
+          "sha256": "4282b4f315141d7ac2f8a64c39c3a221e28db017cc323c9d6e46ccdd0ee1df57"
+        }
+      ]
+    },
+    {
+      "id": "b69f5e47-efdf-568d-ad20-19985014147c",
+      "key": "content/b69f5e47-efdf-568d-ad20-19985014147c",
+      "name": "الحروف بالحركات الطويلة حرف الصاد والضاد.mp3",
+      "size": 1613277,
+      "mime": "audio/mpeg",
+      "sha256": "f4b85e967c096a8dcee696d9f4f4d2b59c082a0b7ebcdbbe1ee1a088d1f7f504",
+      "parts": [
+        {
+          "path": "media/audio/b69f5e47-efdf-568d-ad20-19985014147c.mp3",
+          "size": 1613277,
+          "sha256": "f4b85e967c096a8dcee696d9f4f4d2b59c082a0b7ebcdbbe1ee1a088d1f7f504"
+        }
+      ]
+    },
+    {
+      "id": "d326332d-d272-5fe6-a1a8-6f62d2ef6a4f",
+      "key": "content/d326332d-d272-5fe6-a1a8-6f62d2ef6a4f",
+      "name": "الأصوات المتشابهة (س ــ ص).mp3",
+      "size": 1185286,
+      "mime": "audio/mpeg",
+      "sha256": "75332227e42bef27c70d9e8bf5a4273b354a3e5d904fecd50a3326ccf7ef12e9",
+      "parts": [
+        {
+          "path": "media/audio/d326332d-d272-5fe6-a1a8-6f62d2ef6a4f.mp3",
+          "size": 1185286,
+          "sha256": "75332227e42bef27c70d9e8bf5a4273b354a3e5d904fecd50a3326ccf7ef12e9"
+        }
+      ]
+    },
+    {
+      "id": "79b2ca22-90dc-50e9-81f7-9a6325f94bd5",
+      "key": "content/79b2ca22-90dc-50e9-81f7-9a6325f94bd5",
+      "name": "ماذا تدرسين؟.mp3",
+      "size": 413952,
+      "mime": "audio/mpeg",
+      "sha256": "6ddf3e1aa828c8ebbd6c80dd010bf4168fad4094bcf7b786fe903f80db0df0b9",
+      "parts": [
+        {
+          "path": "media/audio/79b2ca22-90dc-50e9-81f7-9a6325f94bd5.mp3",
+          "size": 413952,
+          "sha256": "6ddf3e1aa828c8ebbd6c80dd010bf4168fad4094bcf7b786fe903f80db0df0b9"
+        }
+      ]
+    },
+    {
+      "id": "914d0ecd-2243-5ed5-bbb1-de3a41808ef5",
+      "key": "content/914d0ecd-2243-5ed5-bbb1-de3a41808ef5",
+      "name": "حرف الطاء.mp3",
+      "size": 1624766,
+      "mime": "audio/mpeg",
+      "sha256": "967741fbee2ce3dd2c0fc8cd9d3cf1c06a4e6e778ff2e5b25eaa9c08e72acbf7",
+      "parts": [
+        {
+          "path": "media/audio/914d0ecd-2243-5ed5-bbb1-de3a41808ef5.mp3",
+          "size": 1624766,
+          "sha256": "967741fbee2ce3dd2c0fc8cd9d3cf1c06a4e6e778ff2e5b25eaa9c08e72acbf7"
+        }
+      ]
+    },
+    {
+      "id": "d7dfc279-b47e-519d-95b9-02b035b399f4",
+      "key": "content/d7dfc279-b47e-519d-95b9-02b035b399f4",
+      "name": "حرف الظاء.mp3",
+      "size": 1496103,
+      "mime": "audio/mpeg",
+      "sha256": "6b974d539a6c65ef9c16b18296924cbfd700c9015993618e7b3c5fc9aa29aaf4",
+      "parts": [
+        {
+          "path": "media/audio/d7dfc279-b47e-519d-95b9-02b035b399f4.mp3",
+          "size": 1496103,
+          "sha256": "6b974d539a6c65ef9c16b18296924cbfd700c9015993618e7b3c5fc9aa29aaf4"
+        }
+      ]
+    },
+    {
+      "id": "6e25443e-cef9-537c-b5c8-341fc9af57ca",
+      "key": "content/6e25443e-cef9-537c-b5c8-341fc9af57ca",
+      "name": "الحروف بالحركات الطويلة حرف الطاء والظاء.mp3",
+      "size": 1698773,
+      "mime": "audio/mpeg",
+      "sha256": "dc9304ed125ac0b9cd7a996979525a2ea5266bd95ed0f5c8c4681912992462ff",
+      "parts": [
+        {
+          "path": "media/audio/6e25443e-cef9-537c-b5c8-341fc9af57ca.mp3",
+          "size": 1698773,
+          "sha256": "dc9304ed125ac0b9cd7a996979525a2ea5266bd95ed0f5c8c4681912992462ff"
+        }
+      ]
+    },
+    {
+      "id": "526bb905-6e56-5e7d-8123-b06a15ccea50",
+      "key": "content/526bb905-6e56-5e7d-8123-b06a15ccea50",
+      "name": "كيف أذهب إلى السوق؟.mp3",
+      "size": 435072,
+      "mime": "audio/mpeg",
+      "sha256": "0b06545b9340deda0898134314f8e19afbde1ac94b079a32bbb1ca221a09fac2",
+      "parts": [
+        {
+          "path": "media/audio/526bb905-6e56-5e7d-8123-b06a15ccea50.mp3",
+          "size": 435072,
+          "sha256": "0b06545b9340deda0898134314f8e19afbde1ac94b079a32bbb1ca221a09fac2"
+        }
+      ]
+    },
+    {
+      "id": "702894bb-cecf-5f64-a157-db9a10c315b2",
+      "key": "content/702894bb-cecf-5f64-a157-db9a10c315b2",
+      "name": "كيف أذهب إلى الجامعة؟.mp3",
+      "size": 288300,
+      "mime": "audio/mpeg",
+      "sha256": "f242cf3b5224eb71ae57aef054771438655c9287d2d2122968841719797809a5",
+      "parts": [
+        {
+          "path": "media/audio/702894bb-cecf-5f64-a157-db9a10c315b2.mp3",
+          "size": 288300,
+          "sha256": "f242cf3b5224eb71ae57aef054771438655c9287d2d2122968841719797809a5"
+        }
+      ]
+    },
+    {
+      "id": "3231c3f3-d3b0-5009-90cc-622bc765dd6a",
+      "key": "content/3231c3f3-d3b0-5009-90cc-622bc765dd6a",
+      "name": "الأصوات المتشابهة  (ط__ظ__ض).mp3",
+      "size": 1189919,
+      "mime": "audio/mpeg",
+      "sha256": "168851ffdfbdc1a1f470fd3d079dae37514009b8d3fea2584765c00307bbb408",
+      "parts": [
+        {
+          "path": "media/audio/3231c3f3-d3b0-5009-90cc-622bc765dd6a.mp3",
+          "size": 1189919,
+          "sha256": "168851ffdfbdc1a1f470fd3d079dae37514009b8d3fea2584765c00307bbb408"
+        }
+      ]
+    },
+    {
+      "id": "5b7be941-afbe-5a7f-8b67-81bc2a0733a8",
+      "key": "content/5b7be941-afbe-5a7f-8b67-81bc2a0733a8",
+      "name": "حرف الغين.mp3",
+      "size": 1648071,
+      "mime": "audio/mpeg",
+      "sha256": "b528b722f235d25f723cd1dee54a4e0ca1f3723bd2dbc607014fd85158f3aac6",
+      "parts": [
+        {
+          "path": "media/audio/5b7be941-afbe-5a7f-8b67-81bc2a0733a8.mp3",
+          "size": 1648071,
+          "sha256": "b528b722f235d25f723cd1dee54a4e0ca1f3723bd2dbc607014fd85158f3aac6"
+        }
+      ]
+    },
+    {
+      "id": "d75bba92-d810-5ad2-9147-f0d9a95598c9",
+      "key": "content/d75bba92-d810-5ad2-9147-f0d9a95598c9",
+      "name": "الحروف بالحركات الطويلة حرف العين .والغين.mp3",
+      "size": 1050733,
+      "mime": "audio/mpeg",
+      "sha256": "6f0da735e8ada0e7902324eeec689827d1fd377dc3c98a3abdc3b0caa1fabe40",
+      "parts": [
+        {
+          "path": "media/audio/d75bba92-d810-5ad2-9147-f0d9a95598c9.mp3",
+          "size": 1050733,
+          "sha256": "6f0da735e8ada0e7902324eeec689827d1fd377dc3c98a3abdc3b0caa1fabe40"
+        }
+      ]
+    },
+    {
+      "id": "15974184-8e36-5e8e-b60c-01d6d4ed4d45",
+      "key": "content/15974184-8e36-5e8e-b60c-01d6d4ed4d45",
+      "name": "أين تسكنين؟.mp3",
+      "size": 451584,
+      "mime": "audio/mpeg",
+      "sha256": "9b1d34497e357f646195abc58a004094ea02af61466ace9104bab85353d47242",
+      "parts": [
+        {
+          "path": "media/audio/15974184-8e36-5e8e-b60c-01d6d4ed4d45.mp3",
+          "size": 451584,
+          "sha256": "9b1d34497e357f646195abc58a004094ea02af61466ace9104bab85353d47242"
+        }
+      ]
+    },
+    {
+      "id": "70f97ef8-0c1d-50c5-aac5-95941832dc4f",
+      "key": "content/70f97ef8-0c1d-50c5-aac5-95941832dc4f",
+      "name": "أين تسكنُ؟.mp3",
+      "size": 257857,
+      "mime": "audio/mpeg",
+      "sha256": "5c5e264220a678a9d4bf30c399ab4cb61e848144b009cd14923c6466bdc68aa1",
+      "parts": [
+        {
+          "path": "media/audio/70f97ef8-0c1d-50c5-aac5-95941832dc4f.mp3",
+          "size": 257857,
+          "sha256": "5c5e264220a678a9d4bf30c399ab4cb61e848144b009cd14923c6466bdc68aa1"
+        }
+      ]
+    },
+    {
+      "id": "c3d582f2-d099-5ffb-92ce-ccb355bb0dd3",
+      "key": "content/c3d582f2-d099-5ffb-92ce-ccb355bb0dd3",
+      "name": "حرف الفاء.mp3",
+      "size": 1668462,
+      "mime": "audio/mpeg",
+      "sha256": "54f096103fc591d488daed70c1f648e5ba8ef2e5be0d672ba7228534db1015bb",
+      "parts": [
+        {
+          "path": "media/audio/c3d582f2-d099-5ffb-92ce-ccb355bb0dd3.mp3",
+          "size": 1668462,
+          "sha256": "54f096103fc591d488daed70c1f648e5ba8ef2e5be0d672ba7228534db1015bb"
+        }
+      ]
+    },
+    {
+      "id": "5846cda1-736e-5ebe-96b3-7d8d7c3412d0",
+      "key": "content/5846cda1-736e-5ebe-96b3-7d8d7c3412d0",
+      "name": "حرف القاف.mp3",
+      "size": 1330688,
+      "mime": "audio/mpeg",
+      "sha256": "7bf2616f4ff948655f86473671b36b01b80daf812db8762180ced66bc452b921",
+      "parts": [
+        {
+          "path": "media/audio/5846cda1-736e-5ebe-96b3-7d8d7c3412d0.mp3",
+          "size": 1330688,
+          "sha256": "7bf2616f4ff948655f86473671b36b01b80daf812db8762180ced66bc452b921"
+        }
+      ]
+    },
+    {
+      "id": "9a31c9d0-a459-59f7-928d-b670a9104dc1",
+      "key": "content/9a31c9d0-a459-59f7-928d-b670a9104dc1",
+      "name": "أريد قميصا لو سمحت.mp3",
+      "size": 285494,
+      "mime": "audio/mpeg",
+      "sha256": "f4dd0d084d008d67be922c2395795736dce559e3978b80ac835e0684b9f673d6",
+      "parts": [
+        {
+          "path": "media/audio/9a31c9d0-a459-59f7-928d-b670a9104dc1.mp3",
+          "size": 285494,
+          "sha256": "f4dd0d084d008d67be922c2395795736dce559e3978b80ac835e0684b9f673d6"
+        }
+      ]
+    },
+    {
+      "id": "6dd07392-e55b-53e2-8b21-7344fc484f78",
+      "key": "content/6dd07392-e55b-53e2-8b21-7344fc484f78",
+      "name": "الألوان( استمع وكرر).mp3",
+      "size": 792850,
+      "mime": "audio/mpeg",
+      "sha256": "4d2cc2ce3fc7550cdcdb3fbd216ab4a0c8382042e507be0443aea6b862e559c4",
+      "parts": [
+        {
+          "path": "media/audio/6dd07392-e55b-53e2-8b21-7344fc484f78.mp3",
+          "size": 792850,
+          "sha256": "4d2cc2ce3fc7550cdcdb3fbd216ab4a0c8382042e507be0443aea6b862e559c4"
+        }
+      ]
+    },
+    {
+      "id": "1a2eec87-aa49-515f-b77f-54ed733c7a04",
+      "key": "content/1a2eec87-aa49-515f-b77f-54ed733c7a04",
+      "name": "الحروف بالحركات الطويلة حرف الفاء والقاف والكاف.mp3",
+      "size": 2098962,
+      "mime": "audio/mpeg",
+      "sha256": "c70602ad65ce8d80008c8ddb49f86d60f0b16dae1bec0ae3443daabbac902e9a",
+      "parts": [
+        {
+          "path": "media/audio/1a2eec87-aa49-515f-b77f-54ed733c7a04.mp3",
+          "size": 2098962,
+          "sha256": "c70602ad65ce8d80008c8ddb49f86d60f0b16dae1bec0ae3443daabbac902e9a"
+        }
+      ]
+    },
+    {
+      "id": "1eae7652-c6fd-5514-b533-c2b3ec962bac",
+      "key": "content/1eae7652-c6fd-5514-b533-c2b3ec962bac",
+      "name": "حرف الكاف.mp3",
+      "size": 1650332,
+      "mime": "audio/mpeg",
+      "sha256": "5fe13fa0b760be7bee6b5ad113ddb039d71c60d530242e330a54c2c7f896297a",
+      "parts": [
+        {
+          "path": "media/audio/1eae7652-c6fd-5514-b533-c2b3ec962bac.mp3",
+          "size": 1650332,
+          "sha256": "5fe13fa0b760be7bee6b5ad113ddb039d71c60d530242e330a54c2c7f896297a"
+        }
+      ]
+    },
+    {
+      "id": "8de7b160-de16-534a-b940-1b6621940686",
+      "key": "content/8de7b160-de16-534a-b940-1b6621940686",
+      "name": "أريد حجابا لو سمحت.mp3",
+      "size": 439296,
+      "mime": "audio/mpeg",
+      "sha256": "15ebf78d6d64086b31039493b9b8e18b96e538949a54bf128bf1150abfa97e7b",
+      "parts": [
+        {
+          "path": "media/audio/8de7b160-de16-534a-b940-1b6621940686.mp3",
+          "size": 439296,
+          "sha256": "15ebf78d6d64086b31039493b9b8e18b96e538949a54bf128bf1150abfa97e7b"
+        }
+      ]
+    },
+    {
+      "id": "065b9399-1739-5c3d-9a95-9f9968563a16",
+      "key": "content/065b9399-1739-5c3d-9a95-9f9968563a16",
+      "name": "حرف اللام.mp3",
+      "size": 1448315,
+      "mime": "audio/mpeg",
+      "sha256": "ca545df6caceb52c9ca4bc246799c2696f1fccfb8dbf476b672bca86100fbf18",
+      "parts": [
+        {
+          "path": "media/audio/065b9399-1739-5c3d-9a95-9f9968563a16.mp3",
+          "size": 1448315,
+          "sha256": "ca545df6caceb52c9ca4bc246799c2696f1fccfb8dbf476b672bca86100fbf18"
+        }
+      ]
+    },
+    {
+      "id": "b5ed3b2c-c79f-564a-841d-040d4c0b565c",
+      "key": "content/b5ed3b2c-c79f-564a-841d-040d4c0b565c",
+      "name": "أين ستأكل؟.mp3",
+      "size": 296448,
+      "mime": "audio/mpeg",
+      "sha256": "51a0e8468113be4d8cd23d9f510c7c500762836b8f3eb080e0d118189af4555f",
+      "parts": [
+        {
+          "path": "media/audio/b5ed3b2c-c79f-564a-841d-040d4c0b565c.mp3",
+          "size": 296448,
+          "sha256": "51a0e8468113be4d8cd23d9f510c7c500762836b8f3eb080e0d118189af4555f"
+        }
+      ]
+    },
+    {
+      "id": "295fd980-b7ac-5676-9ae4-16952b21a5fb",
+      "key": "content/295fd980-b7ac-5676-9ae4-16952b21a5fb",
+      "name": "الأصوات المتشابهة(ق__ك).mp3",
+      "size": 1165755,
+      "mime": "audio/mpeg",
+      "sha256": "20ceb48d3b19384277138eac21011231f3446515866f334e408d717c36b02f06",
+      "parts": [
+        {
+          "path": "media/audio/295fd980-b7ac-5676-9ae4-16952b21a5fb.mp3",
+          "size": 1165755,
+          "sha256": "20ceb48d3b19384277138eac21011231f3446515866f334e408d717c36b02f06"
+        }
+      ]
+    },
+    {
+      "id": "a0d831e5-d451-55c1-848c-cdf646f4d9b1",
+      "key": "content/a0d831e5-d451-55c1-848c-cdf646f4d9b1",
+      "name": "الحروف بالحركات الطويلة حرف اللام والميم.mp3",
+      "size": 1386584,
+      "mime": "audio/mpeg",
+      "sha256": "c8bebe768f0371c1783a562dee1578174649c7d3ef8261d1c75e3a27b4478c98",
+      "parts": [
+        {
+          "path": "media/audio/a0d831e5-d451-55c1-848c-cdf646f4d9b1.mp3",
+          "size": 1386584,
+          "sha256": "c8bebe768f0371c1783a562dee1578174649c7d3ef8261d1c75e3a27b4478c98"
+        }
+      ]
+    },
+    {
+      "id": "d0d2e9b4-1242-583f-951a-d5e704915351",
+      "key": "content/d0d2e9b4-1242-583f-951a-d5e704915351",
+      "name": "أل الشمسية وأل القمرية 1.mp3",
+      "size": 564254,
+      "mime": "audio/mpeg",
+      "sha256": "747b96daaabc65affeb7a272bbb80a293db408b71a6b85cfbb7e6b7f964adc2e",
+      "parts": [
+        {
+          "path": "media/audio/d0d2e9b4-1242-583f-951a-d5e704915351.mp3",
+          "size": 564254,
+          "sha256": "747b96daaabc65affeb7a272bbb80a293db408b71a6b85cfbb7e6b7f964adc2e"
+        }
+      ]
+    },
+    {
+      "id": "4f31aa56-82b8-578a-b912-e2b85580a5ba",
+      "key": "content/4f31aa56-82b8-578a-b912-e2b85580a5ba",
+      "name": "الأصوات المتشابهة مع الحركة الطويلة.mp3",
+      "size": 712433,
+      "mime": "audio/mpeg",
+      "sha256": "011532f2eb3c4d99f602ca9315aabf191ab1ef5ea2ef2afec333e8a33dec7aa2",
+      "parts": [
+        {
+          "path": "media/audio/4f31aa56-82b8-578a-b912-e2b85580a5ba.mp3",
+          "size": 712433,
+          "sha256": "011532f2eb3c4d99f602ca9315aabf191ab1ef5ea2ef2afec333e8a33dec7aa2"
+        }
+      ]
+    },
+    {
+      "id": "39e14ab5-241f-57e5-93dd-4505c0bf1624",
+      "key": "content/39e14ab5-241f-57e5-93dd-4505c0bf1624",
+      "name": "الحروف بالحركات الطويلة حرف النون .والهاء.mp3",
+      "size": 855624,
+      "mime": "audio/mpeg",
+      "sha256": "40ca2c3a3ce6a6645b1f9a2e86db1bd33ce9adf712a1e623c9d9a0bf00966090",
+      "parts": [
+        {
+          "path": "media/audio/39e14ab5-241f-57e5-93dd-4505c0bf1624.mp3",
+          "size": 855624,
+          "sha256": "40ca2c3a3ce6a6645b1f9a2e86db1bd33ce9adf712a1e623c9d9a0bf00966090"
+        }
+      ]
+    },
+    {
+      "id": "37663769-8360-54ba-b09c-d597cd65abc5",
+      "key": "content/37663769-8360-54ba-b09c-d597cd65abc5",
+      "name": "حرف النون.mp3",
+      "size": 1436477,
+      "mime": "audio/mpeg",
+      "sha256": "6f05123ee152531c9751244f047db4a839084631ef20e4b226e282a388c40dcf",
+      "parts": [
+        {
+          "path": "media/audio/37663769-8360-54ba-b09c-d597cd65abc5.mp3",
+          "size": 1436477,
+          "sha256": "6f05123ee152531c9751244f047db4a839084631ef20e4b226e282a388c40dcf"
+        }
+      ]
+    },
+    {
+      "id": "b1c5448e-be64-5bc4-ab73-4134709cddd1",
+      "key": "content/b1c5448e-be64-5bc4-ab73-4134709cddd1",
+      "name": "حرف الهاء.mp3",
+      "size": 1632496,
+      "mime": "audio/mpeg",
+      "sha256": "f3080de1cc0b890d5317a6cb840b948b398981842a1c1be1171631a8c7bda380",
+      "parts": [
+        {
+          "path": "media/audio/b1c5448e-be64-5bc4-ab73-4134709cddd1.mp3",
+          "size": 1632496,
+          "sha256": "f3080de1cc0b890d5317a6cb840b948b398981842a1c1be1171631a8c7bda380"
+        }
+      ]
+    },
+    {
+      "id": "97e8c09a-6ad7-54c1-ae0b-e822e1075ea0",
+      "key": "content/97e8c09a-6ad7-54c1-ae0b-e822e1075ea0",
+      "name": "ماذا بكِ يا صديقتي؟.mp3",
+      "size": 362112,
+      "mime": "audio/mpeg",
+      "sha256": "81bf9f67556239dac9ec2b4c48abba9f79a004dc33ff755291699b236c8824c7",
+      "parts": [
+        {
+          "path": "media/audio/97e8c09a-6ad7-54c1-ae0b-e822e1075ea0.mp3",
+          "size": 362112,
+          "sha256": "81bf9f67556239dac9ec2b4c48abba9f79a004dc33ff755291699b236c8824c7"
+        }
+      ]
+    },
+    {
+      "id": "ff180cd1-6774-53c5-8a18-dbffd20919af",
+      "key": "content/ff180cd1-6774-53c5-8a18-dbffd20919af",
+      "name": "ماذا بك؟.mp3",
+      "size": 256614,
+      "mime": "audio/mpeg",
+      "sha256": "a9d189e9a00c2630b28516754f39dbc3c805722c802b71bfe16dadc3660f6229",
+      "parts": [
+        {
+          "path": "media/audio/ff180cd1-6774-53c5-8a18-dbffd20919af.mp3",
+          "size": 256614,
+          "sha256": "a9d189e9a00c2630b28516754f39dbc3c805722c802b71bfe16dadc3660f6229"
+        }
+      ]
+    },
+    {
+      "id": "99315ea6-8431-5f6b-9802-a86a73bf82b1",
+      "key": "content/99315ea6-8431-5f6b-9802-a86a73bf82b1",
+      "name": "حرف الواو.mp3",
+      "size": 1520546,
+      "mime": "audio/mpeg",
+      "sha256": "7cfe9bbfa001bfeaf49fe11e0a86150d60cc388438e3411df275d1cc2c1af2b1",
+      "parts": [
+        {
+          "path": "media/audio/99315ea6-8431-5f6b-9802-a86a73bf82b1.mp3",
+          "size": 1520546,
+          "sha256": "7cfe9bbfa001bfeaf49fe11e0a86150d60cc388438e3411df275d1cc2c1af2b1"
+        }
+      ]
+    },
+    {
+      "id": "2df5ffa6-8e5a-501b-9c65-a0d786b8ce01",
+      "key": "content/2df5ffa6-8e5a-501b-9c65-a0d786b8ce01",
+      "name": "الحروف بالحركات الطويلة حرف الواو .والياء.mp3",
+      "size": 880169,
+      "mime": "audio/mpeg",
+      "sha256": "cf3c46500e5e072f0b0fba2256bc5f1bb326471d2d6f3a15807fadb63789912d",
+      "parts": [
+        {
+          "path": "media/audio/2df5ffa6-8e5a-501b-9c65-a0d786b8ce01.mp3",
+          "size": 880169,
+          "sha256": "cf3c46500e5e072f0b0fba2256bc5f1bb326471d2d6f3a15807fadb63789912d"
+        }
+      ]
+    },
+    {
+      "id": "30979ceb-db7e-5e09-81ee-a9db3d53ce00",
+      "key": "content/30979ceb-db7e-5e09-81ee-a9db3d53ce00",
+      "name": "حرف الياء.mp3",
+      "size": 1516970,
+      "mime": "audio/mpeg",
+      "sha256": "992bf3bbc90f99ab428df6249eac5b8b17a72634178735021d1091eeec2be4bf",
+      "parts": [
+        {
+          "path": "media/audio/30979ceb-db7e-5e09-81ee-a9db3d53ce00.mp3",
+          "size": 1516970,
+          "sha256": "992bf3bbc90f99ab428df6249eac5b8b17a72634178735021d1091eeec2be4bf"
+        }
+      ]
+    },
+    {
+      "id": "19d51935-a43e-5563-a714-fd80943541fc",
+      "key": "content/19d51935-a43e-5563-a714-fd80943541fc",
+      "name": "الصفات.mp3",
+      "size": 1181596,
+      "mime": "audio/mpeg",
+      "sha256": "56bc87b19c78a76bd38cb932b11f31f03c84ce3ef944434d5841cabd59cde0d5",
+      "parts": [
+        {
+          "path": "media/audio/19d51935-a43e-5563-a714-fd80943541fc.mp3",
+          "size": 1181596,
+          "sha256": "56bc87b19c78a76bd38cb932b11f31f03c84ce3ef944434d5841cabd59cde0d5"
+        }
+      ]
+    },
+    {
+      "id": "7e5f4f50-65b0-5d65-ae5f-ab4afde165b3",
+      "key": "content/7e5f4f50-65b0-5d65-ae5f-ab4afde165b3",
+      "name": "كيف الجو اليوم؟.mp3",
+      "size": 264629,
+      "mime": "audio/mpeg",
+      "sha256": "6022c479281d6e06bb5ae18992fdb858747530c7bfb038cc53a1d6485fc1be3a",
+      "parts": [
+        {
+          "path": "media/audio/7e5f4f50-65b0-5d65-ae5f-ab4afde165b3.mp3",
+          "size": 264629,
+          "sha256": "6022c479281d6e06bb5ae18992fdb858747530c7bfb038cc53a1d6485fc1be3a"
+        }
+      ]
+    },
+    {
+      "id": "08893514-6ce2-5fdf-a61a-2273fa14977a",
+      "key": "content/08893514-6ce2-5fdf-a61a-2273fa14977a",
+      "name": "أيام الأسبوع.mp3",
+      "size": 469777,
+      "mime": "audio/mpeg",
+      "sha256": "f4455fcdd81f2d2ee9481e74a6f3469a8c58d5c32b016791d972ff9117d7f312",
+      "parts": [
+        {
+          "path": "media/audio/08893514-6ce2-5fdf-a61a-2273fa14977a.mp3",
+          "size": 469777,
+          "sha256": "f4455fcdd81f2d2ee9481e74a6f3469a8c58d5c32b016791d972ff9117d7f312"
+        }
+      ]
+    },
+    {
+      "id": "f3c1a332-4ebd-53f6-bc9b-1fd672d1859c",
+      "key": "content/f3c1a332-4ebd-53f6-bc9b-1fd672d1859c",
+      "name": "كيف الجو اليوم؟ (1).mp3",
+      "size": 301824,
+      "mime": "audio/mpeg",
+      "sha256": "18382a2d95f24d84ebec0f7803fc34837c7374fdf6c815f338b638b5cb6754c4",
+      "parts": [
+        {
+          "path": "media/audio/f3c1a332-4ebd-53f6-bc9b-1fd672d1859c.mp3",
+          "size": 301824,
+          "sha256": "18382a2d95f24d84ebec0f7803fc34837c7374fdf6c815f338b638b5cb6754c4"
+        }
+      ]
+    },
+    {
+      "id": "882e4025-f015-51e4-8b39-d59afecc0064",
+      "key": "content/882e4025-f015-51e4-8b39-d59afecc0064",
+      "name": "شهور السَّنة.mp3",
+      "size": 630520,
+      "mime": "audio/mpeg",
+      "sha256": "d340edd9c8114ba67456357e54dfd7f7d88df97ece09cb63e252b7f8ed5dcdca",
+      "parts": [
+        {
+          "path": "media/audio/882e4025-f015-51e4-8b39-d59afecc0064.mp3",
+          "size": 630520,
+          "sha256": "d340edd9c8114ba67456357e54dfd7f7d88df97ece09cb63e252b7f8ed5dcdca"
+        }
+      ]
+    },
+    {
+      "id": "d4802dc0-f48b-5081-bfae-f94634428b98",
+      "key": "content/d4802dc0-f48b-5081-bfae-f94634428b98",
+      "name": "تعلّم-السَّاعة.mp3",
+      "size": 962227,
+      "mime": "audio/mpeg",
+      "sha256": "b1729dee67b358d929e5cb4ca8b770bfef0ee781441ffbb1ae5affc40eda17a7",
+      "parts": [
+        {
+          "path": "media/audio/d4802dc0-f48b-5081-bfae-f94634428b98.mp3",
+          "size": 962227,
+          "sha256": "b1729dee67b358d929e5cb4ca8b770bfef0ee781441ffbb1ae5affc40eda17a7"
+        }
+      ]
+    },
+    {
+      "id": "e70a2944-5cd1-5682-99b8-a31704171046",
+      "key": "content/e70a2944-5cd1-5682-99b8-a31704171046",
+      "name": "حرف العين.mp3",
+      "size": 1588482,
+      "mime": "audio/mpeg",
+      "sha256": "d3c2b2150db90cd5488a01ee498ac0433e883518765d4de66181d8aacb8d772c",
+      "parts": [
+        {
+          "path": "media/audio/e70a2944-5cd1-5682-99b8-a31704171046.mp3",
+          "size": 1588482,
+          "sha256": "d3c2b2150db90cd5488a01ee498ac0433e883518765d4de66181d8aacb8d772c"
+        }
+      ]
+    }
+  ]
+}

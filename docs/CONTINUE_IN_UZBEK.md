@@ -38,6 +38,10 @@ Muhadasa iboralari lug‘atlar yonidagi alohida bo‘limda: misol, yodlash va qo
 
 7kun bepul yozuvi va sinov bor; audio va so‘z tarjimasi sinovdan keyin ham bepul. Narxlar va to‘lov xizmati belgilanmagan, o‘ylab topmang. Kengaytirilgan tayyor tahlil ruxsati serverda tekshiriladi. Google/Apple/Telegram kirishi mahsulot talabi, hozir ulanmagan; mavjud Sites nashri ChatGPT identitysiga tayanadi. Bitta ichki hisobda obuna/qayd/natija saqlanishi kerak. AndroidAPK/iOS kelgusi bosqich, hali tayyor emas.
 
+## Original fayllar ham bor
+
+`python scripts/restore-original-media.py` buyrug‘i1PDF va82MP3ni media/restored/ ga tiklaydi. PDF14qismdan aynan originalSHA256 bilan hosil qilinadi. media/original-manifest.json asl nomlar, kalitlar va hashlarni saqlaydi. index.json omborga import uchun mahalliy yo‘lni beradi. Kitob yoki audio haqida bilmayman demasdan shu fayllarni va lib/a0/ xaritalarini tekshiring. To‘liq tarixiy loyiha rejasi docs/PROJECT_PLAN.md da.
+
 ## Kod yo‘l xaritasi
 
 - app/components/reader.tsx, audio-word-marker.tsx, word-panel.tsx — o‘qish va yordam.
