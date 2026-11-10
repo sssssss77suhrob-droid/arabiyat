@@ -1,0 +1,566 @@
+[
+  {
+    "track": "a0-qr-8-1",
+    "index": 2,
+    "rect": {
+      "x": 0.753125,
+      "y": 0.085754,
+      "w": 0.071875,
+      "h": 0.031865
+    },
+    "word": "اِسْتَمِعْ"
+  },
+  {
+    "track": "a0-qr-15-1",
+    "index": 0,
+    "rect": {
+      "x": 0.65,
+      "y": 0.168229,
+      "w": 0.00875,
+      "h": 0.007498
+    },
+    "word": "ٌ"
+  },
+  {
+    "track": "a0-qr-15-1",
+    "index": 1,
+    "rect": {
+      "x": 0.548125,
+      "y": 0.163074,
+      "w": 0.04,
+      "h": 0.025305
+    },
+    "word": "بَيْتٌ"
+  },
+  {
+    "track": "a0-qr-15-1",
+    "index": 2,
+    "rect": {
+      "x": 0.4275,
+      "y": 0.162137,
+      "w": 0.035625,
+      "h": 0.027179
+    },
+    "word": "قَلَمٌ"
+  },
+  {
+    "track": "a0-qr-15-1",
+    "index": 3,
+    "rect": {
+      "x": 0.303125,
+      "y": 0.16448,
+      "w": 0.03625,
+      "h": 0.02343
+    },
+    "word": "بَابٌ"
+  },
+  {
+    "track": "a0-qr-15-1",
+    "index": 4,
+    "rect": {
+      "x": 0.168125,
+      "y": 0.164948,
+      "w": 0.046875,
+      "h": 0.027179
+    },
+    "word": "كِتَابٌ"
+  },
+  {
+    "track": "a0-qr-15-1",
+    "index": 5,
+    "rect": {
+      "x": 0.644375,
+      "y": 0.245548,
+      "w": 0.0075,
+      "h": 0.007029
+    },
+    "word": "ً"
+  },
+  {
+    "track": "a0-qr-15-1",
+    "index": 6,
+    "rect": {
+      "x": 0.5525,
+      "y": 0.237582,
+      "w": 0.035,
+      "h": 0.02671
+    },
+    "word": "بَيْتًا"
+  },
+  {
+    "track": "a0-qr-15-1",
+    "index": 7,
+    "rect": {
+      "x": 0.420625,
+      "y": 0.23477,
+      "w": 0.041875,
+      "h": 0.023899
+    },
+    "word": "قَلَمًا"
+  },
+  {
+    "track": "a0-qr-15-1",
+    "index": 8,
+    "rect": {
+      "x": 0.305625,
+      "y": 0.239456,
+      "w": 0.033125,
+      "h": 0.022493
+    },
+    "word": "بَابًا"
+  },
+  {
+    "track": "a0-qr-15-1",
+    "index": 9,
+    "rect": {
+      "x": 0.170625,
+      "y": 0.238988,
+      "w": 0.044375,
+      "h": 0.027179
+    },
+    "word": "كِتَابًا"
+  },
+  {
+    "track": "a0-qr-15-1",
+    "index": 10,
+    "rect": {
+      "x": 0.64375,
+      "y": 0.334114,
+      "w": 0.008125,
+      "h": 0.007029
+    },
+    "word": "ٍ"
+  },
+  {
+    "track": "a0-qr-15-1",
+    "index": 11,
+    "rect": {
+      "x": 0.5475,
+      "y": 0.315839,
+      "w": 0.04,
+      "h": 0.02671
+    },
+    "word": "بَيْتٍ"
+  },
+  {
+    "track": "a0-qr-15-1",
+    "index": 12,
+    "rect": {
+      "x": 0.42625,
+      "y": 0.311153,
+      "w": 0.03625,
+      "h": 0.035145
+    },
+    "word": "قَلَمٍ"
+  },
+  {
+    "track": "a0-qr-15-1",
+    "index": 13,
+    "rect": {
+      "x": 0.3025,
+      "y": 0.31537,
+      "w": 0.035625,
+      "h": 0.029053
+    },
+    "word": "بَابٍ"
+  },
+  {
+    "track": "a0-qr-15-1",
+    "index": 14,
+    "rect": {
+      "x": 0.166875,
+      "y": 0.313027,
+      "w": 0.0475,
+      "h": 0.030928
+    },
+    "word": "كِتَابٍ"
+  },
+  {
+    "track": "a0-qr-31-1",
+    "index": 3,
+    "rect": {
+      "x": 0.819375,
+      "y": 0.089972,
+      "w": 0.061875,
+      "h": 0.029522
+    },
+    "word": "اِسْتَمِعْ",
+    "reason": "Repeated printed instruction mapped to its current section instead of an earlier/later duplicate."
+  },
+  {
+    "track": "a0-qr-31-1",
+    "index": 4,
+    "rect": {
+      "x": 0.76125,
+      "y": 0.089035,
+      "w": 0.0425,
+      "h": 0.020619
+    },
+    "word": "وَكَرِّرْ",
+    "reason": "Repeated printed instruction mapped to its current section instead of an earlier/later duplicate."
+  },
+  {
+    "track": "a0-qr-31-1",
+    "index": 11,
+    "rect": {
+      "x": 0.815625,
+      "y": 0.322868,
+      "w": 0.066875,
+      "h": 0.030928
+    },
+    "word": "اِسْتَمِعْ",
+    "reason": "Repeated printed instruction mapped to its current section instead of an earlier/later duplicate."
+  },
+  {
+    "track": "a0-qr-31-1",
+    "index": 27,
+    "rect": {
+      "x": 0.784375,
+      "y": 0.52671,
+      "w": 0.055,
+      "h": 0.029053
+    },
+    "word": "اِسْتَمِعْ"
+  },
+  {
+    "track": "a0-qr-31-1",
+    "index": 28,
+    "rect": {
+      "x": 0.755625,
+      "y": 0.52671,
+      "w": 0.024375,
+      "h": 0.029053
+    },
+    "word": "ثُمَّ"
+  },
+  {
+    "track": "a0-qr-31-1",
+    "index": 29,
+    "rect": {
+      "x": 0.70375,
+      "y": 0.52671,
+      "w": 0.048125,
+      "h": 0.029991
+    },
+    "word": "اخْتَرِ"
+  },
+  {
+    "track": "a0-qr-31-1",
+    "index": 30,
+    "rect": {
+      "x": 0.641875,
+      "y": 0.52671,
+      "w": 0.055625,
+      "h": 0.030459
+    },
+    "word": "الْكَلِمَةَ"
+  },
+  {
+    "track": "a0-qr-31-1",
+    "index": 31,
+    "rect": {
+      "x": 0.548125,
+      "y": 0.52671,
+      "w": 0.089375,
+      "h": 0.028585
+    },
+    "word": "الصَّحِيحَةَ"
+  },
+  {
+    "track": "a0-qr-31-1",
+    "index": 39,
+    "rect": {
+      "x": 0.825,
+      "y": 0.74508,
+      "w": 0.05625,
+      "h": 0.030459
+    },
+    "word": "اِسْتَمِعْ",
+    "reason": "Repeated printed instruction mapped to its current section instead of an earlier/later duplicate."
+  },
+  {
+    "track": "a0-qr-46-1",
+    "index": 4,
+    "rect": {
+      "x": 0.664375,
+      "y": 0.104499,
+      "w": 0.041875,
+      "h": 0.025305
+    },
+    "word": "اِقْرَأْ"
+  },
+  {
+    "track": "a0-qr-63-1",
+    "index": 2,
+    "unresolved": true,
+    "reason": "Raw transcript has one low-confidence token صا at 4.24–5.64. Printed heading contains the separate glyphs ص / س, with no صا token. Do not underline part of صائح or invent a split; listening review is required."
+  },
+  {
+    "track": "a0-qr-63-1",
+    "index": 4,
+    "rect": {
+      "x": 0.8075,
+      "y": 0.096532,
+      "w": 0.06375,
+      "h": 0.02671
+    },
+    "word": "اِسْتَمِعْ",
+    "reason": "Repeated printed instruction mapped to its current section instead of an earlier/later duplicate."
+  },
+  {
+    "track": "a0-qr-63-1",
+    "index": 5,
+    "rect": {
+      "x": 0.755625,
+      "y": 0.096532,
+      "w": 0.0425,
+      "h": 0.022493
+    },
+    "word": "وَكَرِّرْ",
+    "reason": "Repeated printed instruction mapped to its current section instead of an earlier/later duplicate."
+  },
+  {
+    "track": "a0-qr-63-1",
+    "index": 13,
+    "rect": {
+      "x": 0.79375,
+      "y": 0.32896,
+      "w": 0.07625,
+      "h": 0.026242
+    },
+    "word": "اِسْتَمِعْ",
+    "reason": "Repeated printed instruction mapped to its current section instead of an earlier/later duplicate."
+  },
+  {
+    "track": "a0-qr-63-1",
+    "index": 14,
+    "rect": {
+      "x": 0.74625,
+      "y": 0.32896,
+      "w": 0.0425,
+      "h": 0.02343
+    },
+    "word": "وَكَرِّرْ",
+    "reason": "Repeated printed instruction mapped to its current section instead of an earlier/later duplicate."
+  },
+  {
+    "track": "a0-qr-63-1",
+    "index": 19,
+    "rect": {
+      "x": 0.48375,
+      "y": 0.408622,
+      "w": 0.056875,
+      "h": 0.021087
+    },
+    "word": "عَصِيرٌ"
+  },
+  {
+    "track": "a0-qr-63-1",
+    "index": 20,
+    "rect": {
+      "x": 0.38375,
+      "y": 0.408154,
+      "w": 0.050625,
+      "h": 0.021556
+    },
+    "word": "عَسِيرٌ",
+    "reason": "Second item of the printed عصير / عسير minimal-pair row; source transcript repeats عصير for both. Location and displayed surface are based on printed section order, not a new listening claim."
+  },
+  {
+    "track": "a0-qr-63-1",
+    "index": 38,
+    "rect": {
+      "x": 0.77125,
+      "y": 0.671509,
+      "w": 0.056875,
+      "h": 0.024367
+    },
+    "word": "عَصِيرٌ"
+  },
+  {
+    "track": "a0-qr-63-1",
+    "index": 49,
+    "unresolved": true,
+    "reason": "Final missing-letter exercise prints عـ ... ـير, not the complete word عصير. Keep this spoken answer without a full-word underline rather than pointing to the earlier answer-choice duplicate."
+  },
+  {
+    "track": "a0-qr-86-1",
+    "index": 0,
+    "rect": {
+      "x": 0.47625,
+      "y": 0.051546,
+      "w": 0.105,
+      "h": 0.04358
+    },
+    "word": "الْأَلْوَانُ"
+  },
+  {
+    "track": "a0-qr-88-2",
+    "index": 20,
+    "rect": {
+      "x": 0.88,
+      "y": 0.755858,
+      "w": 0.021875,
+      "h": 0.014058
+    },
+    "word": "لَا"
+  },
+  {
+    "track": "a0-qr-89-1",
+    "index": 14,
+    "rect": {
+      "x": 0.811875,
+      "y": 0.318182,
+      "w": 0.056875,
+      "h": 0.035614
+    },
+    "word": "اِسْتَمِعْ",
+    "reason": "Repeated printed instruction mapped to its current section instead of an earlier/later duplicate."
+  },
+  {
+    "track": "a0-qr-89-1",
+    "index": 15,
+    "rect": {
+      "x": 0.746875,
+      "y": 0.318182,
+      "w": 0.045625,
+      "h": 0.035614
+    },
+    "word": "وَكَرِّرْ",
+    "reason": "Repeated printed instruction mapped to its current section instead of an earlier/later duplicate."
+  },
+  {
+    "track": "a0-qr-89-1",
+    "index": 24,
+    "rect": {
+      "x": 0.8,
+      "y": 0.447516,
+      "w": 0.026875,
+      "h": 0.026242
+    },
+    "word": "قَلَّ"
+  },
+  {
+    "track": "a0-qr-89-1",
+    "index": 31,
+    "rect": {
+      "x": 0.79,
+      "y": 0.527179,
+      "w": 0.0475,
+      "h": 0.030459
+    },
+    "word": "اِسْتَمِعْ",
+    "reason": "Repeated printed instruction mapped to its current section instead of an earlier/later duplicate."
+  },
+  {
+    "track": "a0-qr-89-1",
+    "index": 32,
+    "rect": {
+      "x": 0.754375,
+      "y": 0.52671,
+      "w": 0.019375,
+      "h": 0.030928
+    },
+    "word": "ثُمَّ",
+    "reason": "Repeated printed instruction mapped to its current section instead of an earlier/later duplicate."
+  },
+  {
+    "track": "a0-qr-89-1",
+    "index": 33,
+    "rect": {
+      "x": 0.7,
+      "y": 0.52671,
+      "w": 0.038125,
+      "h": 0.030928
+    },
+    "word": "اخْتَرِ",
+    "reason": "Repeated printed instruction mapped to its current section instead of an earlier/later duplicate."
+  },
+  {
+    "track": "a0-qr-95-1",
+    "index": 22,
+    "split": [
+      {
+        "word": "الْكَلِمَةَ",
+        "start": 53.22,
+        "end": 53.9,
+        "rect": {
+          "x": 0.533125,
+          "y": 0.58716,
+          "w": 0.08,
+          "h": 0.029522
+        }
+      },
+      {
+        "word": "الَّتِي",
+        "start": 53.9,
+        "end": 54.22,
+        "rect": {
+          "x": 0.466875,
+          "y": 0.58716,
+          "w": 0.0575,
+          "h": 0.029522
+        }
+      }
+    ],
+    "reason": "Exact constituent timestamps recovered from original local transcript words; original merged interval endpoints are preserved."
+  },
+  {
+    "track": "a0-qr-110-2",
+    "index": 3,
+    "split": [
+      {
+        "word": "الْجَوُّ",
+        "start": 3.92,
+        "end": 4.32,
+        "rect": {
+          "x": 0.85,
+          "y": 0.772259,
+          "w": 0.04,
+          "h": 0.025773
+        }
+      },
+      {
+        "word": "الْيَوْمَ؟",
+        "start": 4.32,
+        "end": 5.56,
+        "rect": {
+          "x": 0.80375,
+          "y": 0.772259,
+          "w": 0.04125,
+          "h": 0.025773
+        }
+      }
+    ],
+    "reason": "Exact constituent timestamps recovered from original local transcript words; original merged interval endpoints are preserved."
+  },
+  {
+    "track": "a0-qr-111-2",
+    "index": 0,
+    "split": [
+      {
+        "word": "شُهُورُ",
+        "start": 1.23,
+        "end": 2.11,
+        "rect": {
+          "x": 0.50125,
+          "y": 0.355201,
+          "w": 0.076875,
+          "h": 0.02671
+        }
+      },
+      {
+        "word": "السَّنَةِ",
+        "start": 2.11,
+        "end": 3.07,
+        "rect": {
+          "x": 0.425,
+          "y": 0.353327,
+          "w": 0.07125,
+          "h": 0.027648
+        }
+      }
+    ],
+    "reason": "Exact constituent timestamps recovered from original local transcript words; original merged interval endpoints are preserved."
+  }
+]

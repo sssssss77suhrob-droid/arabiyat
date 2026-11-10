@@ -1,0 +1,1046 @@
+[
+  {
+    "page": 23,
+    "exerciseAudit": [
+      {
+        "id": "a0-p023-e2",
+        "action": "correct",
+        "reason": "Asl pastki tanlash bo‘limining12checkboxi va6mustaqil juftligi aniqlandi; yuqoridagi takrorlash juftlari bu mashqqa qo‘shilmadi. Tekshirilmagan audio javobi taxmin qilinmadi.",
+        "kind": "choice",
+        "region": {
+          "x": 0.06875,
+          "y": 0.58716,
+          "w": 0.8125,
+          "h": 0.094658
+        },
+        "items": [],
+        "slots": [
+          {
+            "id": "p1-a",
+            "rect": {
+              "x": 0.84,
+              "y": 0.603561,
+              "w": 0.01625,
+              "h": 0.012184
+            },
+            "label": "1-juftlik,1-variant: قَرَأَ"
+          },
+          {
+            "id": "p1-b",
+            "rect": {
+              "x": 0.7525,
+              "y": 0.603561,
+              "w": 0.01625,
+              "h": 0.012184
+            },
+            "label": "1-juftlik,2-variant: قَرَعَ"
+          },
+          {
+            "id": "p2-a",
+            "rect": {
+              "x": 0.53,
+              "y": 0.603561,
+              "w": 0.01625,
+              "h": 0.012184
+            },
+            "label": "2-juftlik,1-variant: إِبْرَةٌ"
+          },
+          {
+            "id": "p2-b",
+            "rect": {
+              "x": 0.434375,
+              "y": 0.603561,
+              "w": 0.01625,
+              "h": 0.012184
+            },
+            "label": "2-juftlik,2-variant: عِبْرَةٌ"
+          },
+          {
+            "id": "p3-a",
+            "rect": {
+              "x": 0.231875,
+              "y": 0.603561,
+              "w": 0.01625,
+              "h": 0.012184
+            },
+            "label": "3-juftlik,1-variant: جُرْأَةٌ"
+          },
+          {
+            "id": "p3-b",
+            "rect": {
+              "x": 0.145,
+              "y": 0.603561,
+              "w": 0.01625,
+              "h": 0.012184
+            },
+            "label": "3-juftlik,2-variant: جُرْعَةٌ"
+          },
+          {
+            "id": "p4-a",
+            "rect": {
+              "x": 0.84,
+              "y": 0.652296,
+              "w": 0.01625,
+              "h": 0.012184
+            },
+            "label": "4-juftlik,1-variant: وَأَدَ"
+          },
+          {
+            "id": "p4-b",
+            "rect": {
+              "x": 0.7525,
+              "y": 0.652296,
+              "w": 0.01625,
+              "h": 0.012184
+            },
+            "label": "4-juftlik,2-variant: وَعَدَ"
+          },
+          {
+            "id": "p5-a",
+            "rect": {
+              "x": 0.53125,
+              "y": 0.652296,
+              "w": 0.01625,
+              "h": 0.012184
+            },
+            "label": "5-juftlik,1-variant: أُسْرَةٌ"
+          },
+          {
+            "id": "p5-b",
+            "rect": {
+              "x": 0.434375,
+              "y": 0.652296,
+              "w": 0.01625,
+              "h": 0.012184
+            },
+            "label": "5-juftlik,2-variant: عُسْرَةٌ"
+          },
+          {
+            "id": "p6-a",
+            "rect": {
+              "x": 0.231875,
+              "y": 0.652296,
+              "w": 0.01625,
+              "h": 0.012184
+            },
+            "label": "6-juftlik,1-variant: جَاءَ"
+          },
+          {
+            "id": "p6-b",
+            "rect": {
+              "x": 0.145,
+              "y": 0.652296,
+              "w": 0.01625,
+              "h": 0.012184
+            },
+            "label": "6-juftlik,2-variant: جَاعَ"
+          }
+        ],
+        "choiceGroups": [
+          {
+            "id": "g1",
+            "slotIds": [
+              "p1-a",
+              "p1-b"
+            ]
+          },
+          {
+            "id": "g2",
+            "slotIds": [
+              "p2-a",
+              "p2-b"
+            ]
+          },
+          {
+            "id": "g3",
+            "slotIds": [
+              "p3-a",
+              "p3-b"
+            ]
+          },
+          {
+            "id": "g4",
+            "slotIds": [
+              "p4-a",
+              "p4-b"
+            ]
+          },
+          {
+            "id": "g5",
+            "slotIds": [
+              "p5-a",
+              "p5-b"
+            ]
+          },
+          {
+            "id": "g6",
+            "slotIds": [
+              "p6-a",
+              "p6-b"
+            ]
+          }
+        ],
+        "instruction": "Asl audioni tinglang. Har bir raqamli juftlikdagi ikki katakdan bittasini belgilang. So‘ng audio bilan o‘zingiz tekshiring."
+      },
+      {
+        "id": "a0-p023-e3",
+        "action": "correct",
+        "reason": "Pastdagi6haqiqiy harf bo‘shlig‘i200%tasvirda tekshirilib, yonidagi bosma harflarni berkitmaydigan joyga qo‘yildi. Audio kaliti taxmin qilinmadi.",
+        "kind": "write",
+        "region": {
+          "x": 0.1625,
+          "y": 0.79194,
+          "w": 0.63125,
+          "h": 0.078257
+        },
+        "items": [],
+        "slots": [
+          {
+            "id": "m0",
+            "rect": {
+              "x": 0.744375,
+              "y": 0.796626,
+              "w": 0.020625,
+              "h": 0.015933
+            },
+            "label": "1-yetishmagan harf"
+          },
+          {
+            "id": "m1",
+            "rect": {
+              "x": 0.50375,
+              "y": 0.796626,
+              "w": 0.0225,
+              "h": 0.015933
+            },
+            "label": "2-yetishmagan harf"
+          },
+          {
+            "id": "m2",
+            "rect": {
+              "x": 0.25375,
+              "y": 0.796626,
+              "w": 0.02125,
+              "h": 0.015933
+            },
+            "label": "3-yetishmagan harf"
+          },
+          {
+            "id": "m3",
+            "rect": {
+              "x": 0.736875,
+              "y": 0.849578,
+              "w": 0.02125,
+              "h": 0.015933
+            },
+            "label": "4-yetishmagan harf"
+          },
+          {
+            "id": "m4",
+            "rect": {
+              "x": 0.5275,
+              "y": 0.849578,
+              "w": 0.02125,
+              "h": 0.015933
+            },
+            "label": "5-yetishmagan harf"
+          },
+          {
+            "id": "m5",
+            "rect": {
+              "x": 0.269375,
+              "y": 0.849578,
+              "w": 0.02125,
+              "h": 0.015933
+            },
+            "label": "6-yetishmagan harf"
+          }
+        ],
+        "instruction": "Audioni tinglab, nuqtali bo‘sh joylarga yetishmagan harflarni yozing. Keyin yozganingizni asl audio bilan tekshiring."
+      }
+    ]
+  },
+  {
+    "page": 31,
+    "exerciseAudit": [
+      {
+        "id": "a0-p031-e2",
+        "action": "correct",
+        "reason": "Asl pastki tanlash bo‘limining12checkboxi va6mustaqil juftligi aniqlandi; yuqoridagi takrorlash juftlari bu mashqqa qo‘shilmadi. Tekshirilmagan audio javobi taxmin qilinmadi.",
+        "kind": "choice",
+        "region": {
+          "x": 0.06875,
+          "y": 0.601687,
+          "w": 0.8125,
+          "h": 0.094189
+        },
+        "items": [],
+        "slots": [
+          {
+            "id": "p1-a",
+            "rect": {
+              "x": 0.838125,
+              "y": 0.618088,
+              "w": 0.01625,
+              "h": 0.012184
+            },
+            "label": "1-juftlik,1-variant: نَحْرٌ"
+          },
+          {
+            "id": "p1-b",
+            "rect": {
+              "x": 0.741875,
+              "y": 0.618088,
+              "w": 0.01625,
+              "h": 0.012184
+            },
+            "label": "1-juftlik,2-variant: نَهْرٌ"
+          },
+          {
+            "id": "p2-a",
+            "rect": {
+              "x": 0.53875,
+              "y": 0.618088,
+              "w": 0.01625,
+              "h": 0.012184
+            },
+            "label": "2-juftlik,1-variant: حَانَ"
+          },
+          {
+            "id": "p2-b",
+            "rect": {
+              "x": 0.4425,
+              "y": 0.618088,
+              "w": 0.01625,
+              "h": 0.012184
+            },
+            "label": "2-juftlik,2-variant: هَانَ"
+          },
+          {
+            "id": "p3-a",
+            "rect": {
+              "x": 0.24375,
+              "y": 0.618088,
+              "w": 0.01625,
+              "h": 0.012184
+            },
+            "label": "3-juftlik,1-variant: سَاحِرٌ"
+          },
+          {
+            "id": "p3-b",
+            "rect": {
+              "x": 0.15375,
+              "y": 0.618088,
+              "w": 0.01625,
+              "h": 0.012184
+            },
+            "label": "3-juftlik,2-variant: سَاهِرٌ"
+          },
+          {
+            "id": "p4-a",
+            "rect": {
+              "x": 0.838125,
+              "y": 0.666354,
+              "w": 0.01625,
+              "h": 0.012184
+            },
+            "label": "4-juftlik,1-variant: حَالٌ"
+          },
+          {
+            "id": "p4-b",
+            "rect": {
+              "x": 0.74125,
+              "y": 0.666354,
+              "w": 0.01625,
+              "h": 0.012184
+            },
+            "label": "4-juftlik,2-variant: هَالٌ"
+          },
+          {
+            "id": "p5-a",
+            "rect": {
+              "x": 0.53875,
+              "y": 0.666354,
+              "w": 0.01625,
+              "h": 0.012184
+            },
+            "label": "5-juftlik,1-variant: سَمَاحٌ"
+          },
+          {
+            "id": "p5-b",
+            "rect": {
+              "x": 0.4425,
+              "y": 0.666354,
+              "w": 0.01625,
+              "h": 0.012184
+            },
+            "label": "5-juftlik,2-variant: سَمَاهٌ"
+          },
+          {
+            "id": "p6-a",
+            "rect": {
+              "x": 0.24375,
+              "y": 0.666354,
+              "w": 0.01625,
+              "h": 0.012184
+            },
+            "label": "6-juftlik,1-variant: نَبِيحٌ"
+          },
+          {
+            "id": "p6-b",
+            "rect": {
+              "x": 0.15375,
+              "y": 0.666354,
+              "w": 0.01625,
+              "h": 0.012184
+            },
+            "label": "6-juftlik,2-variant: نَبِيهٌ"
+          }
+        ],
+        "choiceGroups": [
+          {
+            "id": "g1",
+            "slotIds": [
+              "p1-a",
+              "p1-b"
+            ]
+          },
+          {
+            "id": "g2",
+            "slotIds": [
+              "p2-a",
+              "p2-b"
+            ]
+          },
+          {
+            "id": "g3",
+            "slotIds": [
+              "p3-a",
+              "p3-b"
+            ]
+          },
+          {
+            "id": "g4",
+            "slotIds": [
+              "p4-a",
+              "p4-b"
+            ]
+          },
+          {
+            "id": "g5",
+            "slotIds": [
+              "p5-a",
+              "p5-b"
+            ]
+          },
+          {
+            "id": "g6",
+            "slotIds": [
+              "p6-a",
+              "p6-b"
+            ]
+          }
+        ],
+        "instruction": "Asl audioni tinglang. Har bir raqamli juftlikdagi ikki katakdan bittasini belgilang. So‘ng audio bilan o‘zingiz tekshiring."
+      },
+      {
+        "id": "a0-p031-e3",
+        "action": "correct",
+        "reason": "Pastdagi6haqiqiy harf bo‘shlig‘i200%tasvirda tekshirilib, yonidagi bosma harflarni berkitmaydigan joyga qo‘yildi. Audio kaliti taxmin qilinmadi.",
+        "kind": "write",
+        "region": {
+          "x": 0.1625,
+          "y": 0.810684,
+          "w": 0.63125,
+          "h": 0.075445
+        },
+        "items": [],
+        "slots": [
+          {
+            "id": "m0",
+            "rect": {
+              "x": 0.739375,
+              "y": 0.81537,
+              "w": 0.030625,
+              "h": 0.015933
+            },
+            "label": "1-yetishmagan harf"
+          },
+          {
+            "id": "m1",
+            "rect": {
+              "x": 0.43875,
+              "y": 0.81537,
+              "w": 0.031875,
+              "h": 0.015933
+            },
+            "label": "2-yetishmagan harf"
+          },
+          {
+            "id": "m2",
+            "rect": {
+              "x": 0.1725,
+              "y": 0.81537,
+              "w": 0.031875,
+              "h": 0.015933
+            },
+            "label": "3-yetishmagan harf"
+          },
+          {
+            "id": "m3",
+            "rect": {
+              "x": 0.739375,
+              "y": 0.865511,
+              "w": 0.030625,
+              "h": 0.015933
+            },
+            "label": "4-yetishmagan harf"
+          },
+          {
+            "id": "m4",
+            "rect": {
+              "x": 0.45875,
+              "y": 0.865511,
+              "w": 0.030625,
+              "h": 0.015933
+            },
+            "label": "5-yetishmagan harf"
+          },
+          {
+            "id": "m5",
+            "rect": {
+              "x": 0.189375,
+              "y": 0.865511,
+              "w": 0.030625,
+              "h": 0.015933
+            },
+            "label": "6-yetishmagan harf"
+          }
+        ],
+        "instruction": "Audioni tinglab, nuqtali bo‘sh joylarga yetishmagan harflarni yozing. Keyin yozganingizni asl audio bilan tekshiring."
+      }
+    ]
+  },
+  {
+    "page": 63,
+    "exerciseAudit": [
+      {
+        "id": "a0-p063-e2",
+        "action": "correct",
+        "reason": "Asl pastki tanlash bo‘limining12checkboxi va6mustaqil juftligi aniqlandi; yuqoridagi takrorlash juftlari bu mashqqa qo‘shilmadi. Tekshirilmagan audio javobi taxmin qilinmadi.",
+        "kind": "choice",
+        "region": {
+          "x": 0.06875,
+          "y": 0.609653,
+          "w": 0.8125,
+          "h": 0.094658
+        },
+        "items": [],
+        "slots": [
+          {
+            "id": "p1-a",
+            "rect": {
+              "x": 0.834375,
+              "y": 0.626054,
+              "w": 0.01625,
+              "h": 0.012184
+            },
+            "label": "1-juftlik,1-variant: صَمَتَ"
+          },
+          {
+            "id": "p1-b",
+            "rect": {
+              "x": 0.738125,
+              "y": 0.626054,
+              "w": 0.01625,
+              "h": 0.012184
+            },
+            "label": "1-juftlik,2-variant: سَمَتَ"
+          },
+          {
+            "id": "p2-a",
+            "rect": {
+              "x": 0.535625,
+              "y": 0.626054,
+              "w": 0.01625,
+              "h": 0.012184
+            },
+            "label": "2-juftlik,1-variant: مَصَّ"
+          },
+          {
+            "id": "p2-b",
+            "rect": {
+              "x": 0.43875,
+              "y": 0.626054,
+              "w": 0.01625,
+              "h": 0.012184
+            },
+            "label": "2-juftlik,2-variant: مَسَّ"
+          },
+          {
+            "id": "p3-a",
+            "rect": {
+              "x": 0.240625,
+              "y": 0.626054,
+              "w": 0.01625,
+              "h": 0.012184
+            },
+            "label": "3-juftlik,1-variant: صَبَّ"
+          },
+          {
+            "id": "p3-b",
+            "rect": {
+              "x": 0.150625,
+              "y": 0.626054,
+              "w": 0.01625,
+              "h": 0.012184
+            },
+            "label": "3-juftlik,2-variant: سَبَّ"
+          },
+          {
+            "id": "p4-a",
+            "rect": {
+              "x": 0.834375,
+              "y": 0.674789,
+              "w": 0.01625,
+              "h": 0.012184
+            },
+            "label": "4-juftlik,1-variant: عَصِيرٌ"
+          },
+          {
+            "id": "p4-b",
+            "rect": {
+              "x": 0.738125,
+              "y": 0.674789,
+              "w": 0.01625,
+              "h": 0.012184
+            },
+            "label": "4-juftlik,2-variant: عَسِيرٌ"
+          },
+          {
+            "id": "p5-a",
+            "rect": {
+              "x": 0.535625,
+              "y": 0.674789,
+              "w": 0.01625,
+              "h": 0.012184
+            },
+            "label": "5-juftlik,1-variant: فَحَصَ"
+          },
+          {
+            "id": "p5-b",
+            "rect": {
+              "x": 0.43875,
+              "y": 0.674789,
+              "w": 0.01625,
+              "h": 0.012184
+            },
+            "label": "5-juftlik,2-variant: فَحَسَ"
+          },
+          {
+            "id": "p6-a",
+            "rect": {
+              "x": 0.240625,
+              "y": 0.674789,
+              "w": 0.01625,
+              "h": 0.012184
+            },
+            "label": "6-juftlik,1-variant: نَصْلٌ"
+          },
+          {
+            "id": "p6-b",
+            "rect": {
+              "x": 0.150625,
+              "y": 0.674789,
+              "w": 0.01625,
+              "h": 0.012184
+            },
+            "label": "6-juftlik,2-variant: نَسْلٌ"
+          }
+        ],
+        "choiceGroups": [
+          {
+            "id": "g1",
+            "slotIds": [
+              "p1-a",
+              "p1-b"
+            ]
+          },
+          {
+            "id": "g2",
+            "slotIds": [
+              "p2-a",
+              "p2-b"
+            ]
+          },
+          {
+            "id": "g3",
+            "slotIds": [
+              "p3-a",
+              "p3-b"
+            ]
+          },
+          {
+            "id": "g4",
+            "slotIds": [
+              "p4-a",
+              "p4-b"
+            ]
+          },
+          {
+            "id": "g5",
+            "slotIds": [
+              "p5-a",
+              "p5-b"
+            ]
+          },
+          {
+            "id": "g6",
+            "slotIds": [
+              "p6-a",
+              "p6-b"
+            ]
+          }
+        ],
+        "instruction": "Asl audioni tinglang. Har bir raqamli juftlikdagi ikki katakdan bittasini belgilang. So‘ng audio bilan o‘zingiz tekshiring."
+      },
+      {
+        "id": "a0-p063-e3",
+        "action": "correct",
+        "reason": "Pastdagi6haqiqiy harf bo‘shlig‘i200%tasvirda tekshirilib, yonidagi bosma harflarni berkitmaydigan joyga qo‘yildi. Audio kaliti taxmin qilinmadi.",
+        "kind": "write",
+        "region": {
+          "x": 0.1625,
+          "y": 0.825211,
+          "w": 0.63125,
+          "h": 0.074508
+        },
+        "items": [],
+        "slots": [
+          {
+            "id": "s0",
+            "rect": {
+              "x": 0.748125,
+              "y": 0.829897,
+              "w": 0.029375,
+              "h": 0.015933
+            },
+            "label": "1-yetishmagan harf"
+          },
+          {
+            "id": "s1",
+            "rect": {
+              "x": 0.49625,
+              "y": 0.829897,
+              "w": 0.030625,
+              "h": 0.015933
+            },
+            "label": "2-yetishmagan harf"
+          },
+          {
+            "id": "s2",
+            "rect": {
+              "x": 0.216875,
+              "y": 0.829897,
+              "w": 0.029375,
+              "h": 0.015933
+            },
+            "label": "3-yetishmagan harf"
+          },
+          {
+            "id": "s3",
+            "rect": {
+              "x": 0.728125,
+              "y": 0.8791,
+              "w": 0.03,
+              "h": 0.015933
+            },
+            "label": "4-yetishmagan harf"
+          },
+          {
+            "id": "s4",
+            "rect": {
+              "x": 0.465,
+              "y": 0.8791,
+              "w": 0.030625,
+              "h": 0.015933
+            },
+            "label": "5-yetishmagan harf"
+          },
+          {
+            "id": "s5",
+            "rect": {
+              "x": 0.190625,
+              "y": 0.8791,
+              "w": 0.029375,
+              "h": 0.015933
+            },
+            "label": "6-yetishmagan harf"
+          }
+        ],
+        "instruction": "Audioni tinglab, nuqtali bo‘sh joylarga yetishmagan harflarni yozing. Keyin yozganingizni asl audio bilan tekshiring."
+      }
+    ]
+  },
+  {
+    "page": 71,
+    "exerciseAudit": [
+      {
+        "id": "a0-p071-e2",
+        "action": "correct",
+        "reason": "Asl pastki tanlash bo‘limining12checkboxi va6mustaqil juftligi aniqlandi; yuqoridagi takrorlash juftlari bu mashqqa qo‘shilmadi. Tekshirilmagan audio javobi taxmin qilinmadi.",
+        "kind": "choice",
+        "region": {
+          "x": 0.06875,
+          "y": 0.608716,
+          "w": 0.8125,
+          "h": 0.094189
+        },
+        "items": [],
+        "slots": [
+          {
+            "id": "p1-a",
+            "rect": {
+              "x": 0.841875,
+              "y": 0.625117,
+              "w": 0.01625,
+              "h": 0.012184
+            },
+            "label": "1-juftlik,1-variant: ضَنِينٌ"
+          },
+          {
+            "id": "p1-b",
+            "rect": {
+              "x": 0.745625,
+              "y": 0.625117,
+              "w": 0.01625,
+              "h": 0.012184
+            },
+            "label": "1-juftlik,2-variant: ظَنِينٌ"
+          },
+          {
+            "id": "p2-a",
+            "rect": {
+              "x": 0.543125,
+              "y": 0.625117,
+              "w": 0.01625,
+              "h": 0.012184
+            },
+            "label": "2-juftlik,1-variant: أَمْضَى"
+          },
+          {
+            "id": "p2-b",
+            "rect": {
+              "x": 0.4475,
+              "y": 0.625117,
+              "w": 0.01625,
+              "h": 0.012184
+            },
+            "label": "2-juftlik,2-variant: أَمْطَى"
+          },
+          {
+            "id": "p3-a",
+            "rect": {
+              "x": 0.24875,
+              "y": 0.625117,
+              "w": 0.01625,
+              "h": 0.012184
+            },
+            "label": "3-juftlik,1-variant: حَضٌّ"
+          },
+          {
+            "id": "p3-b",
+            "rect": {
+              "x": 0.15875,
+              "y": 0.625117,
+              "w": 0.01625,
+              "h": 0.012184
+            },
+            "label": "3-juftlik,2-variant: حَطٌّ"
+          },
+          {
+            "id": "p4-a",
+            "rect": {
+              "x": 0.841875,
+              "y": 0.673383,
+              "w": 0.01625,
+              "h": 0.012184
+            },
+            "label": "4-juftlik,1-variant: ضَرِيرٌ"
+          },
+          {
+            "id": "p4-b",
+            "rect": {
+              "x": 0.745625,
+              "y": 0.673383,
+              "w": 0.01625,
+              "h": 0.012184
+            },
+            "label": "4-juftlik,2-variant: ظَرِيرٌ"
+          },
+          {
+            "id": "p5-a",
+            "rect": {
+              "x": 0.543125,
+              "y": 0.673383,
+              "w": 0.01625,
+              "h": 0.012184
+            },
+            "label": "5-juftlik,1-variant: عَضْمٌ"
+          },
+          {
+            "id": "p5-b",
+            "rect": {
+              "x": 0.4475,
+              "y": 0.673383,
+              "w": 0.01625,
+              "h": 0.012184
+            },
+            "label": "5-juftlik,2-variant: عَظْمٌ"
+          },
+          {
+            "id": "p6-a",
+            "rect": {
+              "x": 0.24875,
+              "y": 0.673383,
+              "w": 0.01625,
+              "h": 0.012184
+            },
+            "label": "6-juftlik,1-variant: فَاضَ"
+          },
+          {
+            "id": "p6-b",
+            "rect": {
+              "x": 0.15875,
+              "y": 0.673383,
+              "w": 0.01625,
+              "h": 0.012184
+            },
+            "label": "6-juftlik,2-variant: فَاظَ"
+          }
+        ],
+        "choiceGroups": [
+          {
+            "id": "g1",
+            "slotIds": [
+              "p1-a",
+              "p1-b"
+            ]
+          },
+          {
+            "id": "g2",
+            "slotIds": [
+              "p2-a",
+              "p2-b"
+            ]
+          },
+          {
+            "id": "g3",
+            "slotIds": [
+              "p3-a",
+              "p3-b"
+            ]
+          },
+          {
+            "id": "g4",
+            "slotIds": [
+              "p4-a",
+              "p4-b"
+            ]
+          },
+          {
+            "id": "g5",
+            "slotIds": [
+              "p5-a",
+              "p5-b"
+            ]
+          },
+          {
+            "id": "g6",
+            "slotIds": [
+              "p6-a",
+              "p6-b"
+            ]
+          }
+        ],
+        "instruction": "Asl audioni tinglang. Har bir raqamli juftlikdagi ikki katakdan bittasini belgilang. So‘ng audio bilan o‘zingiz tekshiring."
+      },
+      {
+        "id": "a0-p071-e3",
+        "action": "correct",
+        "reason": "Pastdagi6haqiqiy harf bo‘shlig‘i200%tasvirda tekshirilib, yonidagi bosma harflarni berkitmaydigan joyga qo‘yildi. Audio kaliti taxmin qilinmadi.",
+        "kind": "write",
+        "region": {
+          "x": 0.1625,
+          "y": 0.823805,
+          "w": 0.63125,
+          "h": 0.074977
+        },
+        "items": [],
+        "slots": [
+          {
+            "id": "s0",
+            "rect": {
+              "x": 0.721875,
+              "y": 0.828491,
+              "w": 0.0325,
+              "h": 0.015933
+            },
+            "label": "1-yetishmagan harf"
+          },
+          {
+            "id": "s1",
+            "rect": {
+              "x": 0.488125,
+              "y": 0.828491,
+              "w": 0.030625,
+              "h": 0.015933
+            },
+            "label": "2-yetishmagan harf"
+          },
+          {
+            "id": "s2",
+            "rect": {
+              "x": 0.205625,
+              "y": 0.828491,
+              "w": 0.030625,
+              "h": 0.015933
+            },
+            "label": "3-yetishmagan harf"
+          },
+          {
+            "id": "s3",
+            "rect": {
+              "x": 0.729375,
+              "y": 0.878163,
+              "w": 0.030625,
+              "h": 0.015933
+            },
+            "label": "4-yetishmagan harf"
+          },
+          {
+            "id": "s4",
+            "rect": {
+              "x": 0.508125,
+              "y": 0.878163,
+              "w": 0.031875,
+              "h": 0.015933
+            },
+            "label": "5-yetishmagan harf"
+          },
+          {
+            "id": "s5",
+            "rect": {
+              "x": 0.24125,
+              "y": 0.878163,
+              "w": 0.03125,
+              "h": 0.015933
+            },
+            "label": "6-yetishmagan harf"
+          }
+        ],
+        "instruction": "Audioni tinglab, nuqtali bo‘sh joylarga yetishmagan harflarni yozing. Keyin yozganingizni asl audio bilan tekshiring."
+      }
+    ]
+  }
+]

@@ -1,0 +1,24 @@
+{
+  "tracks": 82,
+  "refined": 1474,
+  "newlyMapped": 240,
+  "preservedLegacyRectangles": [],
+  "mapped": 1735,
+  "directEditorialRectangles": 41,
+  "splitEvents": 3,
+  "unresolvedSpeech": [
+    {
+      "track": "a0-qr-63-1",
+      "index": 2,
+      "unresolved": true,
+      "reason": "Raw transcript has one low-confidence token صا at 4.24–5.64. Printed heading contains the separate glyphs ص / س, with no صا token. Do not underline part of صائح or invent a split; listening review is required."
+    },
+    {
+      "track": "a0-qr-63-1",
+      "index": 49,
+      "unresolved": true,
+      "reason": "Final missing-letter exercise prints عـ ... ـير, not the complete word عصير. Keep this spoken answer without a full-word underline rather than pointing to the earlier answer-choice duplicate."
+    }
+  ],
+  "humanListeningComplete": false
+}

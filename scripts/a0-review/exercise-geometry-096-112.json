@@ -1,0 +1,2389 @@
+[
+  {
+    "page": 96,
+    "exerciseAudit": [
+      {
+        "id": "a0-p096-e1",
+        "action": "correct",
+        "kind": "place",
+        "region": {
+          "x": 0.12625,
+          "y": 0.445173,
+          "w": 0.79875,
+          "h": 0.489222
+        },
+        "items": [
+          {
+            "id": "i0",
+            "ar": "الْمَنْزِلُ",
+            "source": {
+              "x": 0.8075,
+              "y": 0.506092,
+              "w": 0.1175,
+              "h": 0.041237
+            },
+            "uz": "uy"
+          },
+          {
+            "id": "i1",
+            "ar": "الشَّارِعُ",
+            "source": {
+              "x": 0.67375,
+              "y": 0.506092,
+              "w": 0.1175,
+              "h": 0.041237
+            },
+            "uz": "ko‘cha"
+          },
+          {
+            "id": "i2",
+            "ar": "السَّبُّورَةُ",
+            "source": {
+              "x": 0.54,
+              "y": 0.506092,
+              "w": 0.1175,
+              "h": 0.041237
+            },
+            "uz": "doska"
+          },
+          {
+            "id": "i3",
+            "ar": "الْقَلَمُ",
+            "source": {
+              "x": 0.4075,
+              "y": 0.506092,
+              "w": 0.1175,
+              "h": 0.041237
+            },
+            "uz": "qalam"
+          },
+          {
+            "id": "i4",
+            "ar": "الْكُرْسِيُّ",
+            "source": {
+              "x": 0.27375,
+              "y": 0.506092,
+              "w": 0.1175,
+              "h": 0.041237
+            },
+            "uz": "stul"
+          },
+          {
+            "id": "i5",
+            "ar": "الْمَسْجِدُ",
+            "source": {
+              "x": 0.14,
+              "y": 0.506092,
+              "w": 0.1175,
+              "h": 0.041237
+            },
+            "uz": "masjid"
+          },
+          {
+            "id": "i6",
+            "ar": "الصَّفُّ",
+            "source": {
+              "x": 0.8075,
+              "y": 0.56045,
+              "w": 0.1175,
+              "h": 0.041237
+            },
+            "uz": "sinf"
+          },
+          {
+            "id": "i7",
+            "ar": "الدَّفْتَرُ",
+            "source": {
+              "x": 0.67375,
+              "y": 0.56045,
+              "w": 0.1175,
+              "h": 0.041237
+            },
+            "uz": "daftar"
+          },
+          {
+            "id": "i8",
+            "ar": "الْكِتَابُ",
+            "source": {
+              "x": 0.54,
+              "y": 0.56045,
+              "w": 0.1175,
+              "h": 0.041237
+            },
+            "uz": "kitob"
+          },
+          {
+            "id": "i9",
+            "ar": "الْحَقِيبَةُ",
+            "source": {
+              "x": 0.4075,
+              "y": 0.56045,
+              "w": 0.1175,
+              "h": 0.041237
+            },
+            "uz": "sumka"
+          },
+          {
+            "id": "i10",
+            "ar": "الشَّمْسُ",
+            "source": {
+              "x": 0.27375,
+              "y": 0.56045,
+              "w": 0.1175,
+              "h": 0.041237
+            },
+            "uz": "quyosh"
+          },
+          {
+            "id": "i11",
+            "ar": "الْقَمَرُ",
+            "source": {
+              "x": 0.14,
+              "y": 0.56045,
+              "w": 0.1175,
+              "h": 0.041237
+            },
+            "uz": "oy"
+          },
+          {
+            "id": "i12",
+            "ar": "الطَّعَامُ",
+            "source": {
+              "x": 0.74125,
+              "y": 0.614808,
+              "w": 0.1175,
+              "h": 0.041237
+            },
+            "uz": "taom"
+          },
+          {
+            "id": "i13",
+            "ar": "الْحَاسُوبُ",
+            "source": {
+              "x": 0.6075,
+              "y": 0.614808,
+              "w": 0.1175,
+              "h": 0.041237
+            },
+            "uz": "kompyuter"
+          },
+          {
+            "id": "i14",
+            "ar": "السَّاعَةُ",
+            "source": {
+              "x": 0.47375,
+              "y": 0.614808,
+              "w": 0.1175,
+              "h": 0.041237
+            },
+            "uz": "soat"
+          },
+          {
+            "id": "i15",
+            "ar": "الطَّاوِلَةُ",
+            "source": {
+              "x": 0.34,
+              "y": 0.614808,
+              "w": 0.1175,
+              "h": 0.041237
+            },
+            "uz": "stol"
+          },
+          {
+            "id": "i16",
+            "ar": "الْجُمُعَةُ",
+            "source": {
+              "x": 0.20625,
+              "y": 0.614808,
+              "w": 0.1175,
+              "h": 0.041237
+            },
+            "uz": "juma"
+          }
+        ],
+        "slots": [
+          {
+            "id": "s0",
+            "rect": {
+              "x": 0.20625,
+              "y": 0.699157,
+              "w": 0.27,
+              "h": 0.022493
+            },
+            "label": "Qamariy ustuni, 1-so‘z",
+            "acceptItems": [
+              "i0",
+              "i3",
+              "i4",
+              "i5",
+              "i8",
+              "i9",
+              "i11",
+              "i13",
+              "i16"
+            ]
+          },
+          {
+            "id": "s1",
+            "rect": {
+              "x": 0.20625,
+              "y": 0.723524,
+              "w": 0.27,
+              "h": 0.022493
+            },
+            "label": "Qamariy ustuni, 2-so‘z",
+            "acceptItems": [
+              "i0",
+              "i3",
+              "i4",
+              "i5",
+              "i8",
+              "i9",
+              "i11",
+              "i13",
+              "i16"
+            ]
+          },
+          {
+            "id": "s2",
+            "rect": {
+              "x": 0.20625,
+              "y": 0.747891,
+              "w": 0.27,
+              "h": 0.022493
+            },
+            "label": "Qamariy ustuni, 3-so‘z",
+            "acceptItems": [
+              "i0",
+              "i3",
+              "i4",
+              "i5",
+              "i8",
+              "i9",
+              "i11",
+              "i13",
+              "i16"
+            ]
+          },
+          {
+            "id": "s3",
+            "rect": {
+              "x": 0.20625,
+              "y": 0.772259,
+              "w": 0.27,
+              "h": 0.022493
+            },
+            "label": "Qamariy ustuni, 4-so‘z",
+            "acceptItems": [
+              "i0",
+              "i3",
+              "i4",
+              "i5",
+              "i8",
+              "i9",
+              "i11",
+              "i13",
+              "i16"
+            ]
+          },
+          {
+            "id": "s4",
+            "rect": {
+              "x": 0.20625,
+              "y": 0.796626,
+              "w": 0.27,
+              "h": 0.022493
+            },
+            "label": "Qamariy ustuni, 5-so‘z",
+            "acceptItems": [
+              "i0",
+              "i3",
+              "i4",
+              "i5",
+              "i8",
+              "i9",
+              "i11",
+              "i13",
+              "i16"
+            ]
+          },
+          {
+            "id": "s5",
+            "rect": {
+              "x": 0.20625,
+              "y": 0.820993,
+              "w": 0.27,
+              "h": 0.022493
+            },
+            "label": "Qamariy ustuni, 6-so‘z",
+            "acceptItems": [
+              "i0",
+              "i3",
+              "i4",
+              "i5",
+              "i8",
+              "i9",
+              "i11",
+              "i13",
+              "i16"
+            ]
+          },
+          {
+            "id": "s6",
+            "rect": {
+              "x": 0.20625,
+              "y": 0.845361,
+              "w": 0.27,
+              "h": 0.022493
+            },
+            "label": "Qamariy ustuni, 7-so‘z",
+            "acceptItems": [
+              "i0",
+              "i3",
+              "i4",
+              "i5",
+              "i8",
+              "i9",
+              "i11",
+              "i13",
+              "i16"
+            ]
+          },
+          {
+            "id": "s7",
+            "rect": {
+              "x": 0.20625,
+              "y": 0.869728,
+              "w": 0.27,
+              "h": 0.022493
+            },
+            "label": "Qamariy ustuni, 8-so‘z",
+            "acceptItems": [
+              "i0",
+              "i3",
+              "i4",
+              "i5",
+              "i8",
+              "i9",
+              "i11",
+              "i13",
+              "i16"
+            ]
+          },
+          {
+            "id": "s8",
+            "rect": {
+              "x": 0.20625,
+              "y": 0.894096,
+              "w": 0.27,
+              "h": 0.022493
+            },
+            "label": "Qamariy ustuni, 9-so‘z",
+            "acceptItems": [
+              "i0",
+              "i3",
+              "i4",
+              "i5",
+              "i8",
+              "i9",
+              "i11",
+              "i13",
+              "i16"
+            ]
+          },
+          {
+            "id": "s9",
+            "rect": {
+              "x": 0.58625,
+              "y": 0.699157,
+              "w": 0.27,
+              "h": 0.025305
+            },
+            "label": "Shamsiy ustuni, 1-so‘z",
+            "acceptItems": [
+              "i1",
+              "i2",
+              "i6",
+              "i7",
+              "i10",
+              "i12",
+              "i14",
+              "i15"
+            ]
+          },
+          {
+            "id": "s10",
+            "rect": {
+              "x": 0.58625,
+              "y": 0.726336,
+              "w": 0.27,
+              "h": 0.025305
+            },
+            "label": "Shamsiy ustuni, 2-so‘z",
+            "acceptItems": [
+              "i1",
+              "i2",
+              "i6",
+              "i7",
+              "i10",
+              "i12",
+              "i14",
+              "i15"
+            ]
+          },
+          {
+            "id": "s11",
+            "rect": {
+              "x": 0.58625,
+              "y": 0.753515,
+              "w": 0.27,
+              "h": 0.025305
+            },
+            "label": "Shamsiy ustuni, 3-so‘z",
+            "acceptItems": [
+              "i1",
+              "i2",
+              "i6",
+              "i7",
+              "i10",
+              "i12",
+              "i14",
+              "i15"
+            ]
+          },
+          {
+            "id": "s12",
+            "rect": {
+              "x": 0.58625,
+              "y": 0.780694,
+              "w": 0.27,
+              "h": 0.025305
+            },
+            "label": "Shamsiy ustuni, 4-so‘z",
+            "acceptItems": [
+              "i1",
+              "i2",
+              "i6",
+              "i7",
+              "i10",
+              "i12",
+              "i14",
+              "i15"
+            ]
+          },
+          {
+            "id": "s13",
+            "rect": {
+              "x": 0.58625,
+              "y": 0.807873,
+              "w": 0.27,
+              "h": 0.025305
+            },
+            "label": "Shamsiy ustuni, 5-so‘z",
+            "acceptItems": [
+              "i1",
+              "i2",
+              "i6",
+              "i7",
+              "i10",
+              "i12",
+              "i14",
+              "i15"
+            ]
+          },
+          {
+            "id": "s14",
+            "rect": {
+              "x": 0.58625,
+              "y": 0.835052,
+              "w": 0.27,
+              "h": 0.025305
+            },
+            "label": "Shamsiy ustuni, 6-so‘z",
+            "acceptItems": [
+              "i1",
+              "i2",
+              "i6",
+              "i7",
+              "i10",
+              "i12",
+              "i14",
+              "i15"
+            ]
+          },
+          {
+            "id": "s15",
+            "rect": {
+              "x": 0.58625,
+              "y": 0.862231,
+              "w": 0.27,
+              "h": 0.025305
+            },
+            "label": "Shamsiy ustuni, 7-so‘z",
+            "acceptItems": [
+              "i1",
+              "i2",
+              "i6",
+              "i7",
+              "i10",
+              "i12",
+              "i14",
+              "i15"
+            ]
+          },
+          {
+            "id": "s16",
+            "rect": {
+              "x": 0.58625,
+              "y": 0.88941,
+              "w": 0.27,
+              "h": 0.025305
+            },
+            "label": "Shamsiy ustuni, 8-so‘z",
+            "acceptItems": [
+              "i1",
+              "i2",
+              "i6",
+              "i7",
+              "i10",
+              "i12",
+              "i14",
+              "i15"
+            ]
+          }
+        ],
+        "instruction": "Asl bankdagi 17 ta so‘zni o‘z ustuniga joylang: chapda qamariy (9 ta), o‘ngda shamsiy (8 ta). Har bir so‘z bir marta ishlatiladi. Bo‘sh ustunlar javob yozish uchun qatorlarga ajratildi; الجمعة qamariy so‘zdir.",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "page": 97,
+    "exerciseAudit": [
+      {
+        "id": "a0-p097-e1",
+        "action": "correct",
+        "kind": "write",
+        "region": {
+          "x": 0.09375,
+          "y": 0.567948,
+          "w": 0.83625,
+          "h": 0.155576
+        },
+        "items": [],
+        "slots": [
+          {
+            "id": "s0",
+            "rect": {
+              "x": 0.76,
+              "y": 0.700094,
+              "w": 0.12875,
+              "h": 0.022493
+            },
+            "label": "deraza: nuqtali satr",
+            "accepted": [
+              "نَافِذَةٌ"
+            ]
+          },
+          {
+            "id": "s1",
+            "rect": {
+              "x": 0.55375,
+              "y": 0.700094,
+              "w": 0.11625,
+              "h": 0.022493
+            },
+            "label": "burun: nuqtali satr",
+            "accepted": [
+              "أَنْفٌ"
+            ]
+          },
+          {
+            "id": "s2",
+            "rect": {
+              "x": 0.34875,
+              "y": 0.700094,
+              "w": 0.12125,
+              "h": 0.022493
+            },
+            "label": "pichoq: nuqtali satr",
+            "accepted": [
+              "سِكِّينٌ"
+            ]
+          },
+          {
+            "id": "s3",
+            "rect": {
+              "x": 0.14375,
+              "y": 0.700094,
+              "w": 0.11875,
+              "h": 0.022493
+            },
+            "label": "ikki: nuqtali satr",
+            "accepted": [
+              "اِثْنَانِ"
+            ]
+          }
+        ],
+        "instruction": "Rasmlar ostida bosilgan to‘rtta so‘zni ularning tagidagi nuqtali satrlarga ko‘chirib yozing."
+      },
+      {
+        "id": "a0-p097-e2",
+        "action": "correct",
+        "kind": "write",
+        "region": {
+          "x": 0.09125,
+          "y": 0.784442,
+          "w": 0.8375,
+          "h": 0.140581
+        },
+        "items": [],
+        "slots": [
+          {
+            "id": "s0",
+            "rect": {
+              "x": 0.5725,
+              "y": 0.791003,
+              "w": 0.085,
+              "h": 0.025305
+            },
+            "label": "1-so‘z: harflarni birlashtiring",
+            "accepted": [
+              "اِثْنَانِ"
+            ]
+          },
+          {
+            "id": "s1",
+            "rect": {
+              "x": 0.5725,
+              "y": 0.840675,
+              "w": 0.085,
+              "h": 0.025305
+            },
+            "label": "2-so‘z: harflarni birlashtiring",
+            "accepted": [
+              "نَافِذَةٌ"
+            ]
+          },
+          {
+            "id": "s2",
+            "rect": {
+              "x": 0.5725,
+              "y": 0.894096,
+              "w": 0.085,
+              "h": 0.025305
+            },
+            "label": "3-so‘z: harflarni birlashtiring",
+            "accepted": [
+              "أَسْنَانٌ"
+            ]
+          },
+          {
+            "id": "s3",
+            "rect": {
+              "x": 0.1075,
+              "y": 0.791003,
+              "w": 0.085,
+              "h": 0.025305
+            },
+            "label": "4-so‘z: harflarni birlashtiring",
+            "accepted": [
+              "أَرَانِبُ"
+            ]
+          },
+          {
+            "id": "s4",
+            "rect": {
+              "x": 0.1075,
+              "y": 0.840675,
+              "w": 0.085,
+              "h": 0.025305
+            },
+            "label": "5-so‘z: harflarni birlashtiring",
+            "accepted": [
+              "نُقُودٌ"
+            ]
+          },
+          {
+            "id": "s5",
+            "rect": {
+              "x": 0.1075,
+              "y": 0.893158,
+              "w": 0.085,
+              "h": 0.025305
+            },
+            "label": "6-so‘z: harflarni birlashtiring",
+            "accepted": [
+              "نَخْلَةٌ"
+            ]
+          }
+        ],
+        "instruction": "Har bir qatordagi ajratilgan harflardan so‘z tuzing va shu qatorning chapidagi ko‘k bo‘sh katakka yozing. Raqamlar tartibi: 1–3 o‘ng ustun, 4–6 chap ustun."
+      }
+    ]
+  },
+  {
+    "page": 98,
+    "exerciseAudit": [
+      {
+        "id": "a0-p098-e1",
+        "action": "correct",
+        "kind": "write",
+        "region": {
+          "x": 0.12,
+          "y": 0.56045,
+          "w": 0.83625,
+          "h": 0.152765
+        },
+        "items": [],
+        "slots": [
+          {
+            "id": "s0",
+            "rect": {
+              "x": 0.805,
+              "y": 0.690722,
+              "w": 0.11125,
+              "h": 0.022493
+            },
+            "label": "sovg‘a: nuqtali satr",
+            "accepted": [
+              "هَدِيَّةٌ"
+            ]
+          },
+          {
+            "id": "s1",
+            "rect": {
+              "x": 0.59375,
+              "y": 0.690722,
+              "w": 0.10625,
+              "h": 0.022493
+            },
+            "label": "muhandis: nuqtali satr",
+            "accepted": [
+              "مُهَنْدِسٌ"
+            ]
+          },
+          {
+            "id": "s2",
+            "rect": {
+              "x": 0.3775,
+              "y": 0.690722,
+              "w": 0.1125,
+              "h": 0.022493
+            },
+            "label": "mevalar: nuqtali satr",
+            "accepted": [
+              "فَوَاكِهُ"
+            ]
+          },
+          {
+            "id": "s3",
+            "rect": {
+              "x": 0.1675,
+              "y": 0.690722,
+              "w": 0.11375,
+              "h": 0.022493
+            },
+            "label": "yuzlar: nuqtali satr",
+            "accepted": [
+              "وُجُوهٌ"
+            ]
+          }
+        ],
+        "instruction": "Rasmlar ostidagi to‘rtta so‘zni tagidagi nuqtali satrlarga ko‘chirib yozing."
+      },
+      {
+        "id": "a0-p098-e2",
+        "action": "correct",
+        "kind": "connect",
+        "region": {
+          "x": 0.47875,
+          "y": 0.762887,
+          "w": 0.42625,
+          "h": 0.174321
+        },
+        "items": [
+          {
+            "id": "i0",
+            "ar": "هَا",
+            "source": {
+              "x": 0.80375,
+              "y": 0.765698,
+              "w": 0.0975,
+              "h": 0.033739
+            }
+          },
+          {
+            "id": "i1",
+            "ar": "وُجُـ",
+            "source": {
+              "x": 0.80375,
+              "y": 0.810684,
+              "w": 0.0975,
+              "h": 0.033739
+            }
+          },
+          {
+            "id": "i2",
+            "ar": "هَدِ",
+            "source": {
+              "x": 0.80375,
+              "y": 0.858482,
+              "w": 0.0975,
+              "h": 0.033739
+            }
+          },
+          {
+            "id": "i3",
+            "ar": "زَهْـ",
+            "source": {
+              "x": 0.80375,
+              "y": 0.903468,
+              "w": 0.0975,
+              "h": 0.033739
+            }
+          }
+        ],
+        "slots": [
+          {
+            "id": "s0",
+            "rect": {
+              "x": 0.59125,
+              "y": 0.77507,
+              "w": 0.0175,
+              "h": 0.013121
+            },
+            "label": "رَةٌ tugash bo‘lagi",
+            "acceptItems": [
+              "i3"
+            ]
+          },
+          {
+            "id": "s1",
+            "rect": {
+              "x": 0.59125,
+              "y": 0.820056,
+              "w": 0.0175,
+              "h": 0.013121
+            },
+            "label": "يَّةٌ tugash bo‘lagi",
+            "acceptItems": [
+              "i2"
+            ]
+          },
+          {
+            "id": "s2",
+            "rect": {
+              "x": 0.59125,
+              "y": 0.867854,
+              "w": 0.0175,
+              "h": 0.013121
+            },
+            "label": "تِفٌ tugash bo‘lagi",
+            "acceptItems": [
+              "i0"
+            ]
+          },
+          {
+            "id": "s3",
+            "rect": {
+              "x": 0.59125,
+              "y": 0.91284,
+              "w": 0.0175,
+              "h": 0.013121
+            },
+            "label": "وهٌ tugash bo‘lagi",
+            "acceptItems": [
+              "i1"
+            ]
+          }
+        ],
+        "instruction": "O‘ngdagi so‘z boshlanishini o‘rtadagi mos tugash bo‘lagiga chiziq bilan ulang. Chiziqni bosma rangli nuqtalar orasida chizing. To‘liq so‘zlarni keyingi mashqda chap kataklarga yozasiz.",
+        "repeat": false
+      },
+      {
+        "id": "a0-p098-e3",
+        "action": "correct",
+        "kind": "write",
+        "region": {
+          "x": 0.12125,
+          "y": 0.763824,
+          "w": 0.1775,
+          "h": 0.171509
+        },
+        "items": [],
+        "slots": [
+          {
+            "id": "s0",
+            "rect": {
+              "x": 0.1375,
+              "y": 0.773196,
+              "w": 0.11875,
+              "h": 0.020619
+            },
+            "label": "رَةٌ yonidagi katak: gul",
+            "accepted": [
+              "زَهْرَةٌ"
+            ]
+          },
+          {
+            "id": "s1",
+            "rect": {
+              "x": 0.1375,
+              "y": 0.818182,
+              "w": 0.11875,
+              "h": 0.020619
+            },
+            "label": "يَّةٌ yonidagi katak: sovg‘a",
+            "accepted": [
+              "هَدِيَّةٌ"
+            ]
+          },
+          {
+            "id": "s2",
+            "rect": {
+              "x": 0.1375,
+              "y": 0.865979,
+              "w": 0.11875,
+              "h": 0.020619
+            },
+            "label": "تِفٌ yonidagi katak: telefon",
+            "accepted": [
+              "هَاتِفٌ"
+            ]
+          },
+          {
+            "id": "s3",
+            "rect": {
+              "x": 0.1375,
+              "y": 0.910965,
+              "w": 0.11875,
+              "h": 0.020619
+            },
+            "label": "وهٌ yonidagi katak: yuzlar",
+            "accepted": [
+              "وُجُوهٌ"
+            ]
+          }
+        ],
+        "instruction": "Hosil bo‘lgan to‘liq so‘zlarni chapdagi yashil kataklarga yozing. Har bir katak o‘z yonidagi tugash bo‘lagi bilan bir qatorda: gul, sovg‘a, telefon, yuzlar."
+      }
+    ]
+  },
+  {
+    "page": 99,
+    "exerciseAudit": [
+      {
+        "id": "a0-p099-e1",
+        "action": "correct",
+        "kind": "write",
+        "region": {
+          "x": 0.11,
+          "y": 0.145267,
+          "w": 0.80375,
+          "h": 0.258669
+        },
+        "items": [],
+        "slots": [
+          {
+            "id": "s0",
+            "rect": {
+              "x": 0.85125,
+              "y": 0.148079,
+              "w": 0.02875,
+              "h": 0.024367
+            },
+            "label": "1-rasm: هَاتِفٌ so‘zidagi yetishmagan harf",
+            "accepted": [
+              "ه"
+            ]
+          },
+          {
+            "id": "s1",
+            "rect": {
+              "x": 0.675,
+              "y": 0.148079,
+              "w": 0.02875,
+              "h": 0.024367
+            },
+            "label": "2-rasm: نَارٌ so‘zidagi yetishmagan harf",
+            "accepted": [
+              "ن"
+            ]
+          },
+          {
+            "id": "s2",
+            "rect": {
+              "x": 0.51125,
+              "y": 0.148079,
+              "w": 0.0325,
+              "h": 0.024367
+            },
+            "label": "3-rasm: مُهَنْدِسٌ so‘zidagi yetishmagan harf",
+            "accepted": [
+              "ه"
+            ]
+          },
+          {
+            "id": "s3",
+            "rect": {
+              "x": 0.33625,
+              "y": 0.148079,
+              "w": 0.0325,
+              "h": 0.024367
+            },
+            "label": "4-rasm: زَهْرَةٌ so‘zidagi yetishmagan harf",
+            "accepted": [
+              "ه"
+            ]
+          },
+          {
+            "id": "s4",
+            "rect": {
+              "x": 0.165,
+              "y": 0.148079,
+              "w": 0.03375,
+              "h": 0.024367
+            },
+            "label": "5-rasm: أَسْنَانٌ so‘zidagi yetishmagan harf",
+            "accepted": [
+              "ن"
+            ]
+          },
+          {
+            "id": "s5",
+            "rect": {
+              "x": 0.8275,
+              "y": 0.291471,
+              "w": 0.03125,
+              "h": 0.024367
+            },
+            "label": "6-rasm: نَهْرٌ so‘zidagi yetishmagan harf",
+            "accepted": [
+              "ه"
+            ]
+          },
+          {
+            "id": "s6",
+            "rect": {
+              "x": 0.66875,
+              "y": 0.291471,
+              "w": 0.03,
+              "h": 0.024367
+            },
+            "label": "7-rasm: عِنَبٌ so‘zidagi yetishmagan harf",
+            "accepted": [
+              "ن"
+            ]
+          },
+          {
+            "id": "s7",
+            "rect": {
+              "x": 0.51125,
+              "y": 0.291471,
+              "w": 0.03,
+              "h": 0.024367
+            },
+            "label": "8-rasm: أَنْفٌ so‘zidagi yetishmagan harf",
+            "accepted": [
+              "ن"
+            ]
+          },
+          {
+            "id": "s8",
+            "rect": {
+              "x": 0.37125,
+              "y": 0.291471,
+              "w": 0.0275,
+              "h": 0.024367
+            },
+            "label": "9-rasm: نَافِذَةٌ so‘zidagi yetishmagan harf",
+            "accepted": [
+              "ن"
+            ]
+          },
+          {
+            "id": "s9",
+            "rect": {
+              "x": 0.205,
+              "y": 0.291471,
+              "w": 0.0275,
+              "h": 0.024367
+            },
+            "label": "10-rasm: نَخْلَةٌ so‘zidagi yetishmagan harf",
+            "accepted": [
+              "ن"
+            ]
+          }
+        ],
+        "instruction": "Rasm nomidagi nuqtali bo‘shliqqa faqat yetishmayotgan bitta harfni yozing. Jami 10 ta alohida harf bo‘shlig‘i bor."
+      },
+      {
+        "id": "a0-p099-e2",
+        "action": "correct",
+        "kind": "connect",
+        "region": {
+          "x": 0.0975,
+          "y": 0.49672,
+          "w": 0.835,
+          "h": 0.433927
+        },
+        "items": [
+          {
+            "id": "i0",
+            "ar": "أَخَذَ اللِّصُّ النُّقُودَ.",
+            "source": {
+              "x": 0.3625,
+              "y": 0.497657,
+              "w": 0.305,
+              "h": 0.035614
+            },
+            "uz": "O‘g‘ri pullarni oldi."
+          },
+          {
+            "id": "i1",
+            "ar": "رَأَيْتُ الْهِلَالَ فِي السَّمَاءِ.",
+            "source": {
+              "x": 0.3625,
+              "y": 0.553889,
+              "w": 0.305,
+              "h": 0.035614
+            },
+            "uz": "Osmonda hilolni ko‘rdim."
+          },
+          {
+            "id": "i2",
+            "ar": "أَبِي يَعْمَلُ مُهَنْدِسًا.",
+            "source": {
+              "x": 0.3625,
+              "y": 0.611059,
+              "w": 0.305,
+              "h": 0.035614
+            },
+            "uz": "Otam muhandis bo‘lib ishlaydi."
+          },
+          {
+            "id": "i3",
+            "ar": "سَبَحَ أَخِي فِي النَّهْرِ.",
+            "source": {
+              "x": 0.3625,
+              "y": 0.667291,
+              "w": 0.305,
+              "h": 0.035614
+            },
+            "uz": "Akam daryoda suzdi."
+          },
+          {
+            "id": "i4",
+            "ar": "فَتَحْتُ النَّافِذَةَ.",
+            "source": {
+              "x": 0.3625,
+              "y": 0.723524,
+              "w": 0.305,
+              "h": 0.035614
+            },
+            "uz": "Derazani ochdim."
+          },
+          {
+            "id": "i5",
+            "ar": "الْعِنَبُ فَاكِهَةٌ لَذِيذَةٌ.",
+            "source": {
+              "x": 0.3625,
+              "y": 0.780694,
+              "w": 0.305,
+              "h": 0.035614
+            },
+            "uz": "Uzum mazali mevadir."
+          },
+          {
+            "id": "i6",
+            "ar": "تَكَلَّمْتُ مَعَ صَدِيقِي بِالْهَاتِفِ.",
+            "source": {
+              "x": 0.3625,
+              "y": 0.836926,
+              "w": 0.305,
+              "h": 0.035614
+            },
+            "uz": "Do‘stim bilan telefonda gaplashdim."
+          },
+          {
+            "id": "i7",
+            "ar": "هٰذِهِ الزَّهْرَةُ جَمِيلَةٌ.",
+            "source": {
+              "x": 0.3625,
+              "y": 0.893158,
+              "w": 0.305,
+              "h": 0.035614
+            },
+            "uz": "Bu gul chiroyli."
+          }
+        ],
+        "slots": [
+          {
+            "id": "s0",
+            "rect": {
+              "x": 0.27125,
+              "y": 0.546392,
+              "w": 0.015,
+              "h": 0.011246
+            },
+            "label": "muhandis rasmi yonidagi sariq nuqta",
+            "acceptItems": [
+              "i2"
+            ]
+          },
+          {
+            "id": "s1",
+            "rect": {
+              "x": 0.27125,
+              "y": 0.653233,
+              "w": 0.015,
+              "h": 0.011246
+            },
+            "label": "o‘g‘ri rasmi yonidagi sariq nuqta",
+            "acceptItems": [
+              "i0"
+            ]
+          },
+          {
+            "id": "s2",
+            "rect": {
+              "x": 0.27125,
+              "y": 0.761012,
+              "w": 0.015,
+              "h": 0.011246
+            },
+            "label": "gul rasmi yonidagi sariq nuqta",
+            "acceptItems": [
+              "i7"
+            ]
+          },
+          {
+            "id": "s3",
+            "rect": {
+              "x": 0.27125,
+              "y": 0.867854,
+              "w": 0.015,
+              "h": 0.011246
+            },
+            "label": "deraza rasmi yonidagi sariq nuqta",
+            "acceptItems": [
+              "i4"
+            ]
+          },
+          {
+            "id": "s4",
+            "rect": {
+              "x": 0.74125,
+              "y": 0.546392,
+              "w": 0.015,
+              "h": 0.011246
+            },
+            "label": "suzuvchi rasmi yonidagi sariq nuqta",
+            "acceptItems": [
+              "i3"
+            ]
+          },
+          {
+            "id": "s5",
+            "rect": {
+              "x": 0.74125,
+              "y": 0.653233,
+              "w": 0.015,
+              "h": 0.011246
+            },
+            "label": "hilol rasmi yonidagi sariq nuqta",
+            "acceptItems": [
+              "i1"
+            ]
+          },
+          {
+            "id": "s6",
+            "rect": {
+              "x": 0.74125,
+              "y": 0.761012,
+              "w": 0.015,
+              "h": 0.011246
+            },
+            "label": "telefon rasmi yonidagi sariq nuqta",
+            "acceptItems": [
+              "i6"
+            ]
+          },
+          {
+            "id": "s7",
+            "rect": {
+              "x": 0.74125,
+              "y": 0.867854,
+              "w": 0.015,
+              "h": 0.011246
+            },
+            "label": "uzum rasmi yonidagi sariq nuqta",
+            "acceptItems": [
+              "i5"
+            ]
+          }
+        ],
+        "instruction": "O‘rtadagi 8 ta gapning har birini mos rasm yonidagi sariq nuqtaga ulang. Rasmlar ko‘chirilmaydi; javob chiziqlar bilan beriladi.",
+        "repeat": false
+      }
+    ]
+  },
+  {
+    "page": 102,
+    "exerciseAudit": [
+      {
+        "id": "a0-p102-e1",
+        "action": "correct",
+        "kind": "write",
+        "region": {
+          "x": 0.13375,
+          "y": 0.684161,
+          "w": 0.82875,
+          "h": 0.128397
+        },
+        "items": [],
+        "slots": [
+          {
+            "id": "s0",
+            "rect": {
+              "x": 0.8625,
+              "y": 0.784442,
+              "w": 0.02875,
+              "h": 0.025305
+            },
+            "label": "زَهْرَةٌ so‘zining oxirgi harfi",
+            "accepted": [
+              "ة"
+            ]
+          },
+          {
+            "id": "s1",
+            "rect": {
+              "x": 0.7275,
+              "y": 0.784442,
+              "w": 0.02875,
+              "h": 0.025305
+            },
+            "label": "حُوتٌ so‘zining oxirgi harfi",
+            "accepted": [
+              "ت"
+            ]
+          },
+          {
+            "id": "s2",
+            "rect": {
+              "x": 0.575,
+              "y": 0.784442,
+              "w": 0.02875,
+              "h": 0.025305
+            },
+            "label": "مُعَلِّمَةٌ so‘zining oxirgi harfi",
+            "accepted": [
+              "ة"
+            ]
+          },
+          {
+            "id": "s3",
+            "rect": {
+              "x": 0.4525,
+              "y": 0.784442,
+              "w": 0.0275,
+              "h": 0.025305
+            },
+            "label": "بَيْتٌ so‘zining oxirgi harfi",
+            "accepted": [
+              "ت"
+            ]
+          },
+          {
+            "id": "s4",
+            "rect": {
+              "x": 0.30875,
+              "y": 0.784442,
+              "w": 0.0275,
+              "h": 0.025305
+            },
+            "label": "تَمْرَةٌ so‘zining oxirgi harfi",
+            "accepted": [
+              "ة"
+            ]
+          },
+          {
+            "id": "s5",
+            "rect": {
+              "x": 0.1575,
+              "y": 0.784442,
+              "w": 0.02875,
+              "h": 0.025305
+            },
+            "label": "حَقِيبَةٌ so‘zining oxirgi harfi",
+            "accepted": [
+              "ة"
+            ]
+          }
+        ],
+        "instruction": "Har bir rasm ostidagi so‘zning oxiriga mos to shaklini yozing: ت yoki ة. Jami 6 ta harf bo‘shlig‘i; butun so‘zni qayta yozish shart emas."
+      }
+    ]
+  },
+  {
+    "page": 104,
+    "exerciseAudit": [
+      {
+        "id": "a0-p104-e1",
+        "action": "correct",
+        "kind": "write",
+        "region": {
+          "x": 0.13125,
+          "y": 0.558575,
+          "w": 0.83375,
+          "h": 0.152765
+        },
+        "items": [],
+        "slots": [
+          {
+            "id": "s0",
+            "rect": {
+              "x": 0.80875,
+              "y": 0.688847,
+              "w": 0.11375,
+              "h": 0.022493
+            },
+            "label": "qog‘oz varag‘i: nuqtali satr",
+            "accepted": [
+              "وَرَقَةٌ"
+            ]
+          },
+          {
+            "id": "s1",
+            "rect": {
+              "x": 0.5975,
+              "y": 0.688847,
+              "w": 0.11,
+              "h": 0.022493
+            },
+            "label": "shaftoli: nuqtali satr",
+            "accepted": [
+              "خَوْخٌ"
+            ]
+          },
+          {
+            "id": "s2",
+            "rect": {
+              "x": 0.39,
+              "y": 0.688847,
+              "w": 0.12,
+              "h": 0.022493
+            },
+            "label": "mango: nuqtali satr",
+            "accepted": [
+              "مَانْجُو"
+            ]
+          },
+          {
+            "id": "s3",
+            "rect": {
+              "x": 0.18125,
+              "y": 0.688847,
+              "w": 0.11875,
+              "h": 0.022493
+            },
+            "label": "mo‘yna: nuqtali satr",
+            "accepted": [
+              "فَرْوٌ"
+            ]
+          }
+        ],
+        "instruction": "Rasmlar ostidagi to‘rtta so‘zni ularning tagidagi nuqtali satrlarga ko‘chirib yozing."
+      },
+      {
+        "id": "a0-p104-e2",
+        "action": "correct",
+        "kind": "connect",
+        "region": {
+          "x": 0.48875,
+          "y": 0.763824,
+          "w": 0.4275,
+          "h": 0.172446
+        },
+        "items": [
+          {
+            "id": "i0",
+            "ar": "وَرْ",
+            "source": {
+              "x": 0.815,
+              "y": 0.765698,
+              "w": 0.09875,
+              "h": 0.033739
+            }
+          },
+          {
+            "id": "i1",
+            "ar": "وَرَ",
+            "source": {
+              "x": 0.815,
+              "y": 0.810684,
+              "w": 0.09875,
+              "h": 0.033739
+            }
+          },
+          {
+            "id": "i2",
+            "ar": "وِسَـ",
+            "source": {
+              "x": 0.815,
+              "y": 0.858482,
+              "w": 0.09875,
+              "h": 0.033739
+            }
+          },
+          {
+            "id": "i3",
+            "ar": "شَوْ",
+            "source": {
+              "x": 0.815,
+              "y": 0.903468,
+              "w": 0.09875,
+              "h": 0.033739
+            }
+          }
+        ],
+        "slots": [
+          {
+            "id": "s0",
+            "rect": {
+              "x": 0.60125,
+              "y": 0.77507,
+              "w": 0.0175,
+              "h": 0.013121
+            },
+            "label": "كَةٌ tugash bo‘lagi",
+            "acceptItems": [
+              "i3"
+            ]
+          },
+          {
+            "id": "s1",
+            "rect": {
+              "x": 0.60125,
+              "y": 0.820056,
+              "w": 0.0175,
+              "h": 0.013121
+            },
+            "label": "ادَةٌ tugash bo‘lagi",
+            "acceptItems": [
+              "i2"
+            ]
+          },
+          {
+            "id": "s2",
+            "rect": {
+              "x": 0.60125,
+              "y": 0.867854,
+              "w": 0.0175,
+              "h": 0.013121
+            },
+            "label": "دَةٌ tugash bo‘lagi",
+            "acceptItems": [
+              "i0",
+              "i1"
+            ]
+          },
+          {
+            "id": "s3",
+            "rect": {
+              "x": 0.60125,
+              "y": 0.91284,
+              "w": 0.0175,
+              "h": 0.013121
+            },
+            "label": "قَةٌ tugash bo‘lagi",
+            "acceptItems": [
+              "i0",
+              "i1"
+            ]
+          }
+        ],
+        "instruction": "O‘ngdagi boshlanish bo‘laklarini o‘rtadagi mos tugash bo‘laklariga ulang. Ikkita ور bo‘lagi o‘zaro almashsa ham qabul qilinadi. To‘liq so‘zlarni keyingi mashqda chap kataklarga yozing.",
+        "repeat": false
+      },
+      {
+        "id": "a0-p104-e3",
+        "action": "correct",
+        "kind": "write",
+        "region": {
+          "x": 0.13375,
+          "y": 0.763824,
+          "w": 0.17625,
+          "h": 0.172446
+        },
+        "items": [],
+        "slots": [
+          {
+            "id": "s0",
+            "rect": {
+              "x": 0.15125,
+              "y": 0.773196,
+              "w": 0.115,
+              "h": 0.020619
+            },
+            "label": "كَةٌ yonidagi katak: sanchqi",
+            "accepted": [
+              "شَوْكَةٌ"
+            ]
+          },
+          {
+            "id": "s1",
+            "rect": {
+              "x": 0.15125,
+              "y": 0.818182,
+              "w": 0.115,
+              "h": 0.020619
+            },
+            "label": "ادَةٌ yonidagi katak: yostiq",
+            "accepted": [
+              "وِسَادَةٌ"
+            ]
+          },
+          {
+            "id": "s2",
+            "rect": {
+              "x": 0.15125,
+              "y": 0.865979,
+              "w": 0.115,
+              "h": 0.020619
+            },
+            "label": "دَةٌ yonidagi katak: gul",
+            "accepted": [
+              "وَرْدَةٌ"
+            ]
+          },
+          {
+            "id": "s3",
+            "rect": {
+              "x": 0.15125,
+              "y": 0.910965,
+              "w": 0.115,
+              "h": 0.020619
+            },
+            "label": "قَةٌ yonidagi katak: qog‘oz varag‘i",
+            "accepted": [
+              "وَرَقَةٌ"
+            ]
+          }
+        ],
+        "instruction": "Hosil bo‘lgan to‘liq so‘zlarni chapdagi yashil bo‘sh kataklarga yozing. Kataklar o‘rtadagi tugash bo‘laklari bilan bir qatorda: sanchqi, yostiq, gul, qog‘oz varag‘i."
+      }
+    ]
+  },
+  {
+    "page": 106,
+    "exerciseAudit": [
+      {
+        "id": "a0-p106-e1",
+        "action": "correct",
+        "kind": "connect",
+        "region": {
+          "x": 0.1375,
+          "y": 0.159325,
+          "w": 0.83375,
+          "h": 0.430178
+        },
+        "items": [
+          {
+            "id": "i0",
+            "ar": "النُّجُومُ فِي السَّمَاءِ.",
+            "source": {
+              "x": 0.42625,
+              "y": 0.159325,
+              "w": 0.25875,
+              "h": 0.035614
+            },
+            "uz": "Yulduzlar osmonda."
+          },
+          {
+            "id": "i1",
+            "ar": "الْإِمَامُ يُصَلِّي فِي الْمَسْجِدِ.",
+            "source": {
+              "x": 0.42625,
+              "y": 0.215558,
+              "w": 0.25875,
+              "h": 0.035614
+            },
+            "uz": "Imom masjidda namoz o‘qiyapti."
+          },
+          {
+            "id": "i2",
+            "ar": "يَطْبُخُ الطَّاهِي الطَّعَامَ.",
+            "source": {
+              "x": 0.42625,
+              "y": 0.27179,
+              "w": 0.25875,
+              "h": 0.035614
+            },
+            "uz": "Oshpaz ovqat pishiryapti."
+          },
+          {
+            "id": "i3",
+            "ar": "آكُلُ بِالْمِلْعَقَةِ وَالشَّوْكَةِ.",
+            "source": {
+              "x": 0.42625,
+              "y": 0.328022,
+              "w": 0.25875,
+              "h": 0.035614
+            },
+            "uz": "Qoshiq va sanchqi bilan ovqat yeyman."
+          },
+          {
+            "id": "i4",
+            "ar": "يَلْعَبُ الْأَطْفَالُ بِالْكُرَةِ.",
+            "source": {
+              "x": 0.42625,
+              "y": 0.384255,
+              "w": 0.25875,
+              "h": 0.035614
+            },
+            "uz": "Bolalar to‘p o‘ynashyapti."
+          },
+          {
+            "id": "i5",
+            "ar": "رَائِحَةُ الْوَرْدَةِ جَمِيلَةٌ.",
+            "source": {
+              "x": 0.42625,
+              "y": 0.440487,
+              "w": 0.25875,
+              "h": 0.035614
+            },
+            "uz": "Gulning hidi yoqimli."
+          },
+          {
+            "id": "i6",
+            "ar": "يَكْوِي الرَّجُلُ الْقَمِيصَ.",
+            "source": {
+              "x": 0.42625,
+              "y": 0.49672,
+              "w": 0.25875,
+              "h": 0.035614
+            },
+            "uz": "Erkak ko‘ylakni dazmollayapti."
+          },
+          {
+            "id": "i7",
+            "ar": "أَلْوَانُ الطَّاوُوسِ كَثِيرَةٌ.",
+            "source": {
+              "x": 0.42625,
+              "y": 0.552952,
+              "w": 0.25875,
+              "h": 0.035614
+            },
+            "uz": "Tovusning ranglari ko‘p."
+          }
+        ],
+        "slots": [
+          {
+            "id": "s0",
+            "rect": {
+              "x": 0.3125,
+              "y": 0.206186,
+              "w": 0.015,
+              "h": 0.011246
+            },
+            "label": "imom rasmi yonidagi sariq nuqta",
+            "acceptItems": [
+              "i1"
+            ]
+          },
+          {
+            "id": "s1",
+            "rect": {
+              "x": 0.3125,
+              "y": 0.313964,
+              "w": 0.015,
+              "h": 0.011246
+            },
+            "label": "oshpaz rasmi yonidagi sariq nuqta",
+            "acceptItems": [
+              "i2"
+            ]
+          },
+          {
+            "id": "s2",
+            "rect": {
+              "x": 0.3125,
+              "y": 0.420806,
+              "w": 0.015,
+              "h": 0.011246
+            },
+            "label": "to‘p o‘ynayotgan bolalar rasmi yonidagi sariq nuqta",
+            "acceptItems": [
+              "i4"
+            ]
+          },
+          {
+            "id": "s3",
+            "rect": {
+              "x": 0.3125,
+              "y": 0.527648,
+              "w": 0.015,
+              "h": 0.011246
+            },
+            "label": "gul hidlayotgan kishi rasmi yonidagi sariq nuqta",
+            "acceptItems": [
+              "i5"
+            ]
+          },
+          {
+            "id": "s4",
+            "rect": {
+              "x": 0.78375,
+              "y": 0.206186,
+              "w": 0.015,
+              "h": 0.011246
+            },
+            "label": "yulduz rasmi yonidagi sariq nuqta",
+            "acceptItems": [
+              "i0"
+            ]
+          },
+          {
+            "id": "s5",
+            "rect": {
+              "x": 0.78375,
+              "y": 0.313964,
+              "w": 0.015,
+              "h": 0.011246
+            },
+            "label": "ovqatlanish rasmi yonidagi sariq nuqta",
+            "acceptItems": [
+              "i3"
+            ]
+          },
+          {
+            "id": "s6",
+            "rect": {
+              "x": 0.78375,
+              "y": 0.420806,
+              "w": 0.015,
+              "h": 0.011246
+            },
+            "label": "dazmollash rasmi yonidagi sariq nuqta",
+            "acceptItems": [
+              "i6"
+            ]
+          },
+          {
+            "id": "s7",
+            "rect": {
+              "x": 0.78375,
+              "y": 0.527648,
+              "w": 0.015,
+              "h": 0.011246
+            },
+            "label": "tovus rasmi yonidagi sariq nuqta",
+            "acceptItems": [
+              "i7"
+            ]
+          }
+        ],
+        "instruction": "O‘rtadagi 8 ta gapni mos rasm yonidagi sariq nuqtaga ulang. Chiziqlar rasmning ustiga emas, yonidagi nuqtaga boradi.",
+        "repeat": false
+      },
+      {
+        "id": "a0-p106-e2",
+        "action": "correct",
+        "kind": "write",
+        "region": {
+          "x": 0.29375,
+          "y": 0.665417,
+          "w": 0.52375,
+          "h": 0.260544
+        },
+        "items": [],
+        "slots": [
+          {
+            "id": "s0",
+            "rect": {
+              "x": 0.6,
+              "y": 0.753515,
+              "w": 0.1725,
+              "h": 0.032802
+            },
+            "label": "و (vov) qatnashgan 1-so‘z"
+          },
+          {
+            "id": "s1",
+            "rect": {
+              "x": 0.6,
+              "y": 0.811621,
+              "w": 0.1725,
+              "h": 0.032802
+            },
+            "label": "و (vov) qatnashgan 2-so‘z"
+          },
+          {
+            "id": "s2",
+            "rect": {
+              "x": 0.6,
+              "y": 0.868791,
+              "w": 0.1725,
+              "h": 0.032802
+            },
+            "label": "و (vov) qatnashgan 3-so‘z"
+          },
+          {
+            "id": "s3",
+            "rect": {
+              "x": 0.33625,
+              "y": 0.753515,
+              "w": 0.1725,
+              "h": 0.032802
+            },
+            "label": "ي (yo) qatnashgan 1-so‘z"
+          },
+          {
+            "id": "s4",
+            "rect": {
+              "x": 0.33625,
+              "y": 0.811621,
+              "w": 0.1725,
+              "h": 0.032802
+            },
+            "label": "ي (yo) qatnashgan 2-so‘z"
+          },
+          {
+            "id": "s5",
+            "rect": {
+              "x": 0.33625,
+              "y": 0.868791,
+              "w": 0.1725,
+              "h": 0.032802
+            },
+            "label": "ي (yo) qatnashgan 3-so‘z"
+          }
+        ],
+        "instruction": "O‘ngdagi و (vov) ustuniga shu harf qatnashgan 3 ta so‘z, chapdagi ي (yo) ustuniga shu harf qatnashgan 3 ta so‘z yozing. Javoblar erkin: kitob, audio yoki ustoz bilan solishtirib, bajarilgan deb belgilang."
+      }
+    ]
+  },
+  {
+    "page": 109,
+    "exerciseAudit": [
+      {
+        "id": "a0-p109-e1",
+        "action": "correct",
+        "kind": "connect",
+        "region": {
+          "x": 0.10125,
+          "y": 0.078725,
+          "w": 0.7975,
+          "h": 0.21462
+        },
+        "items": [
+          {
+            "id": "i0",
+            "ar": "كَبِيرٌ",
+            "source": {
+              "x": 0.83625,
+              "y": 0.126523,
+              "w": 0.02,
+              "h": 0.014995
+            },
+            "uz": "katta"
+          },
+          {
+            "id": "i1",
+            "ar": "سَمِينٌ",
+            "source": {
+              "x": 0.6975,
+              "y": 0.126523,
+              "w": 0.02,
+              "h": 0.014995
+            },
+            "uz": "semiz"
+          },
+          {
+            "id": "i2",
+            "ar": "جَدِيدٌ",
+            "source": {
+              "x": 0.55875,
+              "y": 0.126523,
+              "w": 0.02,
+              "h": 0.014995
+            },
+            "uz": "yangi"
+          },
+          {
+            "id": "i3",
+            "ar": "سَهْلٌ",
+            "source": {
+              "x": 0.42,
+              "y": 0.126523,
+              "w": 0.02,
+              "h": 0.014995
+            },
+            "uz": "oson"
+          },
+          {
+            "id": "i4",
+            "ar": "قَرِيبٌ",
+            "source": {
+              "x": 0.28125,
+              "y": 0.126523,
+              "w": 0.02,
+              "h": 0.014995
+            },
+            "uz": "yaqin"
+          },
+          {
+            "id": "i5",
+            "ar": "بَارِدٌ",
+            "source": {
+              "x": 0.1425,
+              "y": 0.126523,
+              "w": 0.02,
+              "h": 0.014995
+            },
+            "uz": "sovuq"
+          }
+        ],
+        "slots": [
+          {
+            "id": "s0",
+            "rect": {
+              "x": 0.8375,
+              "y": 0.230553,
+              "w": 0.02,
+              "h": 0.014995
+            },
+            "label": "قَدِيمٌ — eski: yuqoridagi nuqta",
+            "acceptItems": [
+              "i2"
+            ]
+          },
+          {
+            "id": "s1",
+            "rect": {
+              "x": 0.6975,
+              "y": 0.230553,
+              "w": 0.02,
+              "h": 0.014995
+            },
+            "label": "بَعِيدٌ — uzoq: yuqoridagi nuqta",
+            "acceptItems": [
+              "i4"
+            ]
+          },
+          {
+            "id": "s2",
+            "rect": {
+              "x": 0.55875,
+              "y": 0.230553,
+              "w": 0.02,
+              "h": 0.014995
+            },
+            "label": "حَارٌّ — issiq: yuqoridagi nuqta",
+            "acceptItems": [
+              "i5"
+            ]
+          },
+          {
+            "id": "s3",
+            "rect": {
+              "x": 0.42,
+              "y": 0.230553,
+              "w": 0.02,
+              "h": 0.014995
+            },
+            "label": "صَغِيرٌ — kichik: yuqoridagi nuqta",
+            "acceptItems": [
+              "i0"
+            ]
+          },
+          {
+            "id": "s4",
+            "rect": {
+              "x": 0.28125,
+              "y": 0.230553,
+              "w": 0.02,
+              "h": 0.014995
+            },
+            "label": "نَحِيفٌ — ozg‘in: yuqoridagi nuqta",
+            "acceptItems": [
+              "i1"
+            ]
+          },
+          {
+            "id": "s5",
+            "rect": {
+              "x": 0.1425,
+              "y": 0.230553,
+              "w": 0.02,
+              "h": 0.014995
+            },
+            "label": "صَعْبٌ — qiyin: yuqoridagi nuqta",
+            "acceptItems": [
+              "i3"
+            ]
+          }
+        ],
+        "instruction": "Yuqoridagi yashil so‘zning pastidagi nuqtani unga zid ma’noli qizil so‘zning ustidagi sariq nuqtaga ulang. Har bir so‘z bir marta ishlatiladi.",
+        "repeat": false
+      },
+      {
+        "id": "a0-p109-e2",
+        "action": "correct",
+        "kind": "place",
+        "region": {
+          "x": 0.10125,
+          "y": 0.404873,
+          "w": 0.8,
+          "h": 0.172446
+        },
+        "items": [
+          {
+            "id": "i0",
+            "ar": "سَمِينٌ",
+            "source": {
+              "x": 0.7975,
+              "y": 0.406748,
+              "w": 0.10125,
+              "h": 0.038425
+            },
+            "uz": "semiz"
+          },
+          {
+            "id": "i1",
+            "ar": "لَذِيذَةٌ",
+            "source": {
+              "x": 0.6575,
+              "y": 0.406748,
+              "w": 0.10125,
+              "h": 0.038425
+            },
+            "uz": "mazali"
+          },
+          {
+            "id": "i2",
+            "ar": "خَفِيفَةٌ",
+            "source": {
+              "x": 0.51875,
+              "y": 0.406748,
+              "w": 0.10125,
+              "h": 0.038425
+            },
+            "uz": "yengil"
+          },
+          {
+            "id": "i3",
+            "ar": "مَفْتُوحٌ",
+            "source": {
+              "x": 0.38,
+              "y": 0.406748,
+              "w": 0.10125,
+              "h": 0.038425
+            },
+            "uz": "ochiq"
+          },
+          {
+            "id": "i4",
+            "ar": "سَهْلٌ",
+            "source": {
+              "x": 0.24125,
+              "y": 0.406748,
+              "w": 0.10125,
+              "h": 0.038425
+            },
+            "uz": "oson"
+          },
+          {
+            "id": "i5",
+            "ar": "حَارٌّ",
+            "source": {
+              "x": 0.10125,
+              "y": 0.406748,
+              "w": 0.10125,
+              "h": 0.038425
+            },
+            "uz": "issiq"
+          }
+        ],
+        "slots": [
+          {
+            "id": "s0",
+            "rect": {
+              "x": 0.6975,
+              "y": 0.472352,
+              "w": 0.08375,
+              "h": 0.024367
+            },
+            "label": "1. الحقيبة: sumka qanday?",
+            "acceptItems": [
+              "i2"
+            ]
+          },
+          {
+            "id": "s1",
+            "rect": {
+              "x": 0.11125,
+              "y": 0.472352,
+              "w": 0.0825,
+              "h": 0.024367
+            },
+            "label": "2. الدرس: dars qanday?",
+            "acceptItems": [
+              "i4"
+            ]
+          },
+          {
+            "id": "s2",
+            "rect": {
+              "x": 0.72375,
+              "y": 0.511715,
+              "w": 0.07625,
+              "h": 0.024367
+            },
+            "label": "3. الباب: eshik qanday?",
+            "acceptItems": [
+              "i3"
+            ]
+          },
+          {
+            "id": "s3",
+            "rect": {
+              "x": 0.11125,
+              "y": 0.511715,
+              "w": 0.0825,
+              "h": 0.024367
+            },
+            "label": "4. الجو: havo qanday?",
+            "acceptItems": [
+              "i5"
+            ]
+          },
+          {
+            "id": "s4",
+            "rect": {
+              "x": 0.71,
+              "y": 0.550141,
+              "w": 0.085,
+              "h": 0.024367
+            },
+            "label": "5. الرجل: erkak qanday?",
+            "acceptItems": [
+              "i0"
+            ]
+          },
+          {
+            "id": "s5",
+            "rect": {
+              "x": 0.11125,
+              "y": 0.550141,
+              "w": 0.0825,
+              "h": 0.024367
+            },
+            "label": "6. الفواكه: mevalar qanday?",
+            "acceptItems": [
+              "i1"
+            ]
+          }
+        ],
+        "instruction": "O‘rtadagi asl bankdan mos sifatni tanlab, tegishli gapning nuqtali bo‘shlig‘iga joylang. Raqamlar tartibi: 1 o‘ng yuqori, 2 chap yuqori, 3 o‘ng o‘rta, 4 chap o‘rta, 5 o‘ng past, 6 chap past.",
+        "repeat": false
+      },
+      {
+        "id": "a0-p109-e3",
+        "action": "correct",
+        "kind": "write",
+        "region": {
+          "x": 0.46125,
+          "y": 0.697282,
+          "w": 0.45125,
+          "h": 0.225867
+        },
+        "items": [],
+        "slots": [
+          {
+            "id": "s0",
+            "rect": {
+              "x": 0.46375,
+              "y": 0.700094,
+              "w": 0.08375,
+              "h": 0.027179
+            },
+            "label": "1. الجامعة بعيدة والبيت ...",
+            "accepted": [
+              "قَرِيبٌ"
+            ]
+          },
+          {
+            "id": "s1",
+            "rect": {
+              "x": 0.46375,
+              "y": 0.739456,
+              "w": 0.08375,
+              "h": 0.027179
+            },
+            "label": "2. هذا طالب كسلان وهذا طالب ...",
+            "accepted": [
+              "نَشِيطٌ"
+            ]
+          },
+          {
+            "id": "s2",
+            "rect": {
+              "x": 0.46375,
+              "y": 0.778819,
+              "w": 0.08375,
+              "h": 0.027179
+            },
+            "label": "3. الجو أمس بارد واليوم ...",
+            "accepted": [
+              "حَارٌّ"
+            ]
+          },
+          {
+            "id": "s3",
+            "rect": {
+              "x": 0.46375,
+              "y": 0.818182,
+              "w": 0.08375,
+              "h": 0.027179
+            },
+            "label": "4. خذ القلم القديم وأعطني ...",
+            "accepted": [
+              "الْجَدِيدَ"
+            ]
+          },
+          {
+            "id": "s4",
+            "rect": {
+              "x": 0.46375,
+              "y": 0.857545,
+              "w": 0.08375,
+              "h": 0.027179
+            },
+            "label": "5. الفيل ثقيل والعصفور ...",
+            "accepted": [
+              "خَفِيفٌ"
+            ]
+          },
+          {
+            "id": "s5",
+            "rect": {
+              "x": 0.46375,
+              "y": 0.896907,
+              "w": 0.08375,
+              "h": 0.027179
+            },
+            "label": "6. الباب مفتوح والنافذة ...",
+            "accepted": [
+              "مُغْلَقَةٌ"
+            ]
+          }
+        ],
+        "instruction": "Har bir gapdagi qizil sifatning zid ma’nosini nuqtali satrga yozing. Gapning jinsi va aniqlik shaklini saqlang; 4-gapda الجديد, 6-gapda مغلقة yoziladi."
+      }
+    ]
+  }
+]

@@ -1,0 +1,882 @@
+{
+  "pages": [
+    {
+      "page": 1,
+      "reviewed": true,
+      "words": 18,
+      "exercises": 0,
+      "notes": []
+    },
+    {
+      "page": 2,
+      "reviewed": true,
+      "words": 73,
+      "exercises": 0,
+      "notes": []
+    },
+    {
+      "page": 3,
+      "reviewed": true,
+      "words": 0,
+      "exercises": 0,
+      "notes": [
+        "Asl page-003.webp alohida ko‘rib chiqildi: bo‘sh oq sahifa. Arabcha yozuv, sahifa raqami va topshiriq yo‘q; words=[] hamda exerciseAudit=[] shu sabab to‘g‘ri."
+      ]
+    },
+    {
+      "page": 4,
+      "reviewed": true,
+      "words": 272,
+      "exercises": 0,
+      "notes": []
+    },
+    {
+      "page": 5,
+      "reviewed": true,
+      "words": 229,
+      "exercises": 0,
+      "notes": []
+    },
+    {
+      "page": 6,
+      "reviewed": true,
+      "words": 134,
+      "exercises": 0,
+      "notes": [
+        "Mundarijadagi ثاء satrida 18 bosilgan; asl dars sahifasi 19. Bosma matn o‘zgartirilmadi."
+      ]
+    },
+    {
+      "page": 7,
+      "reviewed": true,
+      "words": 142,
+      "exercises": 0,
+      "notes": []
+    },
+    {
+      "page": 8,
+      "reviewed": true,
+      "words": 56,
+      "exercises": 1,
+      "notes": []
+    },
+    {
+      "page": 9,
+      "reviewed": true,
+      "words": 21,
+      "exercises": 0,
+      "notes": []
+    },
+    {
+      "page": 10,
+      "reviewed": true,
+      "words": 22,
+      "exercises": 0,
+      "notes": []
+    },
+    {
+      "page": 11,
+      "reviewed": true,
+      "words": 61,
+      "exercises": 0,
+      "notes": []
+    },
+    {
+      "page": 12,
+      "reviewed": true,
+      "words": 186,
+      "exercises": 0,
+      "notes": []
+    },
+    {
+      "page": 13,
+      "reviewed": true,
+      "words": 69,
+      "exercises": 2,
+      "notes": []
+    },
+    {
+      "page": 14,
+      "reviewed": true,
+      "words": 73,
+      "exercises": 3,
+      "notes": [
+        "Quyi sariq jadval yangi to‘ldirish mashqi emas, olti harfning ulanish qoidasini ko‘rsatadigan namuna. Unda sun’iy yozuv maydonlari yaratilmaydi."
+      ]
+    },
+    {
+      "page": 15,
+      "reviewed": true,
+      "words": 58,
+      "exercises": 1,
+      "notes": [
+        "Tanvin jadvalining uch qatoridagi 12 to‘liq so‘z va uch alohida tanvin belgisi qo‘lda o‘qildi. U yerda yozish uchun bo‘sh katak yo‘q; faqat tinglash/o‘qish namunalari.",
+        "Qizil doiradagi oq shakl س harfi emas — kattalashtirilgan tashdid belgisi (ّ).",
+        "Pastdagi tahlil harflarga ajratishdir: حَمَّامٌ → حَ / مْ / مَ / ا / مٌ; مُعَلِّمٌ → مُ / عَ / لْ / لِ / مٌ; كُرْسِيٌّ → كُ / رْ / سِ / يْ / يٌ; سَبُّورَةٌ → سَ / بْ / بُ / و / رَ / ةٌ."
+      ]
+    },
+    {
+      "page": 16,
+      "reviewed": true,
+      "words": 50,
+      "exercises": 3,
+      "notes": []
+    },
+    {
+      "page": 17,
+      "reviewed": true,
+      "words": 48,
+      "exercises": 3,
+      "notes": []
+    },
+    {
+      "page": 18,
+      "reviewed": true,
+      "words": 48,
+      "exercises": 3,
+      "notes": []
+    },
+    {
+      "page": 19,
+      "reviewed": true,
+      "words": 48,
+      "exercises": 3,
+      "notes": []
+    },
+    {
+      "page": 20,
+      "reviewed": true,
+      "words": 49,
+      "exercises": 1,
+      "notes": []
+    },
+    {
+      "page": 21,
+      "reviewed": true,
+      "words": 63,
+      "exercises": 2,
+      "notes": []
+    },
+    {
+      "page": 22,
+      "reviewed": true,
+      "words": 55,
+      "exercises": 2,
+      "notes": [
+        "22-sahifa: صباح→الخير va مساء→النور juftligi hamda teskari صباح→النور/مساء→الخير mumkin; agar bir nechta kalit qo‘llansa mazmuniy moslikni hisobga olish kerak."
+      ]
+    },
+    {
+      "page": 23,
+      "reviewed": true,
+      "words": 75,
+      "exercises": 3,
+      "notes": []
+    },
+    {
+      "page": 24,
+      "reviewed": true,
+      "words": 35,
+      "exercises": 1,
+      "notes": []
+    },
+    {
+      "page": 25,
+      "reviewed": true,
+      "words": 68,
+      "exercises": 2,
+      "notes": []
+    },
+    {
+      "page": 26,
+      "reviewed": true,
+      "words": 68,
+      "exercises": 2,
+      "notes": []
+    },
+    {
+      "page": 27,
+      "reviewed": true,
+      "words": 66,
+      "exercises": 2,
+      "notes": []
+    },
+    {
+      "page": 28,
+      "reviewed": true,
+      "words": 42,
+      "exercises": 3,
+      "notes": []
+    },
+    {
+      "page": 29,
+      "reviewed": true,
+      "words": 52,
+      "exercises": 2,
+      "notes": []
+    },
+    {
+      "page": 30,
+      "reviewed": true,
+      "words": 58,
+      "exercises": 2,
+      "notes": []
+    },
+    {
+      "page": 31,
+      "reviewed": true,
+      "words": 75,
+      "exercises": 3,
+      "notes": [
+        "سَمَاهٌ minimal juftlikdagi shakl o‘qildi; bu o‘rindagi mustaqil lug‘aviy ma’nosi ishonchli aniqlanmagani tarjimada ochiq yozildi. Ma’no uydirilmadi."
+      ]
+    },
+    {
+      "page": 32,
+      "reviewed": true,
+      "words": 55,
+      "exercises": 1,
+      "notes": []
+    },
+    {
+      "page": 33,
+      "reviewed": true,
+      "words": 34,
+      "exercises": 1,
+      "notes": []
+    },
+    {
+      "page": 34,
+      "reviewed": true,
+      "words": 70,
+      "exercises": 2,
+      "notes": []
+    },
+    {
+      "page": 35,
+      "reviewed": true,
+      "words": 55,
+      "exercises": 3,
+      "notes": []
+    },
+    {
+      "page": 36,
+      "reviewed": true,
+      "words": 31,
+      "exercises": 2,
+      "notes": [
+        "To‘liq bo‘lmagan so‘zlar bosma holida qoldirilib, ma’nosi va yetishmagan harfi tarjimada tushuntirildi."
+      ]
+    },
+    {
+      "page": 37,
+      "reviewed": true,
+      "words": 62,
+      "exercises": 4,
+      "notes": []
+    },
+    {
+      "page": 38,
+      "reviewed": true,
+      "words": 67,
+      "exercises": 3,
+      "notes": []
+    },
+    {
+      "page": 39,
+      "reviewed": true,
+      "words": 82,
+      "exercises": 2,
+      "notes": []
+    },
+    {
+      "page": 40,
+      "reviewed": true,
+      "words": 56,
+      "exercises": 3,
+      "notes": []
+    },
+    {
+      "page": 41,
+      "reviewed": true,
+      "words": 85,
+      "exercises": 1,
+      "notes": [
+        "Javobdagi mazmun to‘g‘ri bo‘lsa tinish belgisi va qo‘shimcha tabiiy iboralar sababli rad etilmasin."
+      ]
+    },
+    {
+      "page": 42,
+      "reviewed": true,
+      "words": 41,
+      "exercises": 2,
+      "notes": []
+    },
+    {
+      "page": 43,
+      "reviewed": true,
+      "words": 58,
+      "exercises": 2,
+      "notes": []
+    },
+    {
+      "page": 44,
+      "reviewed": true,
+      "words": 37,
+      "exercises": 2,
+      "notes": []
+    },
+    {
+      "page": 45,
+      "reviewed": true,
+      "words": 59,
+      "exercises": 2,
+      "notes": []
+    },
+    {
+      "page": 46,
+      "reviewed": true,
+      "words": 51,
+      "exercises": 1,
+      "notes": [
+        "Tayyor soat nomlaridagi raqamlar chizmasi alohida mashq emas. Ayrim bo‘sh joylar soat nomidan uzunroq yozuv uchun yetarli kengaytirilishi kerak; nom butun rasmni qoplamasin."
+      ]
+    },
+    {
+      "page": 47,
+      "reviewed": true,
+      "words": 80,
+      "exercises": 2,
+      "notes": []
+    },
+    {
+      "page": 48,
+      "reviewed": true,
+      "words": 78,
+      "exercises": 3,
+      "notes": [
+        "48-sahifadagi kam ishlatiladigan حَاذَ — podani tez haydash/asrash: Lisān al-ʿArab, حوذ: https://islamweb.net/ar/library/content/122/1979/حوذ . نَزَرَ — kamaytirdi: Qohira Arab tili akademiyasi, الوسيط: https://www.arabicacademy.gov.eg/ar/محرك-البحث/نَزَرَ?exact_search=true . إِذَالَةٌ — etakni uzaytirish/xor qilish; إزالة bilan adashtirilmasin.",
+        "Ikkinchi va uchinchi tinglash mashqining javob kaliti QR audio bilan tekshirilmagan. Bosma ko‘rinishning o‘zi qaysi variant o‘qilganini aytmaydi; shu sabab taxminiy to‘g‘ri/xato kalit qo‘yilmadi."
+      ]
+    },
+    {
+      "page": 49,
+      "reviewed": true,
+      "words": 47,
+      "exercises": 1,
+      "notes": []
+    },
+    {
+      "page": 50,
+      "reviewed": true,
+      "words": 47,
+      "exercises": 2,
+      "notes": [
+        "Bo‘g‘inlar tovush bo‘yicha ajratildi: سَاعَةٌ = سَا / عَ / تُنْ; سَيَّارَةٌ = سَيْ / يَا / رَ / تُنْ. Oxirgi katakda bosma ta marbuta ةٌ yoki talaffuz yozuvi تُنْ qabul qilinadi."
+      ]
+    },
+    {
+      "page": 51,
+      "reviewed": true,
+      "words": 63,
+      "exercises": 2,
+      "notes": []
+    },
+    {
+      "page": 52,
+      "reviewed": true,
+      "words": 38,
+      "exercises": 2,
+      "notes": []
+    },
+    {
+      "page": 53,
+      "reviewed": true,
+      "words": 28,
+      "exercises": 3,
+      "notes": [
+        "Chapdagi to‘rtta erkin gap yozish chizig‘i uchun bir mantiqiy tartib tanlandi. O‘quvchining boshqa tartibda yozgan mazmunan to‘g‘ri gapini avtomatik xato demaslik kerak; yakuniy yozuv mashqi erkin tekshiruvni ham saqlasin."
+      ]
+    },
+    {
+      "page": 54,
+      "reviewed": true,
+      "words": 87,
+      "exercises": 2,
+      "notes": [
+        "54-sahifadagi asl mashq og‘zaki savol-javob: bajarilganlik foydalanuvchi/ustoz tasdig‘i bilan belgilanadi; bosmada yo‘q bo‘sh joylar va yagona majburiy javob yaratilmaydi."
+      ]
+    },
+    {
+      "page": 55,
+      "reviewed": true,
+      "words": 77,
+      "exercises": 3,
+      "notes": [
+        "وَسَبَ bu yerda xato yozilgan وَثَبَ emas: Qohira Arab tili akademiyasi الوسيط lug‘atida وَسَبَتِ الأَرْضُ تَسِبُ وَسْبًا — yerda o‘t-o‘lan ko‘paydi. Birlik fe’l shakllari lug‘atdagi asldan chiqarildi: وَسَبَ / يَسِبُ / سِبْ / وَسْبٌ. Manba: https://www.arabicacademy.gov.eg/ar/محرك-البحث/وَسَبَ?exact_search=true .",
+        "Tinglash tanlovi va yetishmagan harflar mashqi uchun QR audiodagi haqiqiy o‘qilish alohida tinglab tasdiqlanishi kerak. So‘zning ko‘rinishiga qarab kalit taxmin qilinmadi."
+      ]
+    },
+    {
+      "page": 56,
+      "reviewed": true,
+      "words": 36,
+      "exercises": 1,
+      "notes": []
+    },
+    {
+      "page": 57,
+      "reviewed": true,
+      "words": 68,
+      "exercises": 2,
+      "notes": []
+    },
+    {
+      "page": 58,
+      "reviewed": true,
+      "words": 40,
+      "exercises": 2,
+      "notes": []
+    },
+    {
+      "page": 59,
+      "reviewed": true,
+      "words": 29,
+      "exercises": 3,
+      "notes": []
+    },
+    {
+      "page": 60,
+      "reviewed": true,
+      "words": 64,
+      "exercises": 3,
+      "notes": []
+    },
+    {
+      "page": 61,
+      "reviewed": true,
+      "words": 55,
+      "exercises": 1,
+      "notes": [
+        "Rasm ichidagi qiya doskada dekorativ arab alifbosi shakllari va 2019 soni bor; ular asosiy 20 ta lug‘at yorlig‘idan alohida. Har bir kichik qiya glifni aniq individual ajratish bu yozuvda tugallanmagan."
+      ]
+    },
+    {
+      "page": 62,
+      "reviewed": true,
+      "words": 81,
+      "exercises": 2,
+      "notes": []
+    },
+    {
+      "page": 63,
+      "reviewed": true,
+      "words": 77,
+      "exercises": 3,
+      "notes": [
+        "سُورَةٌ rasmining o‘zida juda kichik Qur’on sahifasi tasviri bor. Asosiy mashqning barcha so‘zlari kiritildi; rasm ichidagi kichik mushaf satrlari alohida individual tarjima nuqtalariga to‘liq ajratilmagan."
+      ]
+    },
+    {
+      "page": 64,
+      "reviewed": true,
+      "words": 33,
+      "exercises": 1,
+      "notes": []
+    },
+    {
+      "page": 65,
+      "reviewed": true,
+      "words": 67,
+      "exercises": 2,
+      "notes": []
+    },
+    {
+      "page": 66,
+      "reviewed": true,
+      "words": 47,
+      "exercises": 2,
+      "notes": []
+    },
+    {
+      "page": 67,
+      "reviewed": true,
+      "words": 47,
+      "exercises": 3,
+      "notes": []
+    },
+    {
+      "page": 68,
+      "reviewed": true,
+      "words": 41,
+      "exercises": 2,
+      "notes": []
+    },
+    {
+      "page": 69,
+      "reviewed": true,
+      "words": 54,
+      "exercises": 1,
+      "notes": []
+    },
+    {
+      "page": 70,
+      "reviewed": true,
+      "words": 84,
+      "exercises": 1,
+      "notes": []
+    },
+    {
+      "page": 71,
+      "reviewed": true,
+      "words": 78,
+      "exercises": 3,
+      "notes": []
+    },
+    {
+      "page": 72,
+      "reviewed": true,
+      "words": 40,
+      "exercises": 1,
+      "notes": []
+    },
+    {
+      "page": 73,
+      "reviewed": true,
+      "words": 44,
+      "exercises": 1,
+      "notes": []
+    },
+    {
+      "page": 74,
+      "reviewed": true,
+      "words": 49,
+      "exercises": 2,
+      "notes": []
+    },
+    {
+      "page": 75,
+      "reviewed": true,
+      "words": 48,
+      "exercises": 2,
+      "notes": []
+    },
+    {
+      "page": 76,
+      "reviewed": true,
+      "words": 61,
+      "exercises": 2,
+      "notes": [
+        "Asl sahifa vizual o‘qildi. So‘z qutilari qo‘lda ko‘rilgan satr chegaralari bo‘yicha taxminiy ajratilgan; ayrim satr ichidagi mikrochegaralar brauzerda nozik tekshiruvni talab qiladi."
+      ]
+    },
+    {
+      "page": 77,
+      "reviewed": true,
+      "words": 41,
+      "exercises": 2,
+      "notes": [
+        "Asl sahifa vizual o‘qildi. So‘z qutilari qo‘lda ko‘rilgan satr chegaralari bo‘yicha taxminiy ajratilgan; ayrim satr ichidagi mikrochegaralar brauzerda nozik tekshiruvni talab qiladi."
+      ]
+    },
+    {
+      "page": 78,
+      "reviewed": true,
+      "words": 61,
+      "exercises": 1,
+      "notes": [
+        "Asl sahifa vizual o‘qildi. So‘z qutilari qo‘lda ko‘rilgan satr chegaralari bo‘yicha taxminiy ajratilgan; ayrim satr ichidagi mikrochegaralar brauzerda nozik tekshiruvni talab qiladi."
+      ]
+    },
+    {
+      "page": 79,
+      "reviewed": true,
+      "words": 37,
+      "exercises": 1,
+      "notes": [
+        "Asl sahifa vizual o‘qildi. So‘z qutilari qo‘lda ko‘rilgan satr chegaralari bo‘yicha taxminiy ajratilgan; ayrim satr ichidagi mikrochegaralar brauzerda nozik tekshiruvni talab qiladi."
+      ]
+    },
+    {
+      "page": 80,
+      "reviewed": true,
+      "words": 42,
+      "exercises": 1,
+      "notes": [
+        "Asl sahifa vizual o‘qildi. So‘z qutilari qo‘lda ko‘rilgan satr chegaralari bo‘yicha taxminiy ajratilgan; ayrim satr ichidagi mikrochegaralar brauzerda nozik tekshiruvni talab qiladi."
+      ]
+    },
+    {
+      "page": 81,
+      "reviewed": true,
+      "words": 47,
+      "exercises": 2,
+      "notes": [
+        "Asl sahifa vizual o‘qildi. So‘z qutilari qo‘lda ko‘rilgan satr chegaralari bo‘yicha taxminiy ajratilgan; ayrim satr ichidagi mikrochegaralar brauzerda nozik tekshiruvni talab qiladi."
+      ]
+    },
+    {
+      "page": 82,
+      "reviewed": true,
+      "words": 57,
+      "exercises": 2,
+      "notes": [
+        "Asl sahifa vizual o‘qildi. So‘z qutilari qo‘lda ko‘rilgan satr chegaralari bo‘yicha taxminiy ajratilgan; ayrim satr ichidagi mikrochegaralar brauzerda nozik tekshiruvni talab qiladi."
+      ]
+    },
+    {
+      "page": 83,
+      "reviewed": true,
+      "words": 47,
+      "exercises": 2,
+      "notes": [
+        "Bo‘lak juftlari chapdan-o‘ngga birlashtirilmaydi: butun so‘z kartochkalarini erkin bog‘lash va yakuniy javobga yozish talab qilinadi; kalitlarni ota agent qayta solishtirsin.",
+        "Asl sahifa vizual o‘qildi. So‘z qutilari qo‘lda ko‘rilgan satr chegaralari bo‘yicha taxminiy ajratilgan; ayrim satr ichidagi mikrochegaralar brauzerda nozik tekshiruvni talab qiladi."
+      ]
+    },
+    {
+      "page": 84,
+      "reviewed": true,
+      "words": 49,
+      "exercises": 1,
+      "notes": [
+        "Asl sahifa vizual o‘qildi. So‘z qutilari qo‘lda ko‘rilgan satr chegaralari bo‘yicha taxminiy ajratilgan; ayrim satr ichidagi mikrochegaralar brauzerda nozik tekshiruvni talab qiladi."
+      ]
+    },
+    {
+      "page": 85,
+      "reviewed": true,
+      "words": 52,
+      "exercises": 2,
+      "notes": [
+        "Asl sahifa vizual o‘qildi. So‘z qutilari qo‘lda ko‘rilgan satr chegaralari bo‘yicha taxminiy ajratilgan; ayrim satr ichidagi mikrochegaralar brauzerda nozik tekshiruvni talab qiladi."
+      ]
+    },
+    {
+      "page": 86,
+      "reviewed": true,
+      "words": 18,
+      "exercises": 0,
+      "notes": [
+        "Asl sahifa vizual o‘qildi. So‘z qutilari qo‘lda ko‘rilgan satr chegaralari bo‘yicha taxminiy ajratilgan; ayrim satr ichidagi mikrochegaralar brauzerda nozik tekshiruvni talab qiladi."
+      ]
+    },
+    {
+      "page": 87,
+      "reviewed": true,
+      "words": 53,
+      "exercises": 1,
+      "notes": [
+        "O‘rta 5 javob: أبيض،أحمر،خضراء،صفراء،أزرق. Pastdagi mevalar rangi ochiq javob; rasm ustini yopadigan slot emas, rasm OSTIDAGI chiziq.",
+        "Asl sahifa vizual o‘qildi. So‘z qutilari qo‘lda ko‘rilgan satr chegaralari bo‘yicha taxminiy ajratilgan; ayrim satr ichidagi mikrochegaralar brauzerda nozik tekshiruvni talab qiladi."
+      ]
+    },
+    {
+      "page": 88,
+      "reviewed": true,
+      "words": 61,
+      "exercises": 1,
+      "notes": [
+        "Asl sahifa vizual o‘qildi. So‘z qutilari qo‘lda ko‘rilgan satr chegaralari bo‘yicha taxminiy ajratilgan; ayrim satr ichidagi mikrochegaralar brauzerda nozik tekshiruvni talab qiladi."
+      ]
+    },
+    {
+      "page": 89,
+      "reviewed": true,
+      "words": 75,
+      "exercises": 3,
+      "notes": [
+        "Asl sahifa vizual o‘qildi. So‘z qutilari qo‘lda ko‘rilgan satr chegaralari bo‘yicha taxminiy ajratilgan; ayrim satr ichidagi mikrochegaralar brauzerda nozik tekshiruvni talab qiladi."
+      ]
+    },
+    {
+      "page": 90,
+      "reviewed": true,
+      "words": 50,
+      "exercises": 2,
+      "notes": [
+        "Asl sahifa vizual o‘qildi. So‘z qutilari qo‘lda ko‘rilgan satr chegaralari bo‘yicha taxminiy ajratilgan; ayrim satr ichidagi mikrochegaralar brauzerda nozik tekshiruvni talab qiladi."
+      ]
+    },
+    {
+      "page": 91,
+      "reviewed": true,
+      "words": 66,
+      "exercises": 2,
+      "notes": [
+        "Asl sahifa vizual o‘qildi. So‘z qutilari qo‘lda ko‘rilgan satr chegaralari bo‘yicha taxminiy ajratilgan; ayrim satr ichidagi mikrochegaralar brauzerda nozik tekshiruvni talab qiladi."
+      ]
+    },
+    {
+      "page": 92,
+      "reviewed": true,
+      "words": 43,
+      "exercises": 1,
+      "notes": [
+        "Pastdagi javob harflari: م،م،ل،ل،م،م،ل،ل. Qisman yozilgan so‘z tarjimasiga to‘liq so‘z ma’nosini qo‘shib yubormaslik kerak.",
+        "Asl sahifa vizual o‘qildi. So‘z qutilari qo‘lda ko‘rilgan satr chegaralari bo‘yicha taxminiy ajratilgan; ayrim satr ichidagi mikrochegaralar brauzerda nozik tekshiruvni talab qiladi."
+      ]
+    },
+    {
+      "page": 93,
+      "reviewed": true,
+      "words": 41,
+      "exercises": 2,
+      "notes": [
+        "Asl sahifa vizual o‘qildi. So‘z qutilari qo‘lda ko‘rilgan satr chegaralari bo‘yicha taxminiy ajratilgan; ayrim satr ichidagi mikrochegaralar brauzerda nozik tekshiruvni talab qiladi."
+      ]
+    },
+    {
+      "page": 94,
+      "reviewed": true,
+      "words": 53,
+      "exercises": 2,
+      "notes": [
+        "Asl sahifa vizual o‘qildi. So‘z qutilari qo‘lda ko‘rilgan satr chegaralari bo‘yicha taxminiy ajratilgan; ayrim satr ichidagi mikrochegaralar brauzerda nozik tekshiruvni talab qiladi."
+      ]
+    },
+    {
+      "page": 95,
+      "reviewed": true,
+      "words": 43,
+      "exercises": 2,
+      "notes": [
+        "Asl sahifa vizual o‘qildi. So‘z qutilari qo‘lda ko‘rilgan satr chegaralari bo‘yicha taxminiy ajratilgan; ayrim satr ichidagi mikrochegaralar brauzerda nozik tekshiruvni talab qiladi."
+      ]
+    },
+    {
+      "page": 96,
+      "reviewed": true,
+      "words": 131,
+      "exercises": 1,
+      "notes": [
+        "Shamsiy ro‘yxatda8ta, qamariy9ta. Katta qoida panelining barcha satrlari va harf ro‘yxatlari o‘qildi."
+      ]
+    },
+    {
+      "page": 97,
+      "reviewed": true,
+      "words": 70,
+      "exercises": 2,
+      "notes": []
+    },
+    {
+      "page": 98,
+      "reviewed": true,
+      "words": 47,
+      "exercises": 3,
+      "notes": [
+        "Ikkinchi boshlanish bo‘lagi وُجُـ va to‘rtinchi tugash وهٌ ulanib وُجُوهٌ bo‘ladi; ikki bo‘lakni bitta to‘liq so‘z deb ko‘rsatmaslik kerak."
+      ]
+    },
+    {
+      "page": 99,
+      "reviewed": true,
+      "words": 45,
+      "exercises": 2,
+      "notes": []
+    },
+    {
+      "page": 100,
+      "reviewed": true,
+      "words": 41,
+      "exercises": 2,
+      "notes": []
+    },
+    {
+      "page": 101,
+      "reviewed": true,
+      "words": 78,
+      "exercises": 2,
+      "notes": []
+    },
+    {
+      "page": 102,
+      "reviewed": true,
+      "words": 64,
+      "exercises": 1,
+      "notes": []
+    },
+    {
+      "page": 103,
+      "reviewed": true,
+      "words": 52,
+      "exercises": 0,
+      "notes": []
+    },
+    {
+      "page": 104,
+      "reviewed": true,
+      "words": 50,
+      "exercises": 3,
+      "notes": []
+    },
+    {
+      "page": 105,
+      "reviewed": true,
+      "words": 49,
+      "exercises": 2,
+      "notes": [
+        "Kalendar rasmining ichidagi juda mayda arabcha oy/jadval yozuvlarining hammasini aniq o‘qib bo‘lmadi; aniq o‘qilgan الثُّلَاثَاءُ va1/25raqamlari kiritildi."
+      ]
+    },
+    {
+      "page": 106,
+      "reviewed": true,
+      "words": 38,
+      "exercises": 2,
+      "notes": []
+    },
+    {
+      "page": 107,
+      "reviewed": true,
+      "words": 41,
+      "exercises": 2,
+      "notes": []
+    },
+    {
+      "page": 108,
+      "reviewed": true,
+      "words": 26,
+      "exercises": 0,
+      "notes": [
+        "Bu lug‘at/taqqoslash sahifasi; javob bo‘shlig‘i yo‘q, mashq qo‘shilmaydi."
+      ]
+    },
+    {
+      "page": 109,
+      "reviewed": true,
+      "words": 69,
+      "exercises": 3,
+      "notes": []
+    },
+    {
+      "page": 110,
+      "reviewed": true,
+      "words": 54,
+      "exercises": 1,
+      "notes": [
+        "A0da qisqa dialoglar bor; foydalanuvchi qarori bo‘yicha bu darajada sarf/nahv tugmalari chiqarilmasligi mumkin, lekin barcha dialog so‘zlari tarjimaga kiritildi."
+      ]
+    },
+    {
+      "page": 111,
+      "reviewed": true,
+      "words": 47,
+      "exercises": 0,
+      "notes": [
+        "Asosiy bosma matn,7haftakuni va12oynomi to‘liq o‘qildi. Ikki foto-kalendar ichidagi mikromatn va juda mayda jadval/yil yozuvlarining hammasini aniq o‘qib bo‘lmadi. Aniq o‘qilgan kalendar so‘zlari va sana raqamlari kiritildi."
+      ]
+    },
+    {
+      "page": 112,
+      "reviewed": true,
+      "words": 32,
+      "exercises": 1,
+      "notes": []
+    }
+  ],
+  "unreviewed": [],
+  "totalWords": 6715,
+  "totalExercises": 192
+}

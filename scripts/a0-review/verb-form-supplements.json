@@ -1,0 +1,229 @@
+{
+  "يُمْنَعُ": {
+    "past": "مَنَعَ",
+    "present": "يَمْنَعُ",
+    "command": "اِمْنَعْ",
+    "masdar": "مَنْعٌ",
+    "formsNote": "Tanlangan so‘z majhul nisbatda. Quyida fe’lning asosiy ma’lum nisbatdagi moziy, muzori’, amr va masdar shakllari berilgan; majhul amr shakli ko‘rsatilmaydi."
+  },
+  "وَيَعْرِضُ": {
+    "past": "عَرَضَ",
+    "present": "يَعْرِضُ",
+    "command": "اِعْرِضْ",
+    "masdar": "عَرْضٌ"
+  },
+  "تَمْتَازُ": {
+    "past": "اِمْتَازَ",
+    "present": "يَمْتَازُ",
+    "command": "اِمْتَزْ",
+    "masdar": "اِمْتِيَازٌ"
+  },
+  "تَتَمَيَّزُ": {
+    "past": "تَمَيَّزَ",
+    "present": "يَتَمَيَّزُ",
+    "command": "تَمَيَّزْ",
+    "masdar": "تَمَيُّزٌ"
+  },
+  "فَجَاءَتْ": {
+    "past": "جَاءَ",
+    "present": "يَجِيءُ",
+    "command": "جِئْ",
+    "masdar": "مَجِيءٌ"
+  },
+  "وَتَعْمَلُ": {
+    "past": "عَمِلَ",
+    "present": "يَعْمَلُ",
+    "command": "اِعْمَلْ",
+    "masdar": "عَمَلٌ"
+  },
+  "وَتُقَدِّمُ": {
+    "past": "قَدَّمَ",
+    "present": "يُقَدِّمُ",
+    "command": "قَدِّمْ",
+    "masdar": "تَقْدِيمٌ"
+  },
+  "وَتَقُومُ": {
+    "past": "قَامَ",
+    "present": "يَقُومُ",
+    "command": "قُمْ",
+    "masdar": "قِيَامٌ"
+  },
+  "اشْتَمَلَتِ": {
+    "past": "اِشْتَمَلَ",
+    "present": "يَشْتَمِلُ",
+    "command": "اِشْتَمِلْ",
+    "masdar": "اِشْتِمَالٌ"
+  },
+  "وَتَهْدِفُ": {
+    "past": "هَدَفَ",
+    "present": "يَهْدِفُ",
+    "command": "اِهْدِفْ",
+    "masdar": "هَدْفٌ"
+  },
+  "يَعْكِسُ": {
+    "past": "عَكَسَ",
+    "present": "يَعْكِسُ",
+    "command": "اِعْكِسْ",
+    "masdar": "عَكْسٌ"
+  },
+  "أَضَافَ": {
+    "past": "أَضَافَ",
+    "present": "يُضِيفُ",
+    "command": "أَضِفْ",
+    "masdar": "إِضَافَةٌ"
+  },
+  "كَانَتِ": {
+    "past": "كَانَ",
+    "present": "يَكُونُ",
+    "command": "كُنْ",
+    "masdar": "كَوْنٌ"
+  },
+  "وَيَبْدَأُ": {
+    "past": "بَدَأَ",
+    "present": "يَبْدَأُ",
+    "command": "اِبْدَأْ",
+    "masdar": "بَدْءٌ"
+  },
+  "سَعَتْ": {
+    "past": "سَعَى",
+    "present": "يَسْعَى",
+    "command": "اِسْعَ",
+    "masdar": "سَعْيٌ"
+  },
+  "وَيَهْدِفُ": {
+    "past": "هَدَفَ",
+    "present": "يَهْدِفُ",
+    "command": "اِهْدِفْ",
+    "masdar": "هَدْفٌ"
+  },
+  "تُقَدَّرُ": {
+    "past": "قَدَّرَ",
+    "present": "يُقَدِّرُ",
+    "command": "قَدِّرْ",
+    "masdar": "تَقْدِيرٌ",
+    "formsNote": "Tanlangan so‘z majhul nisbatda. Quyida fe’lning asosiy ma’lum nisbatdagi moziy, muzori’, amr va masdar shakllari berilgan; majhul amr shakli ko‘rsatilmaydi."
+  },
+  "فَاشْتَمَلَ": {
+    "past": "اِشْتَمَلَ",
+    "present": "يَشْتَمِلُ",
+    "command": "اِشْتَمِلْ",
+    "masdar": "اِشْتِمَالٌ"
+  },
+  "يَكْثُرُ": {
+    "past": "كَثُرَ",
+    "present": "يَكْثُرُ",
+    "command": "اُكْثُرْ",
+    "masdar": "كَثْرَةٌ"
+  },
+  "وَتَمَّ": {
+    "past": "تَمَّ",
+    "present": "يَتِمُّ",
+    "command": "تِمَّ",
+    "masdar": "تَمَامٌ"
+  },
+  "فَدَى": {
+    "past": "فَدَى",
+    "present": "يَفْدِي",
+    "command": "اِفْدِ",
+    "masdar": "فِدَاءٌ"
+  },
+  "ضَرَبَ": {
+    "past": "ضَرَبَ",
+    "present": "يَضْرِبُ",
+    "command": "اِضْرِبْ",
+    "masdar": "ضَرْبٌ"
+  },
+  "صَبَّ": {
+    "past": "صَبَّ",
+    "present": "يَصُبُّ",
+    "command": "صُبَّ",
+    "masdar": "صَبٌّ"
+  },
+  "سَبَّ": {
+    "past": "سَبَّ",
+    "present": "يَسُبُّ",
+    "command": "سُبَّ",
+    "masdar": "سَبٌّ"
+  },
+  "مَصَّ": {
+    "past": "مَصَّ",
+    "present": "يَمُصُّ",
+    "command": "مُصَّ",
+    "masdar": "مَصٌّ"
+  },
+  "مَسَّ": {
+    "past": "مَسَّ",
+    "present": "يَمَسُّ",
+    "command": "مَسَّ",
+    "masdar": "مَسٌّ"
+  },
+  "فَحَصَ": {
+    "past": "فَحَصَ",
+    "present": "يَفْحَصُ",
+    "command": "اِفْحَصْ",
+    "masdar": "فَحْصٌ"
+  },
+  "ضَلَّ": {
+    "past": "ضَلَّ",
+    "present": "يَضِلُّ",
+    "command": "ضِلَّ",
+    "masdar": "ضَلَالٌ"
+  },
+  "ظَلَّ": {
+    "past": "ظَلَّ",
+    "present": "يَظَلُّ",
+    "command": "ظَلَّ",
+    "masdar": "ظُلُولٌ"
+  },
+  "أَمْضَى": {
+    "past": "أَمْضَى",
+    "present": "يُمْضِي",
+    "command": "أَمْضِ",
+    "masdar": "إِمْضَاءٌ"
+  },
+  "حَضَّ": {
+    "past": "حَضَّ",
+    "present": "يَحُضُّ",
+    "command": "حُضَّ",
+    "masdar": "حَضٌّ"
+  },
+  "حَطَّ": {
+    "past": "حَطَّ",
+    "present": "يَحُطُّ",
+    "command": "حُطَّ",
+    "masdar": "حَطٌّ"
+  },
+  "فَاضَ": {
+    "past": "فَاضَ",
+    "present": "يَفِيضُ",
+    "command": "فِضْ",
+    "masdar": "فَيْضٌ"
+  },
+  "فَاظَ": {
+    "past": "فَاظَ",
+    "present": "يَفِيظُ",
+    "command": "فِظْ",
+    "masdar": "فَيْظٌ"
+  },
+  "تُكْتَبُ": {
+    "past": "كَتَبَ",
+    "present": "يَكْتُبُ",
+    "command": "اُكْتُبْ",
+    "masdar": "كِتَابَةٌ",
+    "formsNote": "Tanlangan so‘z majhul nisbatda. Quyida fe’lning asosiy ma’lum nisbatdagi moziy, muzori’, amr va masdar shakllari berilgan; majhul amr shakli ko‘rsatilmaydi."
+  },
+  "تُنْطَقُ": {
+    "past": "نَطَقَ",
+    "present": "يَنْطِقُ",
+    "command": "اِنْطِقْ",
+    "masdar": "نُطْقٌ",
+    "formsNote": "Tanlangan so‘z majhul nisbatda. Quyida fe’lning asosiy ma’lum nisbatdagi moziy, muzori’, amr va masdar shakllari berilgan; majhul amr shakli ko‘rsatilmaydi."
+  },
+  "وَتُنْطَقُ": {
+    "past": "نَطَقَ",
+    "present": "يَنْطِقُ",
+    "command": "اِنْطِقْ",
+    "masdar": "نُطْقٌ",
+    "formsNote": "Tanlangan so‘z majhul nisbatda. Quyida fe’lning asosiy ma’lum nisbatdagi moziy, muzori’, amr va masdar shakllari berilgan; majhul amr shakli ko‘rsatilmaydi."
+  }
+}

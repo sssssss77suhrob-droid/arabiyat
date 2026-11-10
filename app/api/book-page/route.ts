@@ -1,0 +1,3 @@
+import pages from '../../../lib/a0/worksheets.json';import {json,getCatalog,identity,isAdmin} from '../../../lib/server';
+export const dynamic='force-dynamic';
+export async function GET(req:Request){const url=new URL(req.url),id=url.searchParams.get('bookId'),page=Number(url.searchParams.get('page'));if(!Number.isInteger(page)||page<1||page>2000)return json({error:'Sahifa topilmadi.'},404);const user=await identity(),b=(await getCatalog(!!user&&isAdmin(user.userId))).find(b=>b.id===id),p=b?.units.flatMap(u=>u.pages).find(p=>p.number===page);if(!b||!p)return json({error:'Kitob yoki sahifa ochilmagan.'},404);return json(b.id==='manhaj-a0'?pages.find(p=>p.page===page)??{page,words:[],exercises:[]}:{page,words:p.wordTargets??[],exercises:[]});}
